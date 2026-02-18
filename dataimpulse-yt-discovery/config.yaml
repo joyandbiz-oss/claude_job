@@ -1,0 +1,398 @@
+# ═══════════════════════════════════════════════════════════════
+# DataImpulse YouTube Influencer Discovery V3 — Configuration
+# ═══════════════════════════════════════════════════════════════
+
+proxy:
+  # DataImpulse residential proxy credentials
+  # The script reads from env var DI_PROXY_URL, but here's the default for convenience
+  env_var: DI_PROXY_URL
+  default_url: "http://c607101cbc744679901d_country-us:71addcef09210b43@gw.dataimpulse.com:823"
+  # Proxy rotation: change _country-us suffix to target different geos if needed
+  # Available: _country-us, _country-gb, _country-de, _country-fr, _country-es
+  fallback_direct: true        # Try direct first, proxy on 403/429
+  ssl_verify: true             # Only disable as last resort, log warning
+
+rate_limit:
+  requests_per_second: 1.5
+  retry_max: 3
+  retry_base_wait: 2          # seconds, exponential backoff
+
+discovery:
+  pages_per_query: 4           # continuation pages per search query
+  video_results_per_query: 50  # video search results to scan for authors
+  min_subs_discovery: 300      # skip channels with fewer subs in discovery
+
+# ── Search queries by tier ──────────────────────────────────
+queries:
+  # Tier 1: Direct proxy/scraping content (HIGH PRIORITY)
+  tier1_core:
+    - web scraping tutorial
+    - web scraping python
+    - web scraping javascript
+    - web scraper tutorial
+    - residential proxy tutorial
+    - proxy setup tutorial
+    - data scraping tools
+    - scraping automation
+    - web crawling tutorial
+    - no code web scraping
+    - scrape website python
+    - web scraping proxies
+    - proxy for web scraping
+    - web scraping api
+    - anti-detect browser tutorial
+    - antidetect browser setup
+    - bright data review
+    - oxylabs review
+    - smartproxy review
+    - scraperapi review
+    - scraperapi tutorial
+    - iproyal review
+    - webshare proxy review
+    - proxy provider review
+    - best residential proxies
+
+  # Tier 2: Use case queries (from our SEO semantic core)
+  tier2_use_cases:
+    - telegram proxy tutorial
+    - proxy for telegram setup
+    - serp scraper api tutorial
+    - rank tracker proxies tutorial
+    - proxies for SEO
+    - google scraping proxies
+    - ad verification proxy
+    - proxies for ad verification
+    - proxies for brand protection
+    - proxies for price monitoring
+    - price monitoring ecommerce tools
+    - competitor price tracking tools
+    - sneaker proxies tutorial
+    - sneaker bot tutorial
+    - sneaker bot proxy setup
+    - residential sneaker proxies
+    - proxy for discord setup
+    - mobile proxy tutorial
+    - rotating proxy tutorial
+    - datacenter vs residential proxies
+
+  # Tier 3: Adjacent tech audiences
+  tier3_adjacent:
+    - puppeteer web scraping
+    - puppeteer browser automation
+    - playwright web scraping tutorial
+    - playwright browser automation
+    - selenium web scraping advanced
+    - n8n automation tutorial
+    - make.com automation tutorial
+    - browser automation scraping
+    - instagram automation bot
+    - telegram bot tutorial python
+    - tiktok automation tools
+    - social media automation tools
+    - OSINT tools tutorial
+    - cybersecurity reconnaissance tools
+    - penetration testing tools
+    - python automation tutorial
+    - data engineering tutorial
+    - ETL pipeline tutorial
+    - api scraping tutorial
+
+  # Tier 4: Non-English markets
+  tier4_non_english:
+    - web scraping tutorial español
+    - web scraping python español
+    - automatización web python
+    - web scraping tutorial português
+    - automação web python
+    - web scraping Python deutsch
+    - web scraping tutoriel français
+    - scraping données python
+    - web scraping tutorial hindi
+
+  # Tier 5: Spanish-language queries (LATAM + Spain — large dev community)
+  tier5_spanish:
+    - web scraping python tutorial español
+    - automatización web python
+    - como hacer web scraping
+    - extraer datos web python
+    - proxy residencial tutorial
+    - selenium web scraping español
+    - bot automatización redes sociales
+    - herramientas scraping datos
+    - n8n automatización español
+    - puppeteer scraping español
+    - como scrapear páginas web
+    - automatizar tareas python
+
+# ── Seed channels (top 50 from master list + best V2 discoveries) ────
+# These are used for expansion: find related/similar creators
+seed_channels:
+  # === TOP 50 from master influencer list (by AI relevance score) ===
+  - "@simonscrapes"          # Simon Scrapes, 36.3K, score 10 — IDEAL FIT
+  - "@Octoparsewebscraping"  # Octoparse, 12.4K, score 10 — scraping tool
+  - "@oxylabs"               # Oxylabs, 9.1K, score 10 — competitor, study strategy
+  - "@n8n-io"                # N8n, 189K, score 9 — automation platform
+  - "@Fireship"              # fireship.io, 4.1M, score 9 — top dev channel
+  - "@NeuralNine"            # NeuralNine, 441K, score 8 — Python/AI
+  - "@PythonSimplified"      # Python Simplified, 277K, score 8
+  - "@THEECOMKING"           # The Ecom King, 594K, score 8 — ecommerce
+  - "@hasanaboulhasan"       # Hasan Aboul Hasan, 1M, score 8 — AI automation
+  - "@syntaxfm"              # Syntax, 451K, score 8 — web dev podcast
+  - "@harkirat1"             # Harkirat Singh, 556K, score 8
+  - "@davidbombal"           # David Bombal, 3M, score 8 — cybersecurity
+  - "@ThioJoe"               # ThioJoe, 3.1M, score 8 — tech tools
+  - "@JoeColantonio"         # Joe Colantonio, 453K, score 7 — test automation
+  - "@Snovio"                # Snovio, 16.6K, score 7 — sales automation
+  - "@TechWithTim"           # Tech With Tim, 1.9M, score 7
+  - "@CuttingEdgeSchool"     # The Cutting Edge School, 679K, score 7
+  - "@AppFind"               # AppFind, 6K, score 7
+  - "@ClicksDontLie"         # Clicks Don't Lie, 2.1K, score 7 — ecom data
+  - "@batuhandurmaz-seo"     # Batuhan Durmaz, 9.5K, score 7 — SEO
+  - "@zinhoautomates"        # Zinho Automates, 36.5K, score 7
+  - "@CodeWithHarry"         # CodeWithHarry, 9.3M, score 7
+  - "@mehulmpt"              # Mehul Mohan, 454K, score 7
+  - "@BuildersCentral"       # Builders Central, 159K, score 7 — no-code
+  - "@LuisUrrutia"           # Luis Urrutia, 1.8M, score 7
+  - "@GreatStack"            # GreatStack, 1.2M, score 7
+  - "@ForrestKnight"         # ForrestKnight, 682K, score 7
+  - "@DanielDavidson"        # Daniel Davidson, 443K, score 7
+  - "@mreflow"               # Matt Wolfe, 883K, score 7 — AI tools
+  - "@decodingyt"            # Adarsh Kashyap, 968K, score 7
+  - "@LastMomentTuitions"    # Last Moment Tuitions, 1.3M, score 7
+  - "@DesignCourse"          # DesignCourse, 1.2M, score 7
+  - "@100xEngineers"         # 100xEngineers, 225K, score 7
+  - "@Tooltester"            # Tooltester, 32.4K, score 7 — tool reviews
+  - "@EddyBallesteros"       # Eddy Ballesteros, 14.1K, score 7
+  - "@meetdavidalex"         # David Alex, 19.8K, score 7
+  - "@IshanSharma"           # Ishan Sharma, 2M, score 7
+  - "@KunalKushwaha"         # Kunal Kushwaha, 861K, score 7
+  - "@Codevolution"          # Codevolution, 747K, score 7
+  - "@NoCodeMBA"             # No Code MBA, 36K, score 7 — no-code
+  - "@MikeyNoCode"           # Mikey No Code, 85K, score 7
+  - "@mostafanouman"         # Mostafa, 88.4K, score 7 — ecommerce
+  - "@codebasics"            # Codebasics, 1.4M, score 6
+  - "@RoboNuggets"           # Robonuggets, 97.9K, score 6
+  - "@jessecunninghamv"      # Jesse Cunningham, 109K, score 6
+  # === Best V2-discovered creators (new finds, verified relevant) ===
+  - "@SaadRashid"            # YouTube Automation, 161K, V2 score 9
+  - "@SofloSneakers"         # Sneaker reselling, 26.3K, V2 score 8
+  - "@ibrahimmalick"         # Digital Tutor, 25.7K, V2 score 8 — competitor reviews
+  - "@CodeAvecJonathan"      # French dev, 169K, V2 score 7 — scraping content
+  - "@nicksaraev"            # Nick Saraev, 269K — N8N/AI automation
+
+# ── Keywords for relevance filtering ─────────────────────────
+keywords:
+  # HARD: If >=1 found -> channel passes relevance
+  hard:
+    - web scraping
+    - web scraper
+    - scraping
+    - scrape
+    - proxy
+    - proxies
+    - residential proxy
+    - data extraction
+    - data scraping
+    - web crawl
+    - web crawler
+    - antidetect
+    - anti-detect
+    - captcha solving
+    - captcha bypass
+    - bright data
+    - oxylabs
+    - smartproxy
+    - scraperapi
+    - scraping api
+    - ad verification
+    - serp tracking
+    - serp scraper
+    - rank tracker
+    - price monitoring
+    - brand protection
+    - sneaker bot
+    - sneaker proxy
+    - sneaker cop
+
+  # SOFT: Need >=2 soft + >=1 use_case_hard in video titles to pass
+  soft:
+    - automation
+    - automate
+    - bot
+    - python
+    - selenium
+    - playwright
+    - puppeteer
+    - node.js
+    - n8n
+    - make.com
+    - zapier
+    - no-code
+    - nocode
+    - api
+    - rest api
+    - data engineer
+    - etl
+    - pipeline
+    - osint
+    - reconnaissance
+    - cybersecurity
+    - ethical hacking
+    - penetration test
+    - pentest
+    - telegram bot
+    - instagram automation
+    - tiktok automation
+    - browser automation
+    - headless browser
+    - e-commerce
+    - ecommerce
+
+  # USE_CASE_HARD: Required in video titles when relying on soft keywords
+  use_case_hard:
+    - scraping
+    - scrape
+    - proxy
+    - captcha
+    - cloudflare
+    - serp
+    - bot detection
+    - anti-bot
+    - residential ip
+    - rotating ip
+    - web data
+
+  # NEGATIVE: Downrank/filter clearly irrelevant channels
+  negative:
+    - gaming
+    - gameplay
+    - fortnite
+    - minecraft
+    - roblox
+    - call of duty
+    - valorant
+    - gta
+    - warrior cats
+    - music video
+    - cooking
+    - recipe
+    - fitness
+    - workout
+    - guitar
+    - ukulele
+    - piano lesson
+    - vlog
+    - prank
+    - phone repair
+    - unboxing
+    - reaction video
+    - mukbang
+    - asmr
+    - 3d modeling
+    - 3d printing
+    - virtual reality
+    - diy craft
+    - puppet making
+    - dragon puppet
+    - knitting
+    - crochet
+
+# ── Competitor detection ─────────────────────────────────────
+competitor_substrings:
+  - bright data
+  - brightdata
+  - oxylabs
+  - smartproxy
+  - decodo
+  - iproyal
+  - ip royal
+  - netnut
+  - webshare
+  - scraperapi
+  - luminati
+  - geosurf
+  - soax
+  - rayobyte
+  - pyproxy
+  - ip2world
+  - lunaproxy
+  - 922proxy
+  - 922 s5
+  - 711proxy
+  - lightningprox
+  - proxyempire
+  - proxy-cheap
+  - proxycheap
+  - proxy4u
+  - swiftproxy
+  - resiprox
+  - mobilehop
+  - fleetproxy
+  - piaproxy
+  - starvpn
+  - 9proxy
+  - abcproxy
+  - okkproxy
+  - proxylink
+  - proxywing
+  - yiluproxy
+  - xproxy
+  - dataimpulse
+
+# ── Company/tool detection ───────────────────────────────────
+known_company_names:
+  - Apify
+  - ParseHub
+  - Make
+  - Playwright
+  - ScrapeOps
+  - ScraperAPI
+  - SerpApi
+  - Crawlbase
+  - BrightLocal
+  - Scrapeless
+  - Kameleo
+  - CapSolver
+  - Screaming Frog
+  - vpnMentor
+  - AutoDS
+  - BuildShip
+  - Octoparse
+  - Robomotion
+  - Pixalate
+  - DataForSEO
+  - RoxyBrowser
+  - Surfsky
+  - Proxidize
+  - Omex Data
+  - Web Scraper
+
+company_description_signals:
+  - our platform
+  - our tool
+  - we offer
+  - we provide
+  - our api
+  - sign up
+  - try for free
+  - get started
+  - free trial
+  - our service
+  - our solution
+  - our software
+  - download our
+
+company_signal_threshold: 2  # Need >=2 signals to classify as COMPANY
+
+# ── Scoring thresholds ───────────────────────────────────────
+thresholds:
+  min_subs: 500              # Minimum subscribers for enrichment
+  min_score_outreach: 30     # Minimum score to include in outreach list
+  max_recency_days: 180      # Skip channels inactive > 6 months
+  max_shorts_share: 0.8      # Skip channels that are >80% Shorts
+  min_median_views: 100      # Skip channels with very low views
+
+# ── Export settings ──────────────────────────────────────────
+export:
+  output_dir: "./output"
+  timestamp_files: true      # Append date to filenames
