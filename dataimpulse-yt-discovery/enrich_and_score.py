@@ -29,6 +29,7 @@ from lib.db import (
     get_connection, init_schema, get_pending_channels,
     upsert_enriched, upsert_video, update_channel_enrichment_status,
     get_channel_count, get_enriched_count, get_discovery_stats,
+    backup_db, restore_latest_backup,
 )
 from lib.youtube_fetch import YouTubeFetcher
 from lib.youtube_parse import (
@@ -423,8 +424,16 @@ def main():
     )
 
     cfg = load_config(args.config)
+
+    # Auto-restore from backup if db is missing/empty
+    restore_latest_backup(args.db)
+
     db_conn = get_connection(args.db)
     init_schema(db_conn)
+
+    # Backup existing data before starting enrichment
+    backup_db(args.db, label="pre_enrich")
+
     fetcher = YouTubeFetcher(cfg, db_conn)
 
     thresholds = cfg.get("thresholds", {})
@@ -558,6 +567,10 @@ def main():
                   f"Competitors: {competitor_count} | Rejected: {rejected_count} | "
                   f"Errors: {error_count}\n")
 
+        # Periodic backup every 500 channels
+        if (idx + 1) % 500 == 0:
+            backup_db(args.db, label=f"enrich_{idx+1}")
+
     # ── Summary ──────────────────────────────────────────────
     stats = fetcher.get_stats()
 
@@ -591,6 +604,9 @@ def main():
 
     print(f"\n  Next step: python export_lists.py --config {args.config}")
     print(f"{'='*70}")
+
+    # Final backup after enrichment completes
+    backup_db(args.db, label="post_enrich")
 
     db_conn.close()
 

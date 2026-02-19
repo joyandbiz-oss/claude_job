@@ -4,12 +4,15 @@ All intermediate storage lives in a single discovery.db file.
 """
 
 import logging
+import os
+import shutil
 import sqlite3
 from datetime import datetime
 
 log = logging.getLogger(__name__)
 
 DB_PATH = "discovery.db"
+BACKUP_DIR = "backups"
 
 SCHEMA_SQL = """
 CREATE TABLE IF NOT EXISTS channels (
@@ -344,3 +347,82 @@ def get_discovery_stats(conn: sqlite3.Connection) -> dict:
         "pending": pending,
         "classifications": classifications,
     }
+
+
+# ── Backup / restore ─────────────────────────────────────────
+
+
+def backup_db(db_path: str | None = None, label: str = "auto") -> str | None:
+    """
+    Create a timestamped backup copy of the database file.
+    Returns the backup path, or None if source db doesn't exist / is empty.
+    """
+    path = db_path or DB_PATH
+    if not os.path.exists(path) or os.path.getsize(path) == 0:
+        log.info("No database to back up (missing or empty)")
+        return None
+
+    os.makedirs(BACKUP_DIR, exist_ok=True)
+    ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    basename = os.path.splitext(os.path.basename(path))[0]
+    backup_name = f"{basename}_{label}_{ts}.db"
+    backup_path = os.path.join(BACKUP_DIR, backup_name)
+
+    # Use SQLite's online backup API for a safe, consistent copy
+    src = sqlite3.connect(path)
+    dst = sqlite3.connect(backup_path)
+    src.backup(dst)
+    dst.close()
+    src.close()
+
+    size_mb = os.path.getsize(backup_path) / (1024 * 1024)
+    log.info(f"Backup saved: {backup_path} ({size_mb:.1f} MB)")
+
+    # Keep only the last 10 backups to avoid disk bloat
+    _prune_old_backups(basename)
+    return backup_path
+
+
+def _prune_old_backups(basename: str, keep: int = 10) -> None:
+    """Remove oldest backups beyond the keep limit."""
+    if not os.path.isdir(BACKUP_DIR):
+        return
+    files = sorted(
+        [f for f in os.listdir(BACKUP_DIR) if f.startswith(basename) and f.endswith(".db")],
+        key=lambda f: os.path.getmtime(os.path.join(BACKUP_DIR, f)),
+        reverse=True,
+    )
+    for old in files[keep:]:
+        os.remove(os.path.join(BACKUP_DIR, old))
+        log.info(f"Pruned old backup: {old}")
+
+
+def restore_latest_backup(db_path: str | None = None) -> bool:
+    """
+    If the main db file is missing or empty, restore from the latest backup.
+    Returns True if a restore happened.
+    """
+    path = db_path or DB_PATH
+    if os.path.exists(path) and os.path.getsize(path) > 0:
+        return False  # DB is fine, nothing to restore
+
+    if not os.path.isdir(BACKUP_DIR):
+        return False
+
+    basename = os.path.splitext(os.path.basename(path))[0]
+    files = sorted(
+        [f for f in os.listdir(BACKUP_DIR) if f.startswith(basename) and f.endswith(".db")],
+        key=lambda f: os.path.getmtime(os.path.join(BACKUP_DIR, f)),
+        reverse=True,
+    )
+    if not files:
+        return False
+
+    latest = os.path.join(BACKUP_DIR, files[0])
+    if os.path.getsize(latest) == 0:
+        return False
+
+    shutil.copy2(latest, path)
+    size_mb = os.path.getsize(path) / (1024 * 1024)
+    log.warning(f"DATABASE RESTORED from backup: {latest} ({size_mb:.1f} MB)")
+    return True

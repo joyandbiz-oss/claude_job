@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
-*.pyo
 discovery.db
-output/
+discovery.db-wal
+discovery.db-shm
+backups/

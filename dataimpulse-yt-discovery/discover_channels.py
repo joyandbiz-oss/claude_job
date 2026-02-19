@@ -24,7 +24,7 @@ from urllib.parse import quote_plus
 from lib.config import load_config, get_queries_for_tier
 from lib.db import (
     get_connection, init_schema, upsert_channel, record_discovery_run,
-    is_query_completed, get_channel_count,
+    is_query_completed, get_channel_count, backup_db, restore_latest_backup,
 )
 from lib.youtube_fetch import YouTubeFetcher
 from lib.youtube_parse import (
@@ -325,9 +325,16 @@ def main():
         ok = run_self_check(cfg)
         sys.exit(0 if ok else 1)
 
+    # Auto-restore from backup if db is missing/empty
+    restore_latest_backup(args.db)
+
     # Init DB
     db_conn = get_connection(args.db)
     init_schema(db_conn)
+
+    # Backup existing data before starting
+    backup_db(args.db, label="pre_discovery")
+
     fetcher = YouTubeFetcher(cfg, db_conn)
 
     disc_cfg = cfg.get("discovery", {})
@@ -455,6 +462,9 @@ def main():
     print(f"  Proxy switches:             {stats['proxy_switches']}")
     print(f"\n  Next step: python enrich_and_score.py --config {args.config}")
     print(f"{'='*70}")
+
+    # Backup after discovery completes
+    backup_db(args.db, label="post_discovery")
 
     db_conn.close()
 

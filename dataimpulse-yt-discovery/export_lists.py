@@ -24,6 +24,7 @@ from lib.config import load_config
 from lib.db import (
     get_connection, init_schema, get_enriched_by_classification,
     get_all_enriched, get_videos_for_channel, get_discovery_stats,
+    restore_latest_backup,
 )
 
 log = logging.getLogger("export")
@@ -112,6 +113,10 @@ def main():
     )
 
     cfg = load_config(args.config)
+
+    # Auto-restore from backup if db is missing/empty
+    restore_latest_backup(args.db)
+
     db_conn = get_connection(args.db)
     init_schema(db_conn)
 
