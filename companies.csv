@@ -1,0 +1,604 @@
+company_name,domain,linkedin_url,category_norm,proxy_use_case_norm,proxy_relevance,country,company_size,source_dataset
+360mediadirect,360mediadirect.com,https://www.linkedin.com/company/360mediadirect,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,26,Apollo_targets
+Red Rhino Marketing & Advertising Agency,red-rhino.com,https://www.linkedin.com/company/red-rhino-marketing-&-advertising-agency,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,32,Apollo_targets
+WPB,wpb.co.uk,https://www.linkedin.com/company/wpb,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United Kingdom,33,Apollo_targets
+Inside Information,inside-info.com,https://www.linkedin.com/company/inside-information-inc.,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,24,Apollo_targets
+O.group GmbH,ogroup.de,https://www.linkedin.com/company/o-group-gmbh,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,Germany,35,Apollo_targets
+Brandvids Infotech Pvt Ltd,brandvids.co,https://www.linkedin.com/company/brandvids-infotech-private-limited,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,27,Apollo_targets
+Saz Services,saz.com,https://www.linkedin.com/company/saz-services-gmbh,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,Germany,28,Apollo_targets
+"Ruvixx, Inc.",ruvixx.com,https://www.linkedin.com/company/ruvixx-inc-,Other / Unknown,Needs validation,HIGH,United States,85,Apollo_targets
+Sellerdirectories,sellerdirectories.com,https://www.linkedin.com/company/sellerdirectories,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,,1-10,datarade_top200
+Opah Labs,opahlabs.com,https://www.linkedin.com/company/opah-labs,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,,1-10,datarade_top200
+PrizeLogic,prizelogic.com,https://www.linkedin.com/company/prizelogic,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,190,Apollo_targets
+"Sports Innovation Lab, part of Genius Sports",sportsilab.com,https://www.linkedin.com/company/sports-innovation-lab,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,24,Apollo_targets
+EMI Strategic Marketing,emiboston.com,https://www.linkedin.com/company/emi-strategic-marketing,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,39,Apollo_targets
+Wearebtr,btrmedia.com,https://www.linkedin.com/company/wearebtr,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,35,Apollo_targets
+Nomology,nomology.com,https://www.linkedin.com/company/nomology,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,25,Apollo_targets
+Agile Education Marketing,agile-ed.com,https://www.linkedin.com/company/agile-education-marketing,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,47,Apollo_targets
+Digintlab,digintlab.com,https://www.linkedin.com/company/digintlab,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,IT,10000+,datarade_top200
+Gain Dynamics,gaindynamics.com,https://www.linkedin.com/company/gain-dynamics,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,ES,11-50,datarade_top200
+Heydrumline,heydrumline.com,https://www.linkedin.com/company/heydrumline,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,76,Apollo_targets
+Measurable AI,measurable.ai,https://www.linkedin.com/company/measurable-ai,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,HK,11-50,datarade_top200
+Wiza,wiza.co,https://www.linkedin.com/company/wizainc,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,US,11-50,datarade_top200
+Scorri,scorri.ch,https://www.linkedin.com/company/aike-leverage-your-data,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,CH,1-10,datarade_top200
+Dappier,dappier.com,https://www.linkedin.com/company/dappier,SEO / SERP Data,SERP scraping / rank tracking,HIGH,US,1-10,datarade_top200
+Overtone,overtone.ai,https://www.linkedin.com/company/overtonetech,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,GB,1-10,datarade_top200
+Wrapped.io,wrapped.io,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,,10000+,datarade_top200
+Lead for Business,lfbbd.com,https://www.linkedin.com/company/lead-for-business,SEO / SERP Data,SERP scraping / rank tracking,HIGH,GB,1-10,datarade_top200
+Xverum,xverum.com,https://www.linkedin.com/company/xverum-group,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,US,11-50,datarade_top200
+Consumeredge,consumeredge.com,https://www.linkedin.com/company/consumeredge,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,51-200,datarade_top200
+AXOVISION,axovision.com,https://www.linkedin.com/company/axovision,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,DE,10000+,datarade_top200
+Leadbook,leadbook.com,https://www.linkedin.com/company/leadbook,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,1-10,datarade_top200
+Mcgrawnow,mcgrawnow.com,https://www.linkedin.com/company/mcgrawnow,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+BizWatch Network & ConsumerWatch Network,bizwatchnetwork.com,https://www.linkedin.com/company/business-watch-network,SEO / SERP Data,SERP scraping / rank tracking,HIGH,US,1-10,datarade_top200
+"DataRank, Inc.",datarank.com,https://www.linkedin.com/company/datarank,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,50,Apollo_targets
+PromptCloud,promptcloud.com,https://www.linkedin.com/company/promptcloud,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,51-200,datarade_top200
+Coresignal,coresignal.com,https://www.linkedin.com/company/coresignal,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+AutoScraping,autoscraping.com,https://www.linkedin.com/company/autoscraping,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Opoint,opoint.com,https://www.linkedin.com/company/opoint,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,DK,11-50,datarade_top200
+InfoTrie,infotrie.com,https://www.linkedin.com/company/infotrie,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,SG,1-10,datarade_top200
+Salutarydata,salutarydata.com,https://www.linkedin.com/company/salutarydata,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Locationscloud,locationscloud.com,https://www.linkedin.com/company/locationscloud,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,1-10,datarade_top200
+PredictHQ,predicthq.com,https://www.linkedin.com/company/predicthq,SEO / SERP Data,SERP scraping / rank tracking,HIGH,US,51-200,datarade_top200
+ScrapeLabs,scrapelabs.io,https://www.linkedin.com/company/scrapelabs,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,,1-10,datarade_top200
+Openwebninja API,openwebninja.com,https://www.linkedin.com/company/openwebninja-api,SEO / SERP Data,SERP scraping / rank tracking,HIGH,IL,1-10,datarade_top200
+Unwrangle,unwrangle.com,https://www.linkedin.com/company/unwrangle,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,IN,1-10,datarade_top200
+Envestnet | Yodlee,yodlee.com,https://www.linkedin.com/company/yodlee,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,201-500,datarade_top200
+Datamam,datamam.com,https://www.linkedin.com/company/datamamscraping,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Exellius Systems,exellius.com,https://www.linkedin.com/company/exellius-systems,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Soleadify,soleadify.com,https://www.linkedin.com/company/veridiondata,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,RO,51-200,datarade_top200
+Newscatcherapi,newscatcherapi.com,https://www.linkedin.com/company/newscatcherapi,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Techsalerator,techsalerator.com,https://www.linkedin.com/company/techsalerator,SEO / SERP Data,SERP scraping / rank tracking,HIGH,US,51-200,datarade_top200
+Crozdesk,crozdesk.com,https://www.linkedin.com/company/crozdesk,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Canada,SMB (51-200),hot_leads
+TTOBMA,ttobma.com,https://www.linkedin.com/company/ttobma,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,24,Apollo_targets
+Boomerang Commerce,boomerangcommerce.com,https://www.linkedin.com/company/boomerang-commerce,Other / Unknown,Needs validation,HIGH,United States,79,Apollo_targets
+Meettie,revenueroll.com,https://www.linkedin.com/company/meettie,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,45,Apollo_targets
+Intersect,intersectdigital.com,https://www.linkedin.com/company/intersect,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,23,Apollo_targets
+Growth Marketing,growthmkt.it,https://www.linkedin.com/company/growth-marketing-srl,SEO / SERP Data,SERP scraping / rank tracking,HIGH,IT,1-10,datarade_top200
+"Retail Insights, LLC",retailinsightsllc.com,https://www.linkedin.com/company/retail-insights-llc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,21,Apollo_targets
+ReportLinker,reportlinker.com,https://www.linkedin.com/company/reportlinker-com,Other / Unknown,Needs validation,HIGH,France,SMB (51-200),hot_leads
+Acronym,acronym.com,https://www.linkedin.com/company/acronym,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,87,Apollo_targets
+Longtail UX,longtailux.com,https://www.linkedin.com/company/longtail-ux,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Australia,SMB (51-200),hot_leads
+Reomnify,reomnify.com,https://www.linkedin.com/company/reomnify,SEO / SERP Data,SERP scraping / rank tracking,HIGH,SG,1-10,datarade_top200
+Redmarkerai,redmarker.ai,https://www.linkedin.com/company/redmarkerai,Other / Unknown,Needs validation,HIGH,Australia,SMB (51-200),hot_leads
+Datafeedwatch,datafeedwatch.com,https://www.linkedin.com/company/datafeedwatch,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,77,Apollo_targets
+Veridooh,veridooh.com,https://www.linkedin.com/company/veridooh,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United Kingdom,42,Apollo_targets
+HeadsUp,headsup.ai,https://www.linkedin.com/company/headsupai,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Who's Mailing What!,whosmailingwhat.com,https://www.linkedin.com/company/whos-mailing-what,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+AgencyAnalytics,agencyanalytics.com,https://www.linkedin.com/company/agencyanalytics,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Canada,Mid-Market (201-1000),hot_leads
+Y42,y42.com,https://www.linkedin.com/company/y42-turnkey-data-orchestration,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Germany,SMB (51-200),hot_leads
+PriceManager,pricemanager.com,https://www.linkedin.com/company/pricemanager,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+ClearDemand Price Optimization,cleardemand.com,https://www.linkedin.com/company/clear-demand,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,SMB (51-200),hot_leads
+CI Radar,ciradar.com,https://www.linkedin.com/company/ci-radar,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+ClickGUARD,clickguard.com,https://www.linkedin.com/company/clickguard,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Peak,peak.com,https://www.linkedin.com/company/peak,Other / Unknown,Needs validation,HIGH,Turkey,Enterprise (5000+),hot_leads
+Partoo,partoo.co,https://www.linkedin.com/company/partoo,SEO / SERP Data,SERP scraping / rank tracking,HIGH,France,Mid-Market (201-1000),hot_leads
+Competitormonitor,competitormonitor.com,https://www.linkedin.com/company/competitormonitor,Other / Unknown,Needs validation,HIGH,United Kingdom,SMB (51-200),hot_leads
+Coefficient,coefficient.io,https://www.linkedin.com/company/coefficient-live-data-in-google-sheets-excel,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Badger.io,honeybadger.io,https://www.linkedin.com/company/honeybadger-io,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Airops,airops.com,https://www.linkedin.com/company/airopshq,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Huckabuy,huckabuy.com,https://www.linkedin.com/company/huckabuy,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Funnel Science,funnelscience.com,https://www.linkedin.com/company/funnel-science,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Prestashop,prestashop.com,https://www.linkedin.com/company/prestashop,SEO / SERP Data,SERP scraping / rank tracking,HIGH,France,Mid-Market (201-1000),hot_leads
+Clickx,clickx.io,https://www.linkedin.com/company/clickx,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Samidefense,sami.com.sa,https://www.linkedin.com/company/samidefense,Other / Unknown,Needs validation,HIGH,Saudi Arabia,Enterprise (5000+),hot_leads
+Scalarr,scalarr.io,https://www.linkedin.com/company/scalarr,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+seoClarity,seoclarity.net,https://www.linkedin.com/company/seoclarity,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Sentryc,sentryc.com,https://www.linkedin.com/company/sentryc-gmbh,Other / Unknown,Needs validation,HIGH,Germany,SMB (51-200),hot_leads
+Bforeai,bfore.ai,https://www.linkedin.com/company/bforeai,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Parabola,parabola.io,https://www.linkedin.com/company/tryparabola,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Visualping,visualping.io,https://www.linkedin.com/company/visualping,Other / Unknown,Needs validation,HIGH,Canada,SMB (51-200),hot_leads
+SEOPress,seopress.org,https://www.linkedin.com/company/seopress,SEO / SERP Data,SERP scraping / rank tracking,HIGH,France,SMB (51-200),hot_leads
+Proposify,proposify.com,https://www.linkedin.com/company/proposify,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Canada,SMB (51-200),hot_leads
+Linkgraph,linkgraph.com,https://www.linkedin.com/company/linkgraph,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+PerformLine,performline.com,https://www.linkedin.com/company/performline-inc,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+ConnectedView,connectedview.com,https://www.linkedin.com/company/connectedview,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+pharosIQ,pharosiq.com,https://www.linkedin.com/company/pharosiq,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Clixtell,clixtell.com,https://www.linkedin.com/company/clixtell,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Luca,luca-app.de,https://www.linkedin.com/company/luca-app-culture4life,Other / Unknown,Needs validation,HIGH,Germany,SMB (51-200),hot_leads
+MakerSights,makersights.com,https://www.linkedin.com/company/makersights,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,SMB (51-200),hot_leads
+MalouApp,malou.io,https://www.linkedin.com/company/malou,SEO / SERP Data,SERP scraping / rank tracking,HIGH,France,Mid-Market (201-1000),hot_leads
+Macrometa,macrometa.com,https://www.linkedin.com/company/macrometa-corporation,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+AnswerThePublic.com,answerthepublic.com,https://www.linkedin.com/company/answerthepublic,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,SMB (51-200),hot_leads
+Keyword Hero,keyword-hero.com,https://www.linkedin.com/company/keyword-hero,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Germany,SMB (51-200),hot_leads
+Keyword.com,keyword.com,https://www.linkedin.com/company/keyworddotcom,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Kompyte,kompyte.com,https://www.linkedin.com/company/kompyte,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Cyabra,cyabra.com,https://www.linkedin.com/company/cyabra,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Cyble,cyble.com,https://www.linkedin.com/company/cyble-global,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+BlackCurve,blackcurve.com,https://www.linkedin.com/company/blackcurve,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United Kingdom,SMB (51-200),hot_leads
+Shopperapproved,shopperapproved.com,https://www.linkedin.com/company/shopperapproved,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Digitalwavetechnology,digitalwavetechnology.com,https://www.linkedin.com/company/digitalwavetechnology,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,SMB (51-200),hot_leads
+Digonex,digonex.com,https://www.linkedin.com/company/digonex,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+diib,diib.com,https://www.linkedin.com/company/diib,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Lyzr Platform,lyzr.ai,https://www.linkedin.com/company/lyzr-platform,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Nozzle,nozzle.ai,https://www.linkedin.com/company/nozzleai,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,SMB (51-200),hot_leads
+Crowdreviews,crowdreviews.com,https://www.linkedin.com/company/crowdreviews,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+OneSchema,oneschema.co,https://www.linkedin.com/company/oneschema,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Octoparse,octoparse.com,https://www.linkedin.com/company/octoparse,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+mFilterIt,mfilterit.com,https://www.linkedin.com/company/mfilterit,Other / Unknown,Needs validation,HIGH,India,Mid-Market (201-1000),hot_leads
+METAPYXL,metapyxl.com,https://www.linkedin.com/company/metapyxl,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Cube,cube.dev,https://www.linkedin.com/company/cube-dev,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+daasity,daasity.com,https://www.linkedin.com/company/daasity,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Prunderground,prunderground.com,https://www.linkedin.com/company/prunderground,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Ceralytics,ceralytics.com,https://www.linkedin.com/company/ceralytics,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+pVelocity,pvelocity.com,https://www.linkedin.com/company/pvelocity,Other / Unknown,Needs validation,HIGH,Canada,Mid-Market (201-1000),hot_leads
+Stratinis,stratinis.com,https://www.linkedin.com/company/stratinis,Other / Unknown,Needs validation,HIGH,United Kingdom,SMB (51-200),hot_leads
+Signum.AI,signum.ai,https://www.linkedin.com/company/signum-ai,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Silamoney,silamoney.com,https://www.linkedin.com/company/silamoney,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Nimble,nimble.com,https://www.linkedin.com/company/nimblecrm,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Crayon,crayon.com,https://www.linkedin.com/company/crayon-group,Other / Unknown,Needs validation,HIGH,Norway,Enterprise (5000+),hot_leads
+Syncron,syncron.com,https://www.linkedin.com/company/syncron,Other / Unknown,Needs validation,HIGH,Sweden,Enterprise (5000+),hot_leads
+SISTRIX,sistrix.com,https://www.linkedin.com/company/sistrix,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Germany,SMB (51-200),hot_leads
+SpyFu,spyfu.com,https://www.linkedin.com/company/spyfu,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Free SEO Scan,seobility.net,https://www.linkedin.com/company/seobility-seo-tool,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Germany,SMB (51-200),hot_leads
+Outranking,outranking.io,https://www.linkedin.com/company/outranking-io,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Contify,contify.com,https://www.linkedin.com/company/contify,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Connectix,connectix.com,https://www.linkedin.com/company/connectix-technologies-pty-ltd,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Australia,Mid-Market (201-1000),hot_leads
+Semantic AI,semantic-ai.com,https://www.linkedin.com/company/semantic-ai,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Tryprofound,tryprofound.com,https://www.linkedin.com/company/tryprofound,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Red Sift,redsift.com,https://www.linkedin.com/company/red-sift,Other / Unknown,Needs validation,HIGH,United Kingdom,SMB (51-200),hot_leads
+Rightlander,rightlander.com,https://www.linkedin.com/company/rightlander,Other / Unknown,Needs validation,HIGH,United Kingdom,SMB (51-200),hot_leads
+BrandShield,brandshield.com,https://www.linkedin.com/company/brandshield,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Streamkap,streamkap.com,https://www.linkedin.com/company/streamkap,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Authoritas,authoritas.com,https://www.linkedin.com/company/authoritas,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,SMB (51-200),hot_leads
+AuthorityLabs,authoritylabs.com,https://www.linkedin.com/company/authoritylabs,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Swoop,swoop.com,https://www.linkedin.com/company/swoop,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+CanIRank,canirank.com,https://www.linkedin.com/company/canirank-,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+BuzzStream,buzzstream.com,https://www.linkedin.com/company/buzzstream,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+buynomics,buynomics.com,https://www.linkedin.com/company/buynomics,Other / Unknown,Needs validation,HIGH,Germany,SMB (51-200),hot_leads
+Grepsr,grepsr.com,https://www.linkedin.com/company/grepsr,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Fluxguard,fluxguard.com,https://www.linkedin.com/company/fluxguard,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Infatica,infatica.io,https://www.linkedin.com/company/infatica,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United Kingdom,SMB (51-200),hot_leads
+Import.io,import.io,https://www.linkedin.com/company/import-io,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+The Extract Systems Platform,extractsystems.com,https://www.linkedin.com/company/extract-systems,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Leadiq,leadiq.com,https://www.linkedin.com/company/leadiq-inc,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Lengow,lengow.com,https://www.linkedin.com/company/lengow,Other / Unknown,Needs validation,HIGH,France,Mid-Market (201-1000),hot_leads
+Easa,easasoftware.com,https://www.linkedin.com/company/easa,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Squirrly,squirrly.co,https://www.linkedin.com/company/squirrly,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,SMB (51-200),hot_leads
+QuickLizard,quicklizard.com,https://www.linkedin.com/company/quicklizard,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United Kingdom,SMB (51-200),hot_leads
+Quid,quid.com,https://www.linkedin.com/company/quidofficial,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Raven Tools,raventools.com,https://www.linkedin.com/company/raven-internet-marketing-tools,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Rank Ranger,rankranger.com,https://www.linkedin.com/company/rank-ranger,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Guidewire PricingCenter,guidewire.com,https://www.linkedin.com/company/guidewire-software,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Hibu,hibu.com,https://www.linkedin.com/company/hibu,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Akamai Brand Protector,akamai.com,https://www.linkedin.com/company/akamai-technologies,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Acquia,acquia.com,https://www.linkedin.com/company/acquia,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Epicor,epicor.com,https://www.linkedin.com/company/epicor,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Enterprise (5000+),hot_leads
+Milestone Inc,milestoneinternet.com,https://www.linkedin.com/company/milestone-internet-marketing,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Bitsight,bitsight.com,https://www.linkedin.com/company/bitsight,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Ocrolus,ocrolus.com,https://www.linkedin.com/company/ocrolus,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Large (1001-5000),hot_leads
+PriceSmart,pricesmart.com,https://www.linkedin.com/company/pricesmart,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Enterprise (5000+),hot_leads
+"Cyberint, a Check Point Company",checkpoint.com,https://www.linkedin.com/company/check-point-software-technologies,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+PROS,pros.com,https://www.linkedin.com/company/pros,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Adjust,adjust.com,https://www.linkedin.com/company/adjustcom,Other / Unknown,Needs validation,HIGH,Germany,Enterprise (5000+),hot_leads
+Fortra,fortra.com,https://www.linkedin.com/company/fortra,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Yext,yext.com,https://www.linkedin.com/company/yext,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Zebra Workcloud Pricing & Allocation,zebra.com,https://www.linkedin.com/company/zebra-technologies,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Enterprise (5000+),hot_leads
+ZeroFox,zerofox.com,https://www.linkedin.com/company/zerofox,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Onclusive,onclusive.com,https://www.linkedin.com/company/onclusive,Other / Unknown,Needs validation,HIGH,United Kingdom,Enterprise (5000+),hot_leads
+Cadence,cadence.com,https://www.linkedin.com/company/cadence,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Enterprise (5000+),hot_leads
+Modeln,modeln.com,https://www.linkedin.com/company/modeln,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+AppsFlyer,appsflyer.com,https://www.linkedin.com/company/appsflyerhq,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Clarivate,clarivate.com,https://www.linkedin.com/company/clarivate,Other / Unknown,Needs validation,HIGH,United Kingdom,Enterprise (5000+),hot_leads
+Casper,casper.com,https://www.linkedin.com/company/casper,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+CHEQ,cheq.ai,https://www.linkedin.com/company/cheq-ai,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Chargebee,chargebee.com,https://www.linkedin.com/company/chargebee,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Enterprise (5000+),hot_leads
+Manakey,manakey.com,https://www.linkedin.com/company/manakey-group-llc,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Demand Metric,demandmetric.com,https://www.linkedin.com/company/demand-metric,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Canada,Mid-Market (201-1000),hot_leads
+Demandwell,demandwell.com,https://www.linkedin.com/company/demandwell,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Qlik,qlik.com,https://www.linkedin.com/company/qlik,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Enterprise (5000+),hot_leads
+Boomi,boomi.com,https://www.linkedin.com/company/boomi-inc,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Enterprise (5000+),hot_leads
+Ecolab,ecolab.com,https://www.linkedin.com/company/ecolab,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Flintfox by Enable,enable.com,https://www.linkedin.com/company/enable-software,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+ePB,epb.com,https://www.linkedin.com/company/epbofchattanooga,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Paceantipiracy,paceap.com,https://www.linkedin.com/company/paceantipiracy,Other / Unknown,Needs validation,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+BrandVerity,brandverity.com,https://www.linkedin.com/company/brandverity,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Brandwise,brandwise.com,https://www.linkedin.com/company/brandwise,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Rocketreach.co,rocketreach.co,https://www.linkedin.com/company/rocketreach.co,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Marketing 360,marketing360.com,https://www.linkedin.com/company/marketing-360%c2%ae,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Dexi.io,dexi.io,https://www.linkedin.com/company/dexi.io,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United Kingdom,SMB (51-200),hot_leads
+Diffbot,diffbot.com,https://www.linkedin.com/company/diffbot,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+MARKT-PILOT PRICEGUIDE,markt-pilot.com,https://www.linkedin.com/company/markt-pilot,Other / Unknown,Needs validation,HIGH,Germany,SMB (51-200),hot_leads
+Revionics,revionics.com,https://www.linkedin.com/company/revionics,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Mid-Market (201-1000),hot_leads
+Revenue Analytics,revenueanalytics.com,https://www.linkedin.com/company/revenue-analytics-inc-,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+ReviewGators,reviewgators.com,https://www.linkedin.com/company/reviewgators,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+IG&H Quantivate,quantivate.com,https://www.linkedin.com/company/quantivate,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Mid-Market (201-1000),hot_leads
+Signal AI,signal-ai.com,https://www.linkedin.com/company/signal-artificial-intelligence,Other / Unknown,Needs validation,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Nextrow,nextrow.com,https://www.linkedin.com/company/nextrow,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Netcraft,netcraft.com,https://www.linkedin.com/company/netcraft,Other / Unknown,Needs validation,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Beauhurst,beauhurst.com,https://www.linkedin.com/company/beauhurst,Other / Unknown,Needs validation,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Cnet,cnet.com,https://www.linkedin.com/company/cnet,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Ionos,ionos.com,https://www.linkedin.com/company/ionos,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Germany,Enterprise (5000+),hot_leads
+LocaliQ,localiq.com,https://www.linkedin.com/company/localiq,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Firstinsight,firstinsight.com,https://www.linkedin.com/company/firstinsight,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Mid-Market (201-1000),hot_leads
+Shogun,getshogun.com,https://www.linkedin.com/company/shogun,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Upguard,upguard.com,https://www.linkedin.com/company/upguard,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Jaeves,https://jaeves.com/,linkedin.com/company/jaeves-ai,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Exxat Systems,exxat.com,https://www.linkedin.com/company/exxat-systems,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Ba&sh,ba-sh.com,https://www.linkedin.com/company/ba&sh,Other / Unknown,Needs validation,HIGH,France,Enterprise (5000+),hot_leads
+Telus,telus.com,https://www.linkedin.com/company/telus,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,Canada,Enterprise (5000+),hot_leads
+Demandtec,demandtec.com,https://www.linkedin.com/company/demandtec-inc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Large (1001-5000),hot_leads
+Crownpeak DQM,crownpeak.com,https://www.linkedin.com/company/crownpeak-technology,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Large (1001-5000),hot_leads
+Similarweb,similarweb.com,https://www.linkedin.com/company/similarweb,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Semrush,semrush.com,https://www.linkedin.com/company/semrush,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Birdeye,birdeye.com,https://www.linkedin.com/company/birdeye,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Dunnhumby,dunnhumby.com,https://www.linkedin.com/company/dunnhumby,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United Kingdom,Enterprise (5000+),hot_leads
+Fivetran,fivetran.com,https://www.linkedin.com/company/fivetran,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Enterprise (5000+),hot_leads
+BrightEdge,brightedge.com,https://www.linkedin.com/company/brightedge,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Unitedlex,unitedlex.com,https://www.linkedin.com/company/unitedlex,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Threat Command by Rapid7,rapid7.com,https://www.linkedin.com/company/rapid7,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Zilliant,zilliant.com,https://www.linkedin.com/company/zilliant,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Key Lime Labs: Competitive Insights,keylimeinteractive.com,https://www.linkedin.com/company/key-lime-interactive,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+EDITED,edited.com,https://www.linkedin.com/company/edited,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Apptopia,apptopia.com,https://www.linkedin.com/company/apptopia,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Nielsen,nielsen.com,https://www.linkedin.com/company/nielsen,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Mimecast,mimecast.com,https://www.linkedin.com/company/mimecast,Other / Unknown,Needs validation,HIGH,United Kingdom,Enterprise (5000+),hot_leads
+ARGOS,argos.co.uk,https://www.linkedin.com/company/argos-uk,Other / Unknown,Needs validation,HIGH,United Kingdom,Enterprise (5000+),hot_leads
+Siteimprove,siteimprove.com,https://www.linkedin.com/company/siteimprove,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Bloomreach,bloomreach.com,https://www.linkedin.com/company/bloomreach,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Hackerrank,hackerrank.com,https://www.linkedin.com/company/hackerrank,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Deltek,deltek.com,https://www.linkedin.com/company/deltek,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Informatica,informatica.com,https://www.linkedin.com/company/informatica,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Enterprise (5000+),hot_leads
+Fraudlogix,fraudlogix.com,https://www.linkedin.com/company/fraudlogix,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Fme Modules,fmemodules.com,https://www.linkedin.com/company/fme-modules,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Sphere Technology Solutions,sphereco.com,https://www.linkedin.com/company/sphere-technology-solutions,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Intertek,intertek.com,https://www.linkedin.com/company/intertek,Other / Unknown,Needs validation,HIGH,United Kingdom,Enterprise (5000+),hot_leads
+Godaddy,godaddy.com,https://www.linkedin.com/company/godaddy,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Enterprise (5000+),hot_leads
+Altair Monarch,altair.com,https://www.linkedin.com/company/altair-engineering,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Enterprise (5000+),hot_leads
+Imperva,imperva.com,https://www.linkedin.com/company/imperva,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+Vistex,vistex.com,https://www.linkedin.com/company/vistex,Other / Unknown,Needs validation,HIGH,United States,Enterprise (5000+),hot_leads
+DataSearch,datasearchinc.com,https://www.linkedin.com/company/datasearch-inc.,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Datasembly,datasembly.com,https://www.linkedin.com/company/datasembly,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,SMB (51-200),hot_leads
+Metsoofficial,metso.com,https://www.linkedin.com/company/metsoofficial,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Finland,Enterprise (5000+),hot_leads
+MixRank,mixrank.com,https://www.linkedin.com/company/mixrank,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Gravitate,gravitatedesign.com,https://www.linkedin.com/company/gravitate-design-studio,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Gtmbuddy,gtmbuddy.ai,https://www.linkedin.com/company/gtmbuddy,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Growbydata,growbydata.com,https://www.linkedin.com/company/growbydata,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Greendeck,greendeck.co,https://www.linkedin.com/company/greendeckco,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United Kingdom,SMB (51-200),hot_leads
+ibi Data Migrator,ibi.com,https://www.linkedin.com/company/information-builders,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Large (1001-5000),hot_leads
+Opentext,opentext.com,https://www.linkedin.com/company/opentext,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Canada,Enterprise (5000+),hot_leads
+Nuix,nuix.com,https://www.linkedin.com/company/nuix,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Australia,Enterprise (5000+),hot_leads
+Experience.com,experience.com,https://www.linkedin.com/company/experiencecom,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+enigma,enigma.com,https://www.linkedin.com/company/enigma-technologies-inc-,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Pathmatics by Sensor Tower,sensortower.com,https://www.linkedin.com/company/sensor-tower,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Screaming Frog,screamingfrog.co.uk,https://www.linkedin.com/company/screaming-frog,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+SearchAtlas,searchatlas.com,https://www.linkedin.com/company/searchatlas,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Pricefx,pricefx.com,https://www.linkedin.com/company/pricefx,Other / Unknown,Needs validation,HIGH,Germany,Large (1001-5000),hot_leads
+Matillion,matillion.com,https://www.linkedin.com/company/matillion-limited,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United Kingdom,Large (1001-5000),hot_leads
+Reputation,reputation.com,https://www.linkedin.com/company/reputation-com,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+Enago,enago.com,https://www.linkedin.com/company/enago,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Large (1001-5000),hot_leads
+Minitab,minitab.com,https://www.linkedin.com/company/minitab,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Large (1001-5000),hot_leads
+Moloco,moloco.com,https://www.linkedin.com/company/moloco,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+Uberall,uberall.com,https://www.linkedin.com/company/get-uberall,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Germany,Large (1001-5000),hot_leads
+Vendavo,vendavo.com,https://www.linkedin.com/company/vendavo,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+Wiser,wiser.com,https://www.linkedin.com/company/wiser,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Hubstream,hubstreamsoftware.com,https://www.linkedin.com/company/hubstream,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Wherescape,wherescape.com,https://www.linkedin.com/company/wherescape,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Adthena,adthena.com,https://www.linkedin.com/company/adthena,Other / Unknown,Needs validation,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Conductor,conductor.com,https://www.linkedin.com/company/conductor-inc-,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Large (1001-5000),hot_leads
+Hanover Research,hanoverresearch.com,https://www.linkedin.com/company/hanover-research,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+Pulsar Platform,pulsarplatform.com,https://www.linkedin.com/company/pulsar-platform,Other / Unknown,Needs validation,HIGH,United Kingdom,Large (1001-5000),hot_leads
+Price Industries,priceindustries.com,https://www.linkedin.com/company/price-industries,Other / Unknown,Needs validation,HIGH,Canada,Enterprise (5000+),hot_leads
+Bootcampdigital,bootcampdigital.com,https://www.linkedin.com/school/bootcampdigital,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Botify,botify.com,https://www.linkedin.com/company/botify,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Boardgamegeek,boardgamegeek.com,https://www.linkedin.com/company/boardgamegeek,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Toolsgroup,toolsgroup.com,https://www.linkedin.com/company/toolsgroup,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Mid-Market (201-1000),hot_leads
+American Guardian Warranty Services,agws.com,https://www.linkedin.com/company/american-guardian-warranty-services-inc-,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+Singular,singular.net,https://www.linkedin.com/company/singular-labs,Other / Unknown,Needs validation,HIGH,United States,Large (1001-5000),hot_leads
+Corsearch,corsearch.com,https://www.linkedin.com/company/corsearchinc,Other / Unknown,Needs validation,HIGH,United Kingdom,Large (1001-5000),hot_leads
+Sigmacomputing,sigmacomputing.com,https://www.linkedin.com/company/sigmacomputing,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Large (1001-5000),hot_leads
+PureOxygenLabs,pureoxygenlabs.com,https://www.linkedin.com/company/pure-oxygen,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Celebros,celebros.com,https://www.linkedin.com/company/celebros,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Pricespider,pricespider.com,https://www.linkedin.com/company/pricespider,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Hevodata,hevodata.com,https://www.linkedin.com/company/hevodata,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+SE Ranking,seranking.com,https://www.linkedin.com/company/se-ranking,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+MediaRadar,mediaradar.com,https://www.linkedin.com/company/mediaradar-inc-,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Meniga,meniga.com,https://www.linkedin.com/company/meniga,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Dataweave,dataweave.com,https://www.linkedin.com/company/dataweave,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Delivr,delivr.com,https://www.linkedin.com/company/delivr,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+KIVA,kiva.org,https://www.linkedin.com/company/kiva-org,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Kochava,kochava.com,https://www.linkedin.com/company/kochava,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Maltego,maltego.com,https://www.linkedin.com/company/maltego,Other / Unknown,Needs validation,HIGH,Germany,Mid-Market (201-1000),hot_leads
+Tracerai,tracer.ai,https://www.linkedin.com/company/tracerai,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Profitero+,profitero.com,https://www.linkedin.com/company/profitero,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+ReportGarden,reportgarden.com,https://www.linkedin.com/company/reportgarden,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+QL2,ql2.com,https://www.linkedin.com/company/ql2-software,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Mid-Market (201-1000),hot_leads
+Feefo,feefo.com,https://www.linkedin.com/company/feefo,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+IntelligenceNode,intelligencenode.com,https://www.linkedin.com/company/intelligencenode,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Isentia,isentia.com,https://www.linkedin.com/company/isentia,Other / Unknown,Needs validation,HIGH,Australia,Large (1001-5000),hot_leads
+Joinmosaic,joinmosaic.com,https://www.linkedin.com/company/joinmosaic,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Hypersonix,hypersonix.ai,https://www.linkedin.com/company/hypersonix-ai,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Cmswire,cmswire.com,https://www.linkedin.com/company/cmswire,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Clootrack,clootrack.com,https://www.linkedin.com/company/clootrack,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Digimarc,digimarc.com,https://www.linkedin.com/company/digimarc,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Content Harmony,contentharmony.com,https://www.linkedin.com/company/content-harmony,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+STAT,statnews.com,https://www.linkedin.com/company/stat-news,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+DemandJump,demandjump.com,https://www.linkedin.com/company/demandjump,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Striim,striim.com,https://www.linkedin.com/company/striim,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Linkdex,linkdex.com,https://www.linkedin.com/company/linkdex,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Anakin Pricing Intelligence Platform,anakin.company,https://www.linkedin.com/company/anakintech,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Alluresecurity,alluresecurity.com,https://www.linkedin.com/company/alluresecurity,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Ipqualityscore,ipqualityscore.com,https://www.linkedin.com/company/ipqualityscore,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Axur,axur.com,https://www.linkedin.com/company/axur,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+System1group,system1group.com,https://www.linkedin.com/company/system1group,Other / Unknown,Needs validation,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+syte,syte.ai,https://www.linkedin.com/company/syte-ai,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,Mid-Market (201-1000),hot_leads
+TelmarHelixa,telmarhelixa.com,https://www.linkedin.com/company/telmargroupinc,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Web CEO,webceo.com,https://www.linkedin.com/company/web-ceo,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+VentureScanner,venturescanner.com,https://www.linkedin.com/company/venture-scanner,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Veryfi,veryfi.com,https://www.linkedin.com/company/veryfi-inc,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Webdataguru,webdataguru.com,https://www.linkedin.com/company/webdataguru,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Competera,competera.ai,https://www.linkedin.com/company/competera,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Paige,paige.com,https://www.linkedin.com/company/premium-denim-llc-paige-,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+SinglePoint,singlepoint.com,https://www.linkedin.com/company/singlepoint,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Liminal,liminal.co,https://www.linkedin.com/company/liminalstrategy,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Superannotate,superannotate.com,https://www.linkedin.com/company/superannotate,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Astera ReportMiner,astera.com,https://www.linkedin.com/company/astera-software,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Synup,synup.com,https://www.linkedin.com/company/synup,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Authentix,authentix.com,https://www.linkedin.com/company/authentix,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Coalition Technologies,coalitiontechnologies.com,https://www.linkedin.com/company/coalition-technologies,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Ryte,ryte.com,https://www.linkedin.com/company/ryte-gmbh,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Germany,Mid-Market (201-1000),hot_leads
+BrightLocal,brightlocal.com,https://www.linkedin.com/company/bright-local-seo,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,Mid-Market (201-1000),hot_leads
+Sequentum,sequentum.com,https://www.linkedin.com/company/sequentum,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Technomile,technomile.com,https://www.linkedin.com/company/technomile,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Cognaize,cognaize.com,https://www.linkedin.com/company/cognaize,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Seon Tech,seon.io,https://www.linkedin.com/company/seon-tech,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+SplitMetrics Acquire,splitmetrics.com,https://www.linkedin.com/company/split-metrics,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+MarqVision,marqvision.com,https://www.linkedin.com/company/marqvision,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Moz,moz.com,https://www.linkedin.com/company/moz,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Canada,Large (1001-5000),hot_leads
+Daloopa,daloopa.com,https://www.linkedin.com/company/daloopa,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+MobileAction,mobileaction.co,https://www.linkedin.com/company/mobile-action,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+DigitalStakeout,digitalstakeout.com,https://www.linkedin.com/company/digitalstakeout-inc.,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Dreamhost,dreamhost.com,https://www.linkedin.com/company/dreamhost,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Klue,klue.com,https://www.linkedin.com/company/klue,Other / Unknown,Needs validation,HIGH,Canada,Large (1001-5000),hot_leads
+RudderStack,rudderstack.com,https://www.linkedin.com/company/rudderstack,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+xavvy,xavvy.solutions,https://www.linkedin.com/company/xavvy-fuel,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,,10000+,datarade_top200
+TraderMade,tradermade.com,https://www.linkedin.com/company/tradermade,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+OptionMetrics,optionmetrics.com,https://www.linkedin.com/company/optionmetrics,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,51-200,datarade_top200
+Geolytica,poidata.xyz,,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,,10000+,datarade_top200
+Decision Software,dsimarketingservices.com,https://www.linkedin.com/company/decision-software,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Solution Publishing,solpub.com,https://www.linkedin.com/company/solution-publishing,SEO / SERP Data,SERP scraping / rank tracking,HIGH,US,1-10,datarade_top200
+CoinAPI,coinapi.io,https://www.linkedin.com/company/coinapi,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,GB,1-10,datarade_top200
+Datatorq,datatorq.io,https://www.linkedin.com/company/datatorqio,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,FR,1-10,datarade_top200
+Browse AI,browse.ai,https://www.linkedin.com/company/browse-ai,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Canada,SMB (51-200),hot_leads
+Adverity,adverity.com,https://www.linkedin.com/company/myadverity,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,Austria,Large (1001-5000),hot_leads
+Oncrawl,oncrawl.com,https://www.linkedin.com/company/oncrawl,SEO / SERP Data,SERP scraping / rank tracking,HIGH,France,SMB (51-200),hot_leads
+Promowise,promowise.com,https://www.linkedin.com/company/promowise,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,52,Apollo_targets
+Datahut,datahut.co,https://www.linkedin.com/company/datahut,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Global Copyright Exchange,gcx.co,https://www.linkedin.com/company/global-copyright-exchange,Social Data / Monitoring,Social scraping / monitoring,HIGH,,1-10,datarade_top200
+Scrapehero,scrapehero.com,https://www.linkedin.com/company/scrape-hero,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Versium,versium.com,https://www.linkedin.com/company/versium-inc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+123fluxx,fluxx.io,https://www.linkedin.com/company/fluxx,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Formantinc,formant.io,https://www.linkedin.com/company/formantinc,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Airbyte,airbyte.com,https://www.linkedin.com/company/airbytehq,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+ICE Factor,icefactor.com,https://www.linkedin.com/company/ice-factor,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,23,Apollo_targets
+Keywordcountry,keywordcountry.com,https://www.linkedin.com/company/keywordcountry,SEO / SERP Data,SERP scraping / rank tracking,HIGH,India,SMB (51-200),hot_leads
+Trackier,trackier.com,https://www.linkedin.com/company/trackier,Other / Unknown,Needs validation,HIGH,India,SMB (51-200),hot_leads
+Prestashop SEO Wizard Addon by Knowband,knowband.com,https://www.linkedin.com/company/knowband,SEO / SERP Data,SERP scraping / rank tracking,HIGH,India,SMB (51-200),hot_leads
+AWA,awa-digital.com,https://www.linkedin.com/company/awa_138905,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United Kingdom,79,Apollo_targets
+Watchful.ai,watchful.ai,https://www.linkedin.com/company/watchful,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+WatchMyCompetitor,watchmycompetitor.com,https://www.linkedin.com/company/watchmycompetitor-co-ltd,Other / Unknown,Needs validation,HIGH,United Kingdom,SMB (51-200),hot_leads
+Ahrefs,ahrefs.com,https://www.linkedin.com/company/ahrefs,Other / Unknown,Needs validation,HIGH,Singapore,Enterprise (5000+),hot_leads
+Aicompgroup,aicomp.com,https://www.linkedin.com/company/aicompgroup,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Rioseo,rioseo.com,https://www.linkedin.com/company/rioseo,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,Mid-Market (201-1000),hot_leads
+Wayvia,wayvia.com,https://www.linkedin.com/company/wayvia,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+InfoDesk,infodesk.com,https://www.linkedin.com/company/infodesk,Other / Unknown,Needs validation,HIGH,United States,Mid-Market (201-1000),hot_leads
+Improvado,improvado.io,https://www.linkedin.com/company/improvado,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Majestic,majestic.com,https://www.linkedin.com/company/majesticseo,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United Kingdom,SMB (51-200),hot_leads
+Lunio,lunio.ai,https://www.linkedin.com/company/lunio,Other / Unknown,Needs validation,HIGH,United Kingdom,SMB (51-200),hot_leads
+MarketBrew,marketbrew.ai,https://www.linkedin.com/company/market-brew,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Feedvisor,feedvisor.com,https://www.linkedin.com/company/feedvisor,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,SMB (51-200),hot_leads
+Jasminedirectory,jasminedirectory.com,https://www.linkedin.com/company/jasminedirectory,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+IT-Harvest,it-harvest.com,https://www.linkedin.com/company/it-harvest,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Eversight,eversightlabs.com,https://www.linkedin.com/company/eversight,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,United States,SMB (51-200),hot_leads
+Ibbaka,ibbaka.com,https://www.linkedin.com/company/ibbaka,Other / Unknown,Needs validation,HIGH,Canada,SMB (51-200),hot_leads
+Elite Site Optimizer,elitesiteoptimizer.com,https://www.linkedin.com/company/elite-site-optimizer,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+The Search Monitor,thesearchmonitor.com,https://www.linkedin.com/company/the-search-monitor,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Tracer,tracer.tech,https://www.linkedin.com/company/tracertech,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Togai,togai.com,https://www.linkedin.com/company/togai,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+Transcope,transcopetruck.com,https://www.linkedin.com/company/transcope-truck-sales-inc,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Scalenut,scalenut.com,https://www.linkedin.com/company/scalenut,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Scraperapi,scraperapi.com,https://www.linkedin.com/company/scraperapi,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Mageworx,mageworx.com,https://www.linkedin.com/company/mageworx,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Pline by Grepsr,pline.ai,https://www.linkedin.com/company/plinebygrepsr,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,Mid-Market (201-1000),hot_leads
+Semji,semji.com,https://www.linkedin.com/company/semji,SEO / SERP Data,SERP scraping / rank tracking,HIGH,France,SMB (51-200),hot_leads
+Advertiser Perceptions,advertiserperceptions.com,https://www.linkedin.com/company/advertiser-perceptions,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,50,Apollo_targets
+AnaChart,anachart.com,https://www.linkedin.com/company/anachart,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,1-10,datarade_top200
+Factori,factori.ai,https://www.linkedin.com/company/factori-ai,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+MedicoReach,medicoreach.com,https://www.linkedin.com/company/medicoreach,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,US,11-50,datarade_top200
+Chatmeter,chatmeter.com,https://www.linkedin.com/company/chatmeter,SEO / SERP Data,SERP scraping / rank tracking,HIGH,United States,SMB (51-200),hot_leads
+Etleap,etleap.com,https://www.linkedin.com/company/etleap,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+Bates Smart,batessmart.com,https://www.linkedin.com/company/bates-smart,E-commerce / Price Intelligence,Marketplace / retail price monitoring,HIGH,Australia,SMB (51-200),hot_leads
+Jaaxy,jaaxy.com,https://www.linkedin.com/company/jaaxy,SEO / SERP Data,SERP scraping / rank tracking,HIGH,Canada,SMB (51-200),hot_leads
+Pricemoov,pricemoov.com,https://www.linkedin.com/company/pricemoov,Other / Unknown,Needs validation,HIGH,France,SMB (51-200),hot_leads
+eSearch Logix,esearchlogix.com,https://www.linkedin.com/company/esearch-logix,SEO / SERP Data,SERP scraping / rank tracking,HIGH,India,SMB (51-200),hot_leads
+Advanced Pricing Logic,advancedpricinglogic.com,https://www.linkedin.com/company/advanced-pricing-logic-inc-,Other / Unknown,Needs validation,HIGH,United States,SMB (51-200),hot_leads
+AgencyPlatform,agencyplatform.com,https://www.linkedin.com/company/agencyplatform,SEO / SERP Data,SERP scraping / rank tracking,HIGH,India,Mid-Market (201-1000),hot_leads
+Geminid Systems,geminidsystems.com,https://www.linkedin.com/company/geminid-systems,Web Scraping / Data Extraction,Web crawling / data extraction at scale,HIGH,United States,SMB (51-200),hot_leads
+TrafficGuard,trafficguard.ai,https://www.linkedin.com/company/trafficguard-hq,Other / Unknown,Needs validation,HIGH,Australia,SMB (51-200),hot_leads
+TVision,tvisioninsights.com,https://www.linkedin.com/company/tvision-insights,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),HIGH,United States,80,Apollo_targets
+Xpln Com,priceintelligence.net,https://www.linkedin.com/company/xpln-com,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,DE,11-50,datarade_top200
+Sprout Social,sproutsocial.com,https://www.linkedin.com/company/sprout-social-inc-,Social Data / Monitoring,Social scraping / monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+The Guardian Life Insurance Of America,guardianlife.com,https://www.linkedin.com/company/the-guardian-life-insurance-company-of-america_164085,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Guideline,guideline.com,https://www.linkedin.com/company/guideline,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Forter,forter.com,https://www.linkedin.com/company/forter,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Ads,adsinc.com,https://www.linkedin.com/company/ads-inc,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Datadog,datadoghq.com,https://www.linkedin.com/company/datadog,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Socure,socure.com,https://www.linkedin.com/company/socure,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Transunion,transunion.com,https://www.linkedin.com/company/transunion,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Dynatrace,dynatrace.com,https://www.linkedin.com/company/dynatrace,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+LiveProxies,liveproxies.io,https://www.linkedin.com/company/live-proxies,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),MEDIUM,US,1-10,datarade_top200
+Iinfotanks,infotanksmedia.com,https://www.linkedin.com/company/iinfotanks,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,51-200,datarade_top200
+Chainofdemand,chainofdemand.co,https://www.linkedin.com/company/chainofdemand,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,HK,1-10,datarade_top200
+Batchdataco,batchleads.io,https://www.linkedin.com/company/batchdataco,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,51-200,datarade_top200
+datazeit,datazeit.io,https://www.linkedin.com/company/eyva-ai,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,DE,11-50,datarade_top200
+AWIS Weather Services,awis.com,https://www.linkedin.com/company/awis-weather-services,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,1-10,datarade_top200
+Contora Inc.,contora.ai,https://www.linkedin.com/company/muraena,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,1-10,datarade_top200
+Cbonds,cbonds.com,https://www.linkedin.com/company/cbonds,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,AE,51-200,datarade_top200
+Finage,finage.co.uk,https://www.linkedin.com/company/finageltd,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,GB,1-10,datarade_top200
+Swashapp,swashapp.io,https://www.linkedin.com/company/swashapp,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,KE,11-50,datarade_top200
+Accern,accern.com,https://www.linkedin.com/company/accern,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,US,11-50,datarade_top200
+Caeli,caeli.nl,https://www.linkedin.com/company/caeli1,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,NL,1-10,datarade_top200
+Datonics,datonics.com,https://www.linkedin.com/company/datonics,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Pi Financial Services Intelligence,pifsi.com.sg,https://www.linkedin.com/company/pi-financial-services-intelligence-pi-fsi,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,SG,1-10,datarade_top200
+Wappalyzer,wappalyzer.com,https://www.linkedin.com/company/wappalyzer,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,AU,1-10,datarade_top200
+Bizdatainsights,bizdatainsights.com,https://www.linkedin.com/company/bizdatainsights,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,BD,11-50,datarade_top200
+1 Stop Data,1stopdata.com,https://www.linkedin.com/company/1-stop-data-ltd,Social Data / Monitoring,Social scraping / monitoring,MEDIUM,GB,11-50,datarade_top200
+VisitIQ™,visitiq.io,https://www.linkedin.com/company/visitiq,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Gaus Data,gausdata.com,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,,10000+,datarade_top200
+Spaceknow,spaceknow.com,https://www.linkedin.com/company/spaceknow,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Forager.ai,forager.ai,https://www.linkedin.com/company/foragerai,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+"Datos, A Semrush Company",datos.live,https://www.linkedin.com/company/datos-inc,SEO / SERP Data,SERP scraping / rank tracking,MEDIUM,US,11-50,datarade_top200
+London Data Consulting,london-data-consulting.com,https://www.linkedin.com/company/london-data-consulting,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,GB,1-10,datarade_top200
+Market Report Company,mrcplast.com,https://www.linkedin.com/company/mrc-market-report-company-,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,UA,51-200,datarade_top200
+MT Newswires,mtnewswires.com,https://www.linkedin.com/company/mt-newswires,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,51-200,datarade_top200
+RIWI,riwi.com,https://www.linkedin.com/company/riwicorp,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,CA,11-50,datarade_top200
+Intrinio,intrinio.com,https://www.linkedin.com/company/intrinio,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Sentifi,sentifi.com,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,,10000+,datarade_top200
+Televisory,televisory.com,https://www.linkedin.com/company/televisory,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,SG,11-50,datarade_top200
+Mobilesquared,mobilesquared.co.uk,https://www.linkedin.com/company/mobilesquared,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,GB,1-10,datarade_top200
+Immobiliare.it Insights,immobiliare.it,https://www.linkedin.com/company/immobiliare-it,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IT,501-1000,datarade_top200
+Market Inside Data,marketinsidedata.com,https://www.linkedin.com/company/market-inside-limited-uk,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,GB,11-50,datarade_top200
+Airbtics,airbtics.com,https://www.linkedin.com/company/airbtics,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,GB,1-10,datarade_top200
+Forestreet,forestreet.com,https://www.linkedin.com/company/forestreet,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,GB,11-50,datarade_top200
+Kaiko,kaiko.com,https://www.linkedin.com/company/kaikodata,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,FR,51-200,datarade_top200
+SetuServ,setuserv.com,https://www.linkedin.com/company/setuserv,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Cryptrata,cryptrata.com,https://www.linkedin.com/company/cryptrata,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,DE,10000+,datarade_top200
+GateHouse Maritime,gatehousemaritime.com,https://www.linkedin.com/company/gatehouse-maritime,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,DK,11-50,datarade_top200
+Ultroneous,ultroneous.com,https://www.linkedin.com/company/ultroneous,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IN,11-50,datarade_top200
+Thedata,thedatagroup.com,https://www.linkedin.com/company/thedata-group,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),MEDIUM,US,1-10,datarade_top200
+Thomson Data,thomsondata.com,https://www.linkedin.com/company/thomson-data-llc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Visa,visa.com,https://www.linkedin.com/company/visa,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Fis,fisglobal.com,https://www.linkedin.com/company/fis,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Fico,fico.com,https://www.linkedin.com/company/fico,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+CisionOne,cision.com,https://www.linkedin.com/company/cision,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+ID.me,id.me,https://www.linkedin.com/company/id.me,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+IDMERIT,idmerit.com,https://www.linkedin.com/company/idmerit,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Sas,sas.com,https://www.linkedin.com/company/sas,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+AlphaSense,alpha-sense.com,https://www.linkedin.com/company/alphasense,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Samba TV for Business,samba.tv,https://www.linkedin.com/company/sambatv,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Comscore,comscore.com,https://www.linkedin.com/company/comscore,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Ping Identity,pingidentity.com,https://www.linkedin.com/company/ping-identity,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Pynk,pynk.io,https://www.linkedin.com/company/pynkofficial,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,GB,11-50,datarade_top200
+QUICK,quick.co.jp,https://www.linkedin.com/company/quickcorp,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,JP,51-200,datarade_top200
+aKQired,akqired.com,https://www.linkedin.com/company/akqired,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IN,1-10,datarade_top200
+Kantar,kantar.com,https://www.linkedin.com/company/kantar,Other / Unknown,Needs validation,MEDIUM,United Kingdom,Enterprise (5000+),hot_leads
+Entrust,entrust.com,https://www.linkedin.com/company/entrust,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Signifyd,signifyd.com,https://www.linkedin.com/company/signifyd,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Bottomline Risk Solutions,bottomline.com,https://www.linkedin.com/company/bottomline-payments,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+F5 Distributed Cloud Account Protection,f5.com,https://www.linkedin.com/company/f5,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+ACI Fraud Management for Banking,aciworldwide.com,https://www.linkedin.com/company/aci-worldwide,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+LogicMonitor,logicmonitor.com,https://www.linkedin.com/company/logicmonitor,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Bytescraper,b2bemaildatabases.com,https://www.linkedin.com/company/bytescraper,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IN,1-10,datarade_top200
+Finastra,finastra.com,https://www.linkedin.com/company/finastra,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United Kingdom,Enterprise (5000+),hot_leads
+Sprinklr,sprinklr.com,https://www.linkedin.com/company/sprinklr,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Mastercard,mastercard.com,https://www.linkedin.com/company/mastercard,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+LoopMe,loopme.com,https://www.linkedin.com/company/loopme,Other / Unknown,Needs validation,MEDIUM,United Kingdom,Enterprise (5000+),hot_leads
+Numerator,numerator.com,https://www.linkedin.com/company/numerator,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Meltwater,meltwater.com,https://www.linkedin.com/company/meltwater,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Worldpay,worldpay.com,https://www.linkedin.com/company/worldpay,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+GBG,gbgplc.com,https://www.linkedin.com/company/gb-group,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United Kingdom,Enterprise (5000+),hot_leads
+Riskified,riskified.com,https://www.linkedin.com/company/riskified,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+Dotlas,dotlas.com,https://www.linkedin.com/company/dotlas,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,1-10,datarade_top200
+Hir Infotech,hirinfotech.com,https://www.linkedin.com/company/hir-infotech,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IN,51-200,datarade_top200
+BoldData,bolddata.nl,https://www.linkedin.com/company/companydata-official,Social Data / Monitoring,Social scraping / monitoring,MEDIUM,NL,1-10,datarade_top200
+Netlas.io,netlas.io,https://www.linkedin.com/company/netlas-io,Other / Unknown,Needs validation,MEDIUM,AM,1-10,datarade_top200
+A2A,a2ailluminazionepubblica.eu,https://www.linkedin.com/company/a2a,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IT,1001-5000,datarade_top200
+Huq Industries,huq.io,https://www.linkedin.com/company/huq-industries,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,GB,11-50,datarade_top200
+PG,myrepi.com,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,,10000+,datarade_top200
+ViralMoment,viralmoment.com,https://www.linkedin.com/company/viralmoment,Social Data / Monitoring,Social scraping / monitoring,MEDIUM,US,11-50,datarade_top200
+Predsearch,predsearch.com,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,,10000+,datarade_top200
+Cryptoquote,cryptoquote.io,https://www.linkedin.com/company/cryptoquote,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,1-10,datarade_top200
+Biscred,biscred.com,https://www.linkedin.com/company/biscred,Social Data / Monitoring,Social scraping / monitoring,MEDIUM,US,11-50,datarade_top200
+FIDA,fidaonline.com,https://www.linkedin.com/company/fida-s-r-l-,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,IT,11-50,datarade_top200
+Acxiom,acxiom.com,https://www.linkedin.com/company/acxiom,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,1001-5000,datarade_top200
+"Specialists Marketing Services, Inc.",sms-inc.com,https://www.linkedin.com/company/sms-marketing-services-inc-,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,51-200,datarade_top200
+Gistimpact,gistimpact.com,https://www.linkedin.com/company/gistimpact,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,CH,201-500,datarade_top200
+TAUS,taus.net,https://www.linkedin.com/company/taus,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,NL,51-200,datarade_top200
+Accurate Append,accurateappend.com,https://www.linkedin.com/company/accurate-append,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+FinPricing,finpricing.com,https://www.linkedin.com/company/finpricing,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,CA,1-10,datarade_top200
+Decanaria,decanaria.com,https://www.linkedin.com/company/decanaria,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,1-10,datarade_top200
+Edison Trends,edison.tech,https://www.linkedin.com/company/edison-software,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,US,11-50,datarade_top200
+Muckrack,muckrack.com,https://www.linkedin.com/company/muckrack,Other / Unknown,Needs validation,MEDIUM,United States,Enterprise (5000+),hot_leads
+Cybersource,cybersource.com,https://www.linkedin.com/company/cybersource,E-commerce / Price Intelligence,Marketplace / retail price monitoring,MEDIUM,United States,Enterprise (5000+),hot_leads
+OutreachGenius,outreachgenius.ai,https://www.linkedin.com/company/outreachgenius,Web Scraping / Data Extraction,Web crawling / data extraction at scale,MEDIUM,CA,1-10,datarade_top200
+Krill Technologies,krilltech.com,https://www.linkedin.com/company/krill-tech,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,IN,51-200,datarade_top200
+Blistering Developers,blisteringdevelopers.com,https://www.linkedin.com/company/blistering-developers,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,,1-10,datarade_top200
+RateSpot,ratespot.io,https://www.linkedin.com/company/ratespot-io,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,1-10,datarade_top200
+LeadGenius,leadgenius.com,https://www.linkedin.com/company/leadgenius,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,US,201-500,datarade_top200
+FirstRate Data,firstratedata.com,https://www.linkedin.com/company/firstrate-data,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,10000+,datarade_top200
+Capital Intelligence Ratings (CI Ratings),ciratings.com,https://www.linkedin.com/company/capital-intelligence-ci-,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,CY,11-50,datarade_top200
+SpazioDati,spaziodati.eu,https://www.linkedin.com/company/spaziodati,Social Data / Monitoring,Social scraping / monitoring,LOW,IT,51-200,datarade_top200
+SIGWATCH,sigwatch.com,https://www.linkedin.com/company/sigwatch,Other / Unknown,Needs validation,LOW,GB,11-50,datarade_top200
+mfour,mfour.com,https://www.linkedin.com/company/mfour-data-research,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+Pixta AI,pixta.ai,https://www.linkedin.com/company/pixta-ai,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,VN,1-10,datarade_top200
+Expandi,expandigroup.com,https://www.linkedin.com/company/expandi-group,Social Data / Monitoring,Social scraping / monitoring,LOW,GB,51-200,datarade_top200
+Harrisacquire,metriccentral.com,https://www.linkedin.com/company/harrisacquire,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,GB,1-10,datarade_top200
+Drakomediagroup,drakomediagroup.com,https://www.linkedin.com/company/drakomediagroup,Social Data / Monitoring,Social scraping / monitoring,LOW,CA,11-50,datarade_top200
+Weather Logistics UK,seasonalforecasts.earth,https://www.linkedin.com/company/weather-logistics-uk,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,GB,10000+,datarade_top200
+Humanpredictions,humanpredictions.io,https://www.linkedin.com/company/humanpredictions,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,US,1-10,datarade_top200
+EasyLeadz,easyleadz.com,https://www.linkedin.com/company/easyleadz,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,IN,11-50,datarade_top200
+Marketvector Indexes,marketvectors.io,https://www.linkedin.com/company/marketvector-indexes,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,10000+,datarade_top200
+RevenueBase,revenuebase.ai,https://www.linkedin.com/company/revenue-base,Social Data / Monitoring,Social scraping / monitoring,LOW,US,1-10,datarade_top200
+Whatalocation,whatalocation.ai,https://www.linkedin.com/company/whatalocation,Social Data / Monitoring,Social scraping / monitoring,LOW,DE,10000+,datarade_top200
+Outwardmedia,outwardmedia.com,https://www.linkedin.com/company/outward-media-inc.,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,1-10,datarade_top200
+Canari,canari.ca,https://www.linkedin.com/company/agri-canari,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,FR,10000+,datarade_top200
+Listkit,listkit.io,https://www.linkedin.com/company/listkit,Social Data / Monitoring,Social scraping / monitoring,LOW,US,11-50,datarade_top200
+QuoteWay,quoteway.ca,https://www.linkedin.com/company/quoteway,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),LOW,CA,1-10,datarade_top200
+Charm.io,charm.io,https://www.linkedin.com/company/charm-io,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,11-50,datarade_top200
+Otto JS,otto-js.com,https://www.linkedin.com/company/devcon-is-now-otto,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),LOW,US,1-10,datarade_top200
+Matrixian,matrixian.com,https://www.linkedin.com/company/matrixianofficial,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,NL,11-50,datarade_top200
+CompCurve,compcurve.com,https://www.linkedin.com/company/compcurve-inc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,1-10,datarade_top200
+Agnibase,agnibase.com,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,10000+,datarade_top200
+Redmob,redmob.io,https://www.linkedin.com/company/redmob,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),LOW,AE,1-10,datarade_top200
+Demografy,demografy.com,https://www.linkedin.com/company/david-one,Social Data / Monitoring,Social scraping / monitoring,LOW,US,1-10,datarade_top200
+Bungeetech,bungeetech.com,https://www.linkedin.com/company/clear-demand,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+Quadrant,quadrant.io,https://www.linkedin.com/company/quadrantio,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,SG,51-200,datarade_top200
+Datandard,datandard.com,https://www.linkedin.com/company/datandard,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),LOW,DK,1-10,datarade_top200
+Trademo,trademo.com,https://www.linkedin.com/company/trademo-inc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+FileMarket,filemarket.ai,https://www.linkedin.com/company/filemarketai,Social Data / Monitoring,Social scraping / monitoring,LOW,US,11-50,datarade_top200
+Interceptd,interceptd.com,https://www.linkedin.com/company/apsamurai,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),LOW,US,51-200,datarade_top200
+Dataplex,dataplex-consulting.com,https://www.linkedin.com/company/dataplex-consulting,Social Data / Monitoring,Social scraping / monitoring,LOW,US,1-10,datarade_top200
+Gripsintelligence,gripsintelligence.com,https://www.linkedin.com/company/gripsintelligence,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,11-50,datarade_top200
+Foursquare,foursquare.com,https://www.linkedin.com/company/location-foursquare,Social Data / Monitoring,Social scraping / monitoring,LOW,US,501-1000,datarade_top200
+mediasmart,mediasmart.io,https://www.linkedin.com/company/mediasmart-mobile,Ad Verification / Brand Safety,Ad verification & geo QA (multi-region),LOW,ES,51-200,datarade_top200
+BIGDBM,bigdbm.com,https://www.linkedin.com/company/bigdbm,Social Data / Monitoring,Social scraping / monitoring,LOW,US,1-10,datarade_top200
+Asiaresearchinstitute Indonesia,asiaresearchinstitute.com,https://www.linkedin.com/company/asiaresearchinstitute-indonesia,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,ID,11-50,datarade_top200
+Esalesdata,esalesdata.com,https://www.linkedin.com/company/esalesdata,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,11-50,datarade_top200
+DataScrapa,datascrapa.com,https://www.linkedin.com/company/datascrapa,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,10000+,datarade_top200
+Datlab,datlab.eu,https://www.linkedin.com/company/datlab-s-r-o-,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,CZ,11-50,datarade_top200
+Intellizence,intellizence.com,https://www.linkedin.com/company/intellizence-inc.,Other / Unknown,Needs validation,LOW,CA,11-50,datarade_top200
+GaiaLens,gaia-lens.com,https://www.linkedin.com/company/gaialens,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,GB,1-10,datarade_top200
+DataCaptive,datacaptive.com,https://www.linkedin.com/company/datacaptive,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+Rubix Data Sciences,rubixds.com,https://www.linkedin.com/company/rubix-data-sciences,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,IN,51-200,datarade_top200
+ScaleCampaign,scalecampaign.com,https://www.linkedin.com/company/scalecampaign,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,1-10,datarade_top200
+Eco-Movement,eco-movement.com,https://www.linkedin.com/company/eco-movement-charge-point-data,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,NL,51-200,datarade_top200
+Technology Evaluation Centers,technologyevaluation.com,https://www.linkedin.com/company/technology-evaluation-centers,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,CA,51-200,datarade_top200
+Global Pricing Innovations,globalpricing.com,https://www.linkedin.com/company/global-pricing-innovations,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,GB,51-200,datarade_top200
+Rhetorik,rhetorik.com,https://www.linkedin.com/company/rhetorik,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,GB,51-200,datarade_top200
+Picasso,picassoknows.ai,,Social Data / Monitoring,Social scraping / monitoring,LOW,,10000+,datarade_top200
+Dexivo,dexivo.com,https://www.linkedin.com/company/dexivo,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,1-10,datarade_top200
+Alesco Data,alescodata.com,https://www.linkedin.com/company/alesco-data-group,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+Expanamarkets,mintecglobal.com,https://www.linkedin.com/company/expanamarkets,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,GB,201-500,datarade_top200
+StockPulse,stockpulse.de,https://www.linkedin.com/company/stockpulse,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,DE,1-10,datarade_top200
+Alqami,alqami.com,https://www.linkedin.com/company/alqami,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,GB,1-10,datarade_top200
+aviowiki,aviowiki.com,https://www.linkedin.com/company/aviowiki,Social Data / Monitoring,Social scraping / monitoring,LOW,EE,1-10,datarade_top200
+AlgoSeek,algoseek.com,https://www.linkedin.com/company/algoseek,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,1-10,datarade_top200
+ShipsDNA,shipsdna.com,https://www.linkedin.com/company/shipsdna-portal,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,10000+,datarade_top200
+Smart Insider,smartinsider.com,https://www.linkedin.com/company/smart-insider,Other / Unknown,Needs validation,LOW,GB,51-200,datarade_top200
+AGR Marketing,agrmarketingsolutions.com,https://www.linkedin.com/company/agr-marketing-solutions-llc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,1-10,datarade_top200
+EPIC Translations,epictranslations.com,https://www.linkedin.com/company/epic-translations,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,US,1-10,datarade_top200
+Sovereign Intelligence,sovereign.ai,https://www.linkedin.com/company/sovereignintelligence,Other / Unknown,Needs validation,LOW,US,1-10,datarade_top200
+Speedeon Data,speedeondata.com,https://www.linkedin.com/company/speedeon-data-llc,Social Data / Monitoring,Social scraping / monitoring,LOW,US,51-200,datarade_top200
+dataplor,dataplor.com,https://www.linkedin.com/company/dataplor,Other / Unknown,Needs validation,LOW,US,51-200,datarade_top200
+Barchart,barchart.com,https://www.linkedin.com/company/barchart.com-inc.,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+Social Market Analytics,socialmarketanalytics.com,https://www.linkedin.com/company/context-analytics-inc,Social Data / Monitoring,Social scraping / monitoring,LOW,US,11-50,datarade_top200
+Sulpetro,sulpetro.com,https://www.linkedin.com/company/sulpetro-inc,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,CA,1-10,datarade_top200
+Anteriad,trueinfluence.com,https://www.linkedin.com/company/anteriad,Social Data / Monitoring,Social scraping / monitoring,LOW,US,1001-5000,datarade_top200
+Brain Company,braincompany.co,https://www.linkedin.com/company/brain-algorithms,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,IT,1-10,datarade_top200
+Zerotrafficking,zerotrafficking.com,https://www.linkedin.com/company/zerotrafficking,Web Scraping / Data Extraction,Web crawling / data extraction at scale,LOW,us,1-10,datarade_top200
+Lead411,lead411.com,https://www.linkedin.com/company/lead411,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,11-50,datarade_top200
+WiserBrand.com,wiserbrand.com,https://www.linkedin.com/company/wiser-brand,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,51-200,datarade_top200
+Particl,particl.com,https://www.linkedin.com/company/getparticl,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,11-50,datarade_top200
+Mapthrust,mapthrust.io,,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,,10000+,datarade_top200
+Datyle,datyle.co,,Social Data / Monitoring,Social scraping / monitoring,LOW,,10000+,datarade_top200
+MarketCheck,marketcheck.com,https://www.linkedin.com/company/marketcheckdata,E-commerce / Price Intelligence,Marketplace / retail price monitoring,LOW,US,11-50,datarade_top200
