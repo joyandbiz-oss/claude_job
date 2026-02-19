@@ -1,0 +1,389 @@
+# =============================================================================
+# LinkedIn Radar — RSS Feed Configuration
+# =============================================================================
+# Curated feeds for a Data Infrastructure / Proxy Industry CMO
+# 76 sources across 4 tiers
+# =============================================================================
+
+scoring:
+  dimensions:
+    viral_format:
+      weight: 0.25
+      description: "Can this become an Image-format LinkedIn post with 800+ chars?"
+    hook_strength:
+      weight: 0.25
+      description: "Can it start with a number/stat? Contrarian angle?"
+    audience_resonance:
+      weight: 0.30
+      description: "Relatable to data/tech professionals? Generate debate?"
+    timeliness:
+      weight: 0.20
+      description: "Breaking news? First-mover advantage?"
+
+  thresholds:
+    instant_post: 8
+    daily_digest_min: 5
+    always_include_competitors: true
+
+  competitors:
+    - Bright Data
+    - Oxylabs
+    - Smartproxy
+    - Decodo
+    - NetNut
+    - Zyte
+    - Apify
+    - IPRoyal
+    - Webshare
+    - SOAX
+
+# =============================================================================
+# TIER 1 — Must Read (check multiple times/day)
+# =============================================================================
+tier1_must_read:
+  description: "Core industry and tech sources — never miss"
+  feeds:
+    # --- Major Tech News ---
+    - name: "TechCrunch"
+      url: "https://techcrunch.com/feed/"
+      focus: "AI, data infrastructure, funding rounds"
+
+    - name: "The Verge"
+      url: "https://www.theverge.com/rss/index.xml"
+      focus: "Platform changes, AI, internet policy"
+
+    - name: "Ars Technica"
+      url: "https://feeds.arstechnica.com/arstechnica/index"
+      focus: "Deep tech analysis, security, AI"
+
+    - name: "Wired"
+      url: "https://www.wired.com/feed/rss"
+      focus: "Tech culture, privacy, AI trends"
+
+    - name: "MIT Technology Review"
+      url: "https://www.technologyreview.com/feed/"
+      focus: "AI research, data ethics, emerging tech"
+
+    # --- AI & Data Specific ---
+    - name: "VentureBeat AI"
+      url: "https://venturebeat.com/category/ai/feed/"
+      focus: "Enterprise AI, data infrastructure"
+
+    - name: "The Information"
+      url: "https://www.theinformation.com/feed"
+      focus: "Tech business scoops, AI deals"
+
+    - name: "Import AI Newsletter"
+      url: "https://importai.substack.com/feed"
+      focus: "AI research and industry developments"
+
+    - name: "The Batch (Andrew Ng)"
+      url: "https://read.deeplearning.ai/the-batch/feed"
+      focus: "AI trends and applications"
+
+    # --- Web & Platform ---
+    - name: "Cloudflare Blog"
+      url: "https://blog.cloudflare.com/rss/"
+      focus: "Web infrastructure, bot management, security"
+
+    - name: "The Register"
+      url: "https://www.theregister.com/headlines.atom"
+      focus: "Enterprise tech, data centers, cloud"
+
+    - name: "Hacker News (top)"
+      url: "https://hnrss.org/best"
+      focus: "Developer community trending topics"
+
+    # --- Privacy & Regulation ---
+    - name: "IAPP Privacy Tracker"
+      url: "https://iapp.org/news/rss/"
+      focus: "GDPR, privacy regulations, compliance"
+
+    - name: "EFF Deeplinks"
+      url: "https://www.eff.org/rss/updates.xml"
+      focus: "Digital rights, web scraping law"
+
+    - name: "TechPolicy.press"
+      url: "https://techpolicy.press/feed"
+      focus: "Tech regulation and policy"
+
+# =============================================================================
+# TIER 2 — Industry Sources (daily check)
+# =============================================================================
+tier2_industry:
+  description: "Industry-specific and business sources"
+  feeds:
+    # --- Data & Analytics ---
+    - name: "DataEngineeringWeekly"
+      url: "https://www.dataengineeringweekly.com/feed"
+      focus: "Data engineering trends"
+
+    - name: "dbt Blog"
+      url: "https://www.getdbt.com/blog/rss.xml"
+      focus: "Data transformation, analytics engineering"
+
+    - name: "Airbyte Blog"
+      url: "https://airbyte.com/blog/rss.xml"
+      focus: "Data integration, ETL/ELT"
+
+    - name: "Databricks Blog"
+      url: "https://www.databricks.com/feed"
+      focus: "Data lakehouse, AI/ML platforms"
+
+    - name: "Snowflake Blog"
+      url: "https://www.snowflake.com/feed/"
+      focus: "Cloud data warehousing"
+
+    # --- Web Scraping & Data Collection ---
+    - name: "ScrapingBee Blog"
+      url: "https://www.scrapingbee.com/blog/rss.xml"
+      focus: "Web scraping techniques"
+
+    - name: "ScrapeHero Blog"
+      url: "https://www.scrapehero.com/feed/"
+      focus: "Web data extraction"
+
+    - name: "ParseHub Blog"
+      url: "https://www.parsehub.com/blog/feed/"
+      focus: "Data extraction, no-code scraping"
+
+    - name: "Web Scraping Club"
+      url: "https://webscrapingclub.substack.com/feed"
+      focus: "Scraping community and techniques"
+
+    # --- Cybersecurity ---
+    - name: "KrebsOnSecurity"
+      url: "https://krebsonsecurity.com/feed/"
+      focus: "Cybercrime, fraud, botnets"
+
+    - name: "Dark Reading"
+      url: "https://www.darkreading.com/rss.xml"
+      focus: "Enterprise security, threat intel"
+
+    - name: "BleepingComputer"
+      url: "https://www.bleepingcomputer.com/feed/"
+      focus: "Security news, vulnerabilities"
+
+    - name: "The Hacker News"
+      url: "https://feeds.feedburner.com/TheHackersNews"
+      focus: "Cybersecurity news and analysis"
+
+    - name: "Schneier on Security"
+      url: "https://www.schneier.com/feed/"
+      focus: "Security analysis, privacy"
+
+    # --- Business & VC ---
+    - name: "a16z Blog"
+      url: "https://a16z.com/feed/"
+      focus: "VC trends, tech investing"
+
+    - name: "First Round Review"
+      url: "https://review.firstround.com/feed.xml"
+      focus: "Startup growth, GTM strategies"
+
+    - name: "SaaStr"
+      url: "https://www.saastr.com/feed/"
+      focus: "SaaS metrics, B2B growth"
+
+    - name: "Both Sides of the Table"
+      url: "https://bothsidesofthetable.com/feed"
+      focus: "VC perspective, startup strategy"
+
+    - name: "Tomasz Tunguz"
+      url: "https://tomtunguz.com/feed/"
+      focus: "SaaS metrics, data-driven insights"
+
+    # --- Marketing & LinkedIn ---
+    - name: "Social Media Examiner"
+      url: "https://www.socialmediaexaminer.com/feed/"
+      focus: "Social media marketing trends"
+
+    - name: "Content Marketing Institute"
+      url: "https://contentmarketinginstitute.com/feed/"
+      focus: "Content strategy"
+
+    - name: "SparkToro Blog"
+      url: "https://sparktoro.com/blog/feed/"
+      focus: "Audience research, marketing"
+
+    # --- E-commerce & Ad Tech ---
+    - name: "Practical Ecommerce"
+      url: "https://www.practicalecommerce.com/feed"
+      focus: "E-commerce trends, price monitoring"
+
+    - name: "AdExchanger"
+      url: "https://www.adexchanger.com/feed/"
+      focus: "Ad tech, programmatic, ad verification"
+
+    - name: "Digiday"
+      url: "https://digiday.com/feed/"
+      focus: "Digital media, advertising"
+
+    - name: "Marketing Land"
+      url: "https://feeds.feedburner.com/maboroshi/marketing-land"
+      focus: "Digital marketing, SEO"
+
+# =============================================================================
+# TIER 3 — Background (weekly scan, skip on weekdays by default)
+# =============================================================================
+tier3_background:
+  description: "Broader context — check weekly or when time permits"
+  feeds:
+    # --- General Tech ---
+    - name: "Benedict Evans"
+      url: "https://www.ben-evans.com/feed"
+      focus: "Tech market analysis"
+
+    - name: "Stratechery"
+      url: "https://stratechery.com/feed/"
+      focus: "Tech strategy analysis"
+
+    - name: "No Mercy No Malice (Scott Galloway)"
+      url: "https://www.profgalloway.com/feed/"
+      focus: "Tech commentary, markets"
+
+    - name: "Matt Levine (Bloomberg)"
+      url: "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss"
+      focus: "Finance, tech regulation"
+
+    - name: "Platformer"
+      url: "https://www.platformer.news/rss/"
+      focus: "Platform policy, social media"
+
+    # --- AI Deep Dive ---
+    - name: "The Gradient"
+      url: "https://thegradient.pub/rss/"
+      focus: "AI/ML research perspectives"
+
+    - name: "Ahead of AI (Sebastian Raschka)"
+      url: "https://magazine.sebastianraschka.com/feed"
+      focus: "ML research and engineering"
+
+    - name: "Interconnects (Nathan Lambert)"
+      url: "https://www.interconnects.ai/feed"
+      focus: "AI alignment, RLHF, LLMs"
+
+    - name: "Jack Clark (Import AI)"
+      url: "https://jack-clark.net/feed/"
+      focus: "AI policy and progress"
+
+    - name: "AI Snake Oil"
+      url: "https://www.aisnakeoil.com/feed"
+      focus: "AI hype vs reality"
+
+    # --- Developer & Infrastructure ---
+    - name: "InfoQ"
+      url: "https://feed.infoq.com/"
+      focus: "Software engineering, architecture"
+
+    - name: "The New Stack"
+      url: "https://thenewstack.io/feed/"
+      focus: "Cloud native, DevOps"
+
+    - name: "High Scalability"
+      url: "http://feeds.feedburner.com/HighScalability"
+      focus: "System design, scale"
+
+    - name: "Martin Fowler"
+      url: "https://martinfowler.com/feed.atom"
+      focus: "Software design"
+
+    - name: "Netflix Tech Blog"
+      url: "https://netflixtechblog.com/feed"
+      focus: "Streaming tech, data engineering"
+
+    - name: "Uber Engineering"
+      url: "https://eng.uber.com/feed/"
+      focus: "Data platform, ML systems"
+
+    - name: "LinkedIn Engineering"
+      url: "https://engineering.linkedin.com/blog.rss.html"
+      focus: "Data infra at scale"
+
+    - name: "Spotify Engineering"
+      url: "https://engineering.atspotify.com/feed/"
+      focus: "ML, data pipelines"
+
+    # --- Legal & Compliance ---
+    - name: "Techdirt"
+      url: "https://www.techdirt.com/feed/"
+      focus: "Internet law, CFAA, scraping cases"
+
+    - name: "Lawfare"
+      url: "https://www.lawfaremedia.org/feed"
+      focus: "Tech law, national security"
+
+# =============================================================================
+# COMPETITOR WATCH — Always included regardless of tier settings
+# =============================================================================
+competitor_watch:
+  description: "Direct competitor monitoring — always active"
+  feeds:
+    - name: "Bright Data Blog"
+      url: "https://brightdata.com/blog/feed"
+      focus: "Competitor content, product launches"
+      competitor: "Bright Data"
+
+    - name: "Oxylabs Blog"
+      url: "https://oxylabs.io/blog/rss.xml"
+      focus: "Competitor content, market positioning"
+      competitor: "Oxylabs"
+
+    - name: "Smartproxy Blog"
+      url: "https://smartproxy.com/blog/feed"
+      focus: "Competitor content"
+      competitor: "Smartproxy"
+
+    - name: "Zyte Blog"
+      url: "https://www.zyte.com/blog/feed/"
+      focus: "Competitor content, web scraping"
+      competitor: "Zyte"
+
+    - name: "Apify Blog"
+      url: "https://blog.apify.com/rss/"
+      focus: "Competitor content, web automation"
+      competitor: "Apify"
+
+    - name: "SOAX Blog"
+      url: "https://soax.com/blog/feed"
+      focus: "Competitor content"
+      competitor: "SOAX"
+
+    # --- Google News Competitor Alerts ---
+    - name: "Google News - Bright Data"
+      url: "https://news.google.com/rss/search?q=%22Bright+Data%22&hl=en-US&gl=US&ceid=US:en"
+      focus: "Bright Data mentions in news"
+      competitor: "Bright Data"
+
+    - name: "Google News - Oxylabs"
+      url: "https://news.google.com/rss/search?q=%22Oxylabs%22&hl=en-US&gl=US&ceid=US:en"
+      focus: "Oxylabs mentions in news"
+      competitor: "Oxylabs"
+
+    - name: "Google News - Web Scraping"
+      url: "https://news.google.com/rss/search?q=%22web+scraping%22+OR+%22data+collection%22+proxy&hl=en-US&gl=US&ceid=US:en"
+      focus: "Industry keyword monitoring"
+
+    - name: "Google News - Proxy Service"
+      url: "https://news.google.com/rss/search?q=%22proxy+service%22+OR+%22residential+proxy%22&hl=en-US&gl=US&ceid=US:en"
+      focus: "Proxy industry mentions"
+
+    - name: "Google News - NetNut"
+      url: "https://news.google.com/rss/search?q=%22NetNut%22+proxy&hl=en-US&gl=US&ceid=US:en"
+      focus: "NetNut mentions in news"
+      competitor: "NetNut"
+
+    - name: "Google News - IPRoyal"
+      url: "https://news.google.com/rss/search?q=%22IPRoyal%22&hl=en-US&gl=US&ceid=US:en"
+      focus: "IPRoyal mentions in news"
+      competitor: "IPRoyal"
+
+    - name: "Google News - Webshare"
+      url: "https://news.google.com/rss/search?q=%22Webshare%22+proxy&hl=en-US&gl=US&ceid=US:en"
+      focus: "Webshare mentions in news"
+      competitor: "Webshare"
+
+    - name: "Google News - Decodo"
+      url: "https://news.google.com/rss/search?q=%22Decodo%22+proxy+OR+%22Smartproxy%22&hl=en-US&gl=US&ceid=US:en"
+      focus: "Decodo/Smartproxy mentions in news"
+      competitor: "Decodo"
