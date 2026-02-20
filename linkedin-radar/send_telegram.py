@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-send_telegram.py — Sends LinkedIn Radar results to Telegram.
+send_telegram.py — LinkedIn Radar v6 Telegram sender.
+Sends scored posts with fact-check blocks in HTML format.
 Token and Chat ID from env vars or command-line args.
 NEVER hardcodes secrets.
 """
@@ -16,12 +17,13 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
 
-def escape_html(text: str) -> str:
+def escape(text: str) -> str:
     """Escape HTML special chars for Telegram HTML mode."""
     return html.escape(text, quote=False)
 
 
-def send_message(token: str, chat_id: str, text: str, parse_mode: str = "HTML") -> bool:
+def send_message(token: str, chat_id: str, text: str,
+                 parse_mode: str = "HTML") -> bool:
     """Send a message, splitting if >4096 chars."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     chunks = []
@@ -73,9 +75,7 @@ def main():
         print("ERROR: token and chat_id are required")
         sys.exit(1)
 
-    # Read posts from command line args or stdin
     if len(sys.argv) > 1:
-        # File mode: read messages from file, one per double-newline
         with open(sys.argv[1]) as f:
             content = f.read()
         messages = content.split("\n===NEXT===\n")
@@ -84,11 +84,11 @@ def main():
             if not msg:
                 continue
             print(f"Sending message {i+1}/{len(messages)}...")
-            send_message(token, chat_id, msg, parse_mode="")
+            send_message(token, chat_id, msg, parse_mode="HTML")
         print("Done!")
     else:
         print("Usage: python send_telegram.py <messages_file>")
-        print("  Messages file: plain text, separated by ===NEXT===")
+        print("  Messages file: HTML text, separated by ===NEXT===")
 
 
 if __name__ == "__main__":
