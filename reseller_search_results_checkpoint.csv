@@ -1,0 +1,71 @@
+company_name,company_domain,company_linkedin,category,tier,company_size,country,contact_name,contact_title,contact_linkedin_url,contact_email,email_status,contact_seniority,apollo_person_id,has_email
+Geonix,geonix.com,http://www.linkedin.com/company/geonix-proxies,IPv4/IPv6/ISP/Mobile/Residential,Tier 2: Competitor / Reseller,Small-Medium,Bulgaria,Igor Ef***o,Chief Executive Officer / CEO,,,,c_suite,5ddd3fb7c8ce8d0001de0f6e,False
+Geonix,geonix.com,http://www.linkedin.com/company/geonix-proxies,IPv4/IPv6/ISP/Mobile/Residential,Tier 2: Competitor / Reseller,Small-Medium,Bulgaria,Maksym Va***v,Chief Executive Officer,,,,c_suite,6627452dc216d80007f8e057,True
+NodeMaven,nodemaven.com,http://www.linkedin.com/company/nodemaven,Residential + Mobile Proxy,Tier 2: Competitor / Reseller,Small-Medium,,Mikhail To***n,Product Manager,,,,manager,67c178b375bff90001b5ca16,True
+NodeMaven,nodemaven.com,http://www.linkedin.com/company/nodemaven,Residential + Mobile Proxy,Tier 2: Competitor / Reseller,Small-Medium,,Danil Ch***v,Product Manager,,,,manager,68ed7e543fe3470001a9e697,False
+ProxyWing,proxywing.com,http://www.linkedin.com/company/proxywing,Proxy Provider,Tier 2: Competitor / Reseller,Small,United States,Daniil Pr***s,Chief Executive Officer,,,,c_suite,66b20245392fa70001e19c19,False
+Proxidize,proxidize.com,http://www.linkedin.com/company/proxidize,Mobile Proxy Hardware+Software,Tier 2: Competitor / Reseller,Small-Medium,United Kingdom,Abed El***z,CEO,,,,c_suite,682f13600c777c0001d210ef,True
+Proxyjet,proxyjet.io,http://www.linkedin.com/company/proxyjet,Proxy Provider,Tier 2: Competitor / Reseller,Small,United States,Sofia Ro***n,Marketing Communication & Partnership Manager,,,,manager,6830302cd0a34c0001c7c7aa,False
+IPWAY,ipway.io,http://www.linkedin.com/company/ipway,DC + Residential Proxy,Tier 2: Competitor / Reseller,Small-Medium,United States,Daniel St***n,Digital Technology Sales Manager,,,,manager,67e99616c1a85900019bf6c1,True
+OnlineProxy.io,onlineproxy.io,http://www.linkedin.com/company/onlineproxy-io,Mobile Proxy Provider,Tier 2: Competitor / Reseller,Small-Medium,,Artem Ka***v,Product Marketing Manager,,,,manager,67347c97b541a70001e29ff4,True
+Proxyon.io,proxyon.io,http://www.linkedin.com/company/proxyonio,Proxy Provider,Tier 2: Competitor / Reseller,Small,United States,Ankit S,Co-Founder / CEO,,,,c_suite,68d19964a77a6f00013728f3,False
+Proxy.Market,proxy.market,http://www.linkedin.com/company/proxyy-market,Proxy Marketplace,Tier 2: Competitor / Reseller,Small,Turkey,Pavel Fi***v,Founder,,,,founder,644105a97a5c870001d269f7,False
+Proxy.Market,proxy.market,http://www.linkedin.com/company/proxyy-market,Proxy Marketplace,Tier 2: Competitor / Reseller,Small,Turkey,Artem Pa***v,Head of Product,,,,head,66d17d7c13bcb10001b96e0b,False
+Proxy.Market,proxy.market,http://www.linkedin.com/company/proxyy-market,Proxy Marketplace,Tier 2: Competitor / Reseller,Small,Turkey,Oleg Ku***n,Sales Manager,,,,manager,67d51f1227e1440001fe44e0,False
+Proxyma,proxyma.io,http://www.linkedin.com/company/proxyma-io,Proxy Provider,Tier 2: Competitor / Reseller,Small,Hong Kong,Yevhenii Sy***h,Sales Manager,,,,manager,65dcceaa1e2c470001a66d7d,False
+Proxynet.io,proxynet.io,http://www.linkedin.com/company/proxynet,Proxy Network,Tier 2: Reseller Candidate,Small,,Sinem Pa***k,Data Sales Manager,,,,manager,67e49ef9bc999c0001423511,False
+3G Proxy,3gproxy.com,http://www.linkedin.com/company/3gproxy,Mobile Proxy Provider,Tier 2: Reseller Candidate,Small,Montenegro,Artjom Pu***h,CEO & Co-founder,,,,c_suite,6071869ddbb5c100017db0a5,True
+3G Proxy,3gproxy.com,http://www.linkedin.com/company/3gproxy,Mobile Proxy Provider,Tier 2: Reseller Candidate,Small,Montenegro,Mirko Vu***c,Chief Executive Officer,,,,c_suite,57d84133a6da980a36d3eee6,True
+ARC2 Proxy,arc2proxy.com,http://www.linkedin.com/company/denev-operations-ltd,Proxy Provider,Tier 2: Reseller Candidate,Small,,Milen De***v,Chief Executive Officer,,,,c_suite,67319a0b8f42dc0001926099,True
+Ninja Proxy,ninjasproxy.com,http://www.linkedin.com/company/ninjaproxy,Proxy Provider,Tier 2: Reseller Candidate,Small,United States,Matt To***o,Chief Executive Officer,,,,c_suite,6471c070d5856c0001138c91,True
+Infatica,infatica.io,http://www.linkedin.com/company/infatica,Residential + Mobile + Scraping API,Tier 2: Competitor / Reseller,Medium,United Kingdom,Pavlo Zi***i,Co-founder / Chief Technology Officer,,,,c_suite,66ed76a49d82170001926ed7,True
+Infatica,infatica.io,http://www.linkedin.com/company/infatica,Residential + Mobile + Scraping API,Tier 2: Competitor / Reseller,Medium,United Kingdom,Xenia La***a,Chief Marketing Officer,,,,c_suite,60f24ce3ea87490001389348,False
+Infatica,infatica.io,http://www.linkedin.com/company/infatica,Residential + Mobile + Scraping API,Tier 2: Competitor / Reseller,Medium,United Kingdom,Vladimir Fo***o,Founder,,,,founder,66fa27a583ba0c0001858c56,True
+Infatica,infatica.io,http://www.linkedin.com/company/infatica,Residential + Mobile + Scraping API,Tier 2: Competitor / Reseller,Medium,United Kingdom,Volodymyr Kh***o,VP of Global Partnerships,,,,vp,63629af32e90b30001494b19,True
+Infatica,infatica.io,http://www.linkedin.com/company/infatica,Residential + Mobile + Scraping API,Tier 2: Competitor / Reseller,Medium,United Kingdom,Domas Sk***s,Head of Strategic Partnerships,,,,head,68ccccc745d15400016c0353,False
+Multilogin,multilogin.com,http://www.linkedin.com/company/multilogin,Anti-detect Browser,Tier 3: Partner / Tool,Medium,Estonia,Emma Ro***i,Business Development Manager,,,,manager,687301ef93721c00018c91bd,False
+Multilogin,multilogin.com,http://www.linkedin.com/company/multilogin,Anti-detect Browser,Tier 3: Partner / Tool,Medium,Estonia,Anahit Mk***n,Product Manager,,,,manager,5d60d174a3ae6172ae45a195,True
+Multilogin,multilogin.com,http://www.linkedin.com/company/multilogin,Anti-detect Browser,Tier 3: Partner / Tool,Medium,Estonia,Vladan Dr***c,Product Manager,,,,manager,65186334c45b4b00017ae1e2,False
+Squid Proxies,squidproxies.com,http://www.linkedin.com/company/squidproxies,,Tier 2: Competitor / Reseller,,United States,Maricor Bu***n,Head of Partnerships,,,,head,61266b2a90e82500012b7c2c,False
+Thordata,thordata.com,http://www.linkedin.com/company/thordata,,Tier 2: Competitor / Reseller,,Hong Kong,Kristy Wa***g,Business Development Manager,,,,manager,64258852185f4a00016c4dfa,False
+Thordata,thordata.com,http://www.linkedin.com/company/thordata,,Tier 2: Competitor / Reseller,,Hong Kong,Ethan Sun,Business Development Manager,,,,manager,68f9f5e4d78c2500010ae33d,False
+Ping Proxies,pingproxies.com,http://www.linkedin.com/company/ping-proxies,,Tier 2: Competitor / Reseller,,United Kingdom,Timur Gok,Founder and Managing Director,,,,c_suite,609ed8c828ee4200018086fd,True
+Ping Proxies,pingproxies.com,http://www.linkedin.com/company/ping-proxies,,Tier 2: Competitor / Reseller,,United Kingdom,Jack Ho***n,Co-Founder,,,,founder,5fc45d1b6c6f14000179a97d,False
+Gsocks,gsocks.net,http://www.linkedin.com/company/gsocks-inc,,Tier 2: Competitor / Reseller,,United States,Sviatoslav Li***v,CEO | Founder,,,,c_suite,65e04a9656b03d0001f9c840,False
+Gsocks,gsocks.net,http://www.linkedin.com/company/gsocks-inc,,Tier 2: Competitor / Reseller,,United States,Alex Sh***t,Chief Technology Officer(CTO),,,,c_suite,66ae71d64f6f9a0001f1b9a5,False
+FlashProxy,flashproxy.com,http://www.linkedin.com/company/flashproxy,,Tier 2: Competitor / Reseller,,Netherlands,Alon Le***i,Deputy CEO,,,,c_suite,65b362970501ca0001566e2a,True
+Illusory,illusory.io,http://www.linkedin.com/company/illusoryio,,Tier 2: Competitor / Reseller,,United States,Josiah Ri***s,"CEO, Founder",,,,c_suite,6193004ef2ca7b0001280562,True
+IPIDEA,ipidea.net,http://www.linkedin.com/company/www.ipidea.net,,Tier 2: Competitor / Reseller,,,Jing Do***g,CMO,,,,c_suite,696a0407bbb9b20001189bf2,False
+PacketStream,packetstream.io,http://www.linkedin.com/company/packetstream,,Tier 2: Competitor / Reseller,,United States,Ronald Be***l,Co-Founder,,,,founder,63a73ab93ceed4000140c79b,True
+PacketStream,packetstream.io,http://www.linkedin.com/company/packetstream,,Tier 2: Competitor / Reseller,,United States,David Bi***l,"VP, Business Development",,,,,66f6283f1e771c000171eb34,True
+RapidSeedbox,rapidseedbox.com,http://www.linkedin.com/company/rapidseedbox,,Tier 2: Competitor / Reseller,,Seychelles,Yuli Az***h,CEO & Co-founder,,,,c_suite,57d73603a6da986488211500,True
+RapidSeedbox,rapidseedbox.com,http://www.linkedin.com/company/rapidseedbox,,Tier 2: Competitor / Reseller,,Seychelles,Yuri Me***n,Product Manager,,,,manager,642c1bb2b747b00001fd77e4,True
+ProxyLab,proxylab.io,http://www.linkedin.com/company/proxylab,,Tier 2: Competitor / Reseller,,United States,Danyil Ki***k,Co-Founder,,,,founder,69145e56bb4f950001720892,False
+We1Town,we1.town,http://www.linkedin.com/company/we1town,,Tier 2: Competitor / Reseller,,Turkey,Alican Ba***n,Founder,,,,founder,5ce709aaa3ae61b44942f1e8,False
+Spider Residential Proxy Network,spider.com,http://www.linkedin.com/company/spider-com,,Tier 2: Competitor / Reseller,,United States,Jay We***t,Chief Executive Officer,,,,c_suite,606f08dbf079450001545604,False
+Scraper API,scraperapi.com,http://www.linkedin.com/company/scraperapi,,Tier 2: Competitor / Reseller,,United States,Simon Er***e,Chief Executive Officer,,,,c_suite,6203b2c61765f400015f7c9a,True
+Scraper API,scraperapi.com,http://www.linkedin.com/company/scraperapi,,Tier 2: Competitor / Reseller,,United States,Maia Sa***s,Chief Revenue Officer (CRO),,,,c_suite,65cdf8b60c4c3500019f748f,True
+Scraper API,scraperapi.com,http://www.linkedin.com/company/scraperapi,,Tier 2: Competitor / Reseller,,United States,Natalia Ca***p,Head of Sales,,,,head,65fecb9d7cdd2c000665efe0,True
+AceProxies,aceproxies.com,http://www.linkedin.com/company/ace-proxies,,Tier 2: Competitor / Reseller,,Romania,Victor Mi***a,Chief CEO,,,,c_suite,5f01d4ca695cb0000133686b,True
+SimplyNode,simplynode.io,http://www.linkedin.com/company/simplynode,,Tier 2: Competitor / Reseller,,,Valentyn Bo***k,Founder and CEO,,,,c_suite,67ac34ca9faf5b0001253e32,True
+SimplyNode,simplynode.io,http://www.linkedin.com/company/simplynode,,Tier 2: Competitor / Reseller,,,Kateryna Ri***a,Business Development Manager | Residential & Mobile Proxies,,,,manager,67e5345f93817a00013ccf9b,False
+The Social Proxy,thesocialproxy.com,http://www.linkedin.com/company/thesocialproxy,,Tier 2: Competitor / Reseller,,Israel,Tal Kl***r,Co-Founder & CEO,,,,c_suite,605ad9e90df8e8000137c3db,True
+The Social Proxy,thesocialproxy.com,http://www.linkedin.com/company/thesocialproxy,,Tier 2: Competitor / Reseller,,Israel,Jonathan Or,Chief Operating Officer,,,,c_suite,667a57b7e06d40000137d77f,True
+The Social Proxy,thesocialproxy.com,http://www.linkedin.com/company/thesocialproxy,,Tier 2: Competitor / Reseller,,Israel,Oren Sa***g,Co-Founder,,,,founder,54c1f3637468697af7adb162,True
+anyIP,anyip.io,http://www.linkedin.com/company/anyip-proxies,,Tier 2: Competitor / Reseller,,Singapore,Jonathan Di***c,Co-Founder & Co-Chief Technical Officer,,,,c_suite,54ec6fe5746869444c7f1282,False
+anyIP,anyip.io,http://www.linkedin.com/company/anyip-proxies,,Tier 2: Competitor / Reseller,,Singapore,Khaled Be***i,Co-Founder,,,,founder,60196a1582a3520001a059ab,True
+PYPROXY,pyproxy.com,http://www.linkedin.com/company/pyproxy,,Tier 2: Competitor / Reseller,,Hong Kong,Shouzhi Zhu,Chief Technology Officer,,,,c_suite,6683b37aba7b79000107a6a8,False
+PlainProxies,plainproxies.com,http://www.linkedin.com/company/plainproxies,,Tier 2: Competitor / Reseller,,Germany,Friedrich Kr***t,CEO,,,,c_suite,63e1fce358ce5900013a667f,True
+PlainProxies,plainproxies.com,http://www.linkedin.com/company/plainproxies,,Tier 2: Competitor / Reseller,,Germany,Micaela R,Business Development Manager,,,,manager,65aedb234992370001e26a11,False
+Proxiware,proxiware.com,http://www.linkedin.com/company/proxiware,,Tier 2: Competitor / Reseller,,India,Jose Pe***a,Co-Founder,,,,founder,66faab9edcf63a0001e173d8,True
+Limeproxies,limeproxies.com,http://www.linkedin.com/company/lime-proxies,,Tier 2: Competitor / Reseller,,United States,Tamiris So***a,Sales Manager,,,,manager,612692c5df535f0001f405bd,False
+MangoProxy,mangoproxy.com,http://www.linkedin.com/company/mango-group-company,,Tier 2: Competitor / Reseller,,,Igor Se***v,Founder,,,,founder,64d48b06c3c18200012de413,True
+MangoProxy,mangoproxy.com,http://www.linkedin.com/company/mango-group-company,,Tier 2: Competitor / Reseller,,,Vladislav Be***a,Business Development Manager,,,,manager,69153a616125600001a96763,False
+MangoProxy,mangoproxy.com,http://www.linkedin.com/company/mango-group-company,,Tier 2: Competitor / Reseller,,,Aleksandr Ve***n,Product Manager,,,,manager,66e7e2fcd4a7930001d1353f,False
+Massive,massive.io,http://www.linkedin.com/company/masv,,Tier 2: Competitor / Reseller,,Canada,Majed Al***y,CTO & Interim CEO,,,,c_suite,60efee58dbdfa4000138b817,False
+Massive,massive.io,http://www.linkedin.com/company/masv,,Tier 2: Competitor / Reseller,,Canada,Gene Vi***e,Chief Revenue Officer,,,,c_suite,66f9af2683ba0c00015fd68b,True
+Massive,massive.io,http://www.linkedin.com/company/masv,,Tier 2: Competitor / Reseller,,Canada,Sonya De***u,VP Sales,,,,vp,66f15900ffd65f00018276a1,True
+CyberYozh,cyberyozh.com,http://www.linkedin.com/company/webgearsservices,,Tier 2: Competitor / Reseller,,Serbia,Nick Ka***n,Chief Technology Officer,,,,c_suite,673ae9d82565ef00013a5ee4,False
+CyberYozh,cyberyozh.com,http://www.linkedin.com/company/webgearsservices,,Tier 2: Competitor / Reseller,,Serbia,Oleg Ni***n,Co-Founder,,,,founder,654344441867f10001c313f8,False
+Evomi,evomi.com,http://www.linkedin.com/company/evomi,,Tier 2: Competitor / Reseller,,Switzerland,Paul Re***r,Founder,,,,founder,64241cb54b2dc80001d1245c,True
+Floppydata,floppydata.com,http://www.linkedin.com/company/floppydata,,Tier 2: Competitor / Reseller,,,Dmitry Ka***v,"Engineering Lead, Technical Co-Founder",,,,founder,54a5266e746869367636e580,True
