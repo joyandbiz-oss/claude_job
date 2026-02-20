@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
 seen_urls.json
-output/*.md
+articles.json
