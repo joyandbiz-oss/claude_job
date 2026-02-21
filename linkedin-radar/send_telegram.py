@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-send_telegram.py — LinkedIn Radar v6 Telegram sender.
+send_telegram.py — LinkedIn Radar v7 Telegram sender.
 Sends scored posts with fact-check blocks in HTML format.
-Token and Chat ID from env vars or command-line args.
+Token and Chat ID from .env file or env vars.
 NEVER hardcodes secrets.
 """
 
@@ -10,8 +10,18 @@ import html
 import os
 import sys
 import time
+from pathlib import Path
 
 import requests
+
+# Load .env from script directory
+_env_path = Path(__file__).resolve().parent / ".env"
+if _env_path.exists():
+    for line in _env_path.read_text().splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip())
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
