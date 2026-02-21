@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-rss_fetcher.py — LinkedIn Radar v6
-Fetches 105 RSS feeds with proxy fallback, ThreadPoolExecutor,
+rss_fetcher.py — LinkedIn Radar v7
+Fetches 105 RSS feeds with smart proxy routing, ThreadPoolExecutor,
 diagnostic output, and 72h window.
 
 Usage:
@@ -18,11 +18,11 @@ import re
 import ssl
 import sys
 import time
+import urllib.parse
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
-from urllib.request import ProxyHandler, Request, build_opener
 
 import feedparser
 import yaml
@@ -40,9 +40,21 @@ FEEDS_PATH = SCRIPT_DIR / "feeds.yaml"
 # ── Proxy config ──────────────────────────────────────────────────────────────
 PROXY_URL = os.environ.get("PROXY_URL", "")
 
-# Domains that ALWAYS go through proxy
-ALWAYS_PROXY = [
+# Domains that ALWAYS go through proxy (no direct attempt)
+ALWAYS_PROXY_DOMAINS = [
     "reddit.com",
+    "www.reddit.com",
+]
+
+# Domains that try direct first, but fallback to proxy on error
+FALLBACK_PROXY_DOMAINS = [
+    "news.google.com",
+    "www.producthunt.com",
+    "www.statista.com",
+    "www.cbinsights.com",
+    "www.similarweb.com",
+    "www.platformer.news",
+    "www.wired.com",
 ]
 
 # ── Mobile User-Agent (iPhone Safari) ─────────────────────────────────────────
@@ -54,8 +66,10 @@ USER_AGENT = (
 
 HEADERS = {
     "User-Agent": USER_AGENT,
-    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, */*",
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "identity",
+    "Connection": "keep-alive",
 }
 
 TRACKING_PARAMS = {
@@ -69,12 +83,12 @@ TRACKING_PARAMS = {
 # ── URL utilities ─────────────────────────────────────────────────────────────
 def normalize_url(url: str) -> str:
     try:
-        parsed = urlparse(url)
-        params = parse_qs(parsed.query, keep_blank_values=False)
+        parsed = urllib.parse.urlparse(url)
+        params = urllib.parse.parse_qs(parsed.query, keep_blank_values=False)
         filtered = {k: v for k, v in params.items()
                     if k.lower() not in TRACKING_PARAMS}
-        clean_query = urlencode(filtered, doseq=True)
-        return urlunparse((
+        clean_query = urllib.parse.urlencode(filtered, doseq=True)
+        return urllib.parse.urlunparse((
             parsed.scheme, parsed.netloc.lower(),
             parsed.path.rstrip("/"), parsed.params, clean_query, "",
         ))
@@ -123,52 +137,64 @@ def clean_summary(entry) -> str:
     return clean[:1500]
 
 
-# ── Proxy logic ───────────────────────────────────────────────────────────────
-def should_always_proxy(url: str) -> bool:
-    return any(domain in url for domain in ALWAYS_PROXY)
+# ── Proxy logic (v7: improved with FALLBACK domains + SSL handler) ───────────
+def _build_opener(use_proxy=False):
+    """Build URL opener with optional proxy and permissive SSL."""
+    handlers = []
 
-
-def fetch_feed_with_proxy(url: str, use_proxy: bool = False) -> bytes:
-    """Fetch RSS feed content with optional proxy support."""
-    if use_proxy and PROXY_URL:
-        proxy_handler = ProxyHandler({
-            "http": PROXY_URL,
-            "https": PROXY_URL,
-        })
-        opener = build_opener(proxy_handler)
-    else:
-        opener = build_opener()
-
-    req = Request(url)
-    for k, v in HEADERS.items():
-        req.add_header(k, v)
-
-    # Create SSL context that doesn't verify (some proxies need this)
+    # SSL context that doesn't verify (some feeds/proxies have cert issues)
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
+    handlers.append(urllib.request.HTTPSHandler(context=ctx))
 
-    response = opener.open(req, timeout=20)
-    return response.read()
+    if use_proxy and PROXY_URL:
+        proxy_handler = urllib.request.ProxyHandler({
+            "http": PROXY_URL,
+            "https": PROXY_URL,
+        })
+        handlers.append(proxy_handler)
+
+    return urllib.request.build_opener(*handlers)
 
 
-def fetch_with_fallback(url: str) -> tuple[bytes, str]:
-    """Try direct first, fallback to proxy. Returns (content, method)."""
-    if should_always_proxy(url):
+def _domain_of(url: str) -> str:
+    return urllib.parse.urlparse(url).netloc
+
+
+def fetch_feed(url: str, timeout=20) -> tuple[bytes, str]:
+    """Fetch RSS feed with smart proxy routing. Returns (content, method)."""
+    req = urllib.request.Request(url)
+    for k, v in HEADERS.items():
+        req.add_header(k, v)
+
+    domain = _domain_of(url)
+
+    # Step 1: Always-proxy domains
+    if any(d in domain for d in ALWAYS_PROXY_DOMAINS):
         if PROXY_URL:
-            content = fetch_feed_with_proxy(url, use_proxy=True)
-            return content, "proxy"
-        raise Exception("Proxy required but PROXY_URL not set")
+            opener = _build_opener(use_proxy=True)
+            return opener.open(req, timeout=timeout).read(), "proxy"
+        raise Exception(f"Proxy required for {domain} but PROXY_URL not set")
 
+    # Step 2: Try direct first
     try:
-        content = fetch_feed_with_proxy(url, use_proxy=False)
-        return content, "direct"
+        opener = _build_opener(use_proxy=False)
+        return opener.open(req, timeout=timeout).read(), "direct"
     except Exception as e:
-        err_str = str(e).lower()
-        if any(code in err_str for code in ("403", "429", "blocked", "forbidden")):
-            if PROXY_URL:
-                content = fetch_feed_with_proxy(url, use_proxy=True)
-                return content, "proxy_fallback"
+        error_str = str(e).lower()
+        # Step 3: If blocked or known fallback domain, retry with proxy
+        should_retry = any(code in error_str for code in
+                          ["403", "429", "406", "451", "blocked", "forbidden",
+                           "too many", "captcha"])
+        if not should_retry:
+            should_retry = any(d in domain for d in FALLBACK_PROXY_DOMAINS)
+        if should_retry and PROXY_URL:
+            req2 = urllib.request.Request(url)
+            for k, v in HEADERS.items():
+                req2.add_header(k, v)
+            opener = _build_opener(use_proxy=True)
+            return opener.open(req2, timeout=timeout).read(), "proxy_fallback"
         raise
 
 
@@ -212,13 +238,12 @@ def fetch_one(feed: dict, cutoff: datetime) -> dict:
     }
 
     try:
-        content, method = fetch_with_fallback(url)
+        content, method = fetch_feed(url)
         result["method"] = method
         result["http_code"] = 200
     except Exception as e:
         err = str(e)
-        # Extract HTTP code if present
-        for code in ("403", "404", "429", "500", "502", "503"):
+        for code in ("403", "404", "406", "429", "451", "500", "502", "503"):
             if code in err:
                 result["http_code"] = int(code)
                 break
@@ -320,32 +345,36 @@ def fetch_all(feeds: list[dict], cutoff: datetime) -> tuple[list[dict], list[dic
 # ── Diagnostic report ─────────────────────────────────────────────────────────
 def write_diagnostic(diagnostics: list[dict], output_path: Path,
                      total_articles: int, unique_articles: int):
-    """Write diagnostic markdown table."""
+    """Write diagnostic markdown table with method breakdown."""
     lines = [
-        "# LinkedIn Radar v6 — Feed Diagnostic",
+        "# LinkedIn Radar v7 — Feed Diagnostic",
         f"## Date: {datetime.now().strftime('%Y-%m-%d %H:%M')} | Window: 72h",
         "",
         "| # | Feed | Tier | Status | HTTP | Method | Total | 72h | Error |",
         "|---|------|------|--------|------|--------|------:|----:|-------|",
     ]
 
-    # Sort by tier then name
     diagnostics.sort(key=lambda d: (d["tier"], d["name"]))
 
-    ok = proxy_used = errors = 0
+    ok = direct = proxy = proxy_fb = errors = 0
     for i, d in enumerate(diagnostics, 1):
         status = d["status"]
+        method = d.get("method", "direct")
         if status == "ok":
             ok += 1
+            if method == "direct":
+                direct += 1
+            elif method == "proxy":
+                proxy += 1
+            elif method == "proxy_fallback":
+                proxy_fb += 1
         else:
             errors += 1
-        if "proxy" in (d.get("method") or ""):
-            proxy_used += 1
 
         error_short = (d.get("error") or "")[:60]
         lines.append(
             f"| {i} | {d['name']} | {d['tier'][:10]} | {status} "
-            f"| {d.get('http_code') or '—'} | {d.get('method', '—')} "
+            f"| {d.get('http_code') or '—'} | {method} "
             f"| {d['total_entries']} | {d['entries_72h']} | {error_short} |"
         )
 
@@ -353,8 +382,10 @@ def write_diagnostic(diagnostics: list[dict], output_path: Path,
         "",
         "## Summary",
         f"- Feeds OK: {ok}/{len(diagnostics)}",
+        f"  - Direct: {direct}",
+        f"  - Proxy: {proxy}",
+        f"  - Proxy fallback: {proxy_fb}",
         f"- Feeds errored: {errors}",
-        f"- Feeds via proxy: {proxy_used}",
         f"- Total articles (raw): {total_articles}",
         f"- Unique articles: {unique_articles}",
     ])
@@ -365,24 +396,35 @@ def write_diagnostic(diagnostics: list[dict], output_path: Path,
 
 # ── CLI ───────────────────────────────────────────────────────────────────────
 def main():
+    global PROXY_URL
+
     parser = argparse.ArgumentParser(
-        description="LinkedIn Radar v6 — RSS feed fetcher with proxy support"
+        description="LinkedIn Radar v7 — RSS feed fetcher with smart proxy routing"
     )
     parser.add_argument("--hours", type=int, default=72,
                         help="Lookback window in hours (default: 72)")
     parser.add_argument("--output", type=str, default="articles.json",
                         help="Output JSON file (default: articles.json)")
-    parser.add_argument("--diagnostic", type=str, default="output/diagnostic.md",
+    parser.add_argument("--diagnostic", type=str, default="output/diagnostic_v7.md",
                         help="Diagnostic output file")
     args = parser.parse_args()
 
-    # Proxy info
+    # Proxy prompt
+    if not PROXY_URL:
+        log.warning("PROXY_URL not set. Reddit and some feeds will fail.")
+        log.warning("Set PROXY_URL env var or enter now (empty to skip):")
+        try:
+            user_input = input("PROXY_URL> ").strip()
+            if user_input:
+                PROXY_URL = user_input
+        except (EOFError, KeyboardInterrupt):
+            pass
+
     if PROXY_URL:
-        # Mask credentials in log
         masked = re.sub(r"://[^@]+@", "://***:***@", PROXY_URL)
         log.info("Proxy configured: %s", masked)
     else:
-        log.info("No proxy configured (set PROXY_URL env var)")
+        log.info("No proxy — Reddit, some Google News feeds will fail")
 
     feeds = load_feeds()
     log.info("Loaded %d feeds from feeds.yaml", len(feeds))
@@ -412,6 +454,15 @@ def main():
         by_tier[a["tier"]] = by_tier.get(a["tier"], 0) + 1
     for t, n in sorted(by_tier.items()):
         log.info("  %s: %d", t, n)
+
+    # Method breakdown
+    methods = {}
+    for d in diagnostics:
+        m = d.get("method", "direct")
+        s = d["status"]
+        key = m if s == "ok" else "error"
+        methods[key] = methods.get(key, 0) + 1
+    log.info("Methods: %s", methods)
 
     return articles
 
