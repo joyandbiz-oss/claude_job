@@ -6,16 +6,16 @@ proxy:
   # DataImpulse residential proxy credentials
   # The script reads from env var DI_PROXY_URL, but here's the default for convenience
   env_var: DI_PROXY_URL
-  default_url: "http://c607101cbc744679901d_country-us:71addcef09210b43@gw.dataimpulse.com:823"
+  default_url: "http://c77c9137ab4e3066858f__nocr.af,dz:d3dd6b4d65c9912f@gw.dataimpulse.com:823"
   # Proxy rotation: change _country-us suffix to target different geos if needed
   # Available: _country-us, _country-gb, _country-de, _country-fr, _country-es
-  fallback_direct: true        # Try direct first, proxy on 403/429
+  fallback_direct: false       # Always use proxy
   ssl_verify: true             # Only disable as last resort, log warning
 
 rate_limit:
-  requests_per_second: 1.5
-  retry_max: 3
-  retry_base_wait: 2          # seconds, exponential backoff
+  requests_per_second: 1.0
+  retry_max: 4
+  retry_base_wait: 3          # seconds, exponential backoff
 
 discovery:
   pages_per_query: 4           # continuation pages per search query
@@ -124,61 +124,157 @@ queries:
     - como scrapear páginas web
     - automatizar tareas python
 
-# ── Seed channels (top 50 from master list + best V2 discoveries) ────
+# ── Seed channels (149 lookalike seeds for expansion) ────
 # These are used for expansion: find related/similar creators
 seed_channels:
-  # === TOP 50 from master influencer list (by AI relevance score) ===
-  - "@simonscrapes"          # Simon Scrapes, 36.3K, score 10 — IDEAL FIT
-  - "@Octoparsewebscraping"  # Octoparse, 12.4K, score 10 — scraping tool
-  - "@oxylabs"               # Oxylabs, 9.1K, score 10 — competitor, study strategy
-  - "@n8n-io"                # N8n, 189K, score 9 — automation platform
-  - "@Fireship"              # fireship.io, 4.1M, score 9 — top dev channel
-  - "@NeuralNine"            # NeuralNine, 441K, score 8 — Python/AI
-  - "@PythonSimplified"      # Python Simplified, 277K, score 8
-  - "@THEECOMKING"           # The Ecom King, 594K, score 8 — ecommerce
-  - "@hasanaboulhasan"       # Hasan Aboul Hasan, 1M, score 8 — AI automation
-  - "@syntaxfm"              # Syntax, 451K, score 8 — web dev podcast
-  - "@harkirat1"             # Harkirat Singh, 556K, score 8
-  - "@davidbombal"           # David Bombal, 3M, score 8 — cybersecurity
-  - "@ThioJoe"               # ThioJoe, 3.1M, score 8 — tech tools
-  - "@JoeColantonio"         # Joe Colantonio, 453K, score 7 — test automation
-  - "@Snovio"                # Snovio, 16.6K, score 7 — sales automation
-  - "@TechWithTim"           # Tech With Tim, 1.9M, score 7
-  - "@CuttingEdgeSchool"     # The Cutting Edge School, 679K, score 7
-  - "@AppFind"               # AppFind, 6K, score 7
-  - "@ClicksDontLie"         # Clicks Don't Lie, 2.1K, score 7 — ecom data
-  - "@batuhandurmaz-seo"     # Batuhan Durmaz, 9.5K, score 7 — SEO
-  - "@zinhoautomates"        # Zinho Automates, 36.5K, score 7
-  - "@CodeWithHarry"         # CodeWithHarry, 9.3M, score 7
-  - "@mehulmpt"              # Mehul Mohan, 454K, score 7
-  - "@BuildersCentral"       # Builders Central, 159K, score 7 — no-code
-  - "@LuisUrrutia"           # Luis Urrutia, 1.8M, score 7
-  - "@GreatStack"            # GreatStack, 1.2M, score 7
-  - "@ForrestKnight"         # ForrestKnight, 682K, score 7
-  - "@DanielDavidson"        # Daniel Davidson, 443K, score 7
-  - "@mreflow"               # Matt Wolfe, 883K, score 7 — AI tools
-  - "@decodingyt"            # Adarsh Kashyap, 968K, score 7
-  - "@LastMomentTuitions"    # Last Moment Tuitions, 1.3M, score 7
-  - "@DesignCourse"          # DesignCourse, 1.2M, score 7
-  - "@100xEngineers"         # 100xEngineers, 225K, score 7
-  - "@Tooltester"            # Tooltester, 32.4K, score 7 — tool reviews
-  - "@EddyBallesteros"       # Eddy Ballesteros, 14.1K, score 7
-  - "@meetdavidalex"         # David Alex, 19.8K, score 7
-  - "@IshanSharma"           # Ishan Sharma, 2M, score 7
-  - "@KunalKushwaha"         # Kunal Kushwaha, 861K, score 7
-  - "@Codevolution"          # Codevolution, 747K, score 7
-  - "@NoCodeMBA"             # No Code MBA, 36K, score 7 — no-code
-  - "@MikeyNoCode"           # Mikey No Code, 85K, score 7
-  - "@mostafanouman"         # Mostafa, 88.4K, score 7 — ecommerce
-  - "@codebasics"            # Codebasics, 1.4M, score 6
-  - "@RoboNuggets"           # Robonuggets, 97.9K, score 6
-  - "@jessecunninghamv"      # Jesse Cunningham, 109K, score 6
-  # === Best V2-discovered creators (new finds, verified relevant) ===
-  - "@SaadRashid"            # YouTube Automation, 161K, V2 score 9
-  - "@SofloSneakers"         # Sneaker reselling, 26.3K, V2 score 8
-  - "@ibrahimmalick"         # Digital Tutor, 25.7K, V2 score 8 — competitor reviews
-  - "@CodeAvecJonathan"      # French dev, 169K, V2 score 7 — scraping content
-  - "@nicksaraev"            # Nick Saraev, 269K — N8N/AI automation
+  - "@simonscrapes"
+  - "@SaaSMaster"
+  - "@DevSage"
+  - "@JohnWatsonRooney"
+  - "@kingleague2.0"
+  - "@HowToInternetTutorials"
+  - "@BrowserAutomationStudioBangla"
+  - "@straightcode"
+  - "@vashishthakk"
+  - "@ScrapingNinja"
+  - "@DavidTeatherCodes"
+  - "@codepersist"
+  - "@beyondfireship"
+  - "@VictorBigbro"
+  - "@sumonahmmedofficial"
+  - "@the_onlinebillionaire"
+  - "@CodeAvecJonathan"
+  - "@soft.review"
+  - "@samtechhub753"
+  - "@onlineearnhunter"
+  - "@freelancernazmulyt"
+  - "@AndrewFungKinHo"
+  - "@AIBrainnnai"
+  - "@MadTechGeeks"
+  - "@MichaelKitas"
+  - "@CRYPTOPLAYNFTs"
+  - "@ThePyCoach"
+  - "@JOEGURUSTECH"
+  - "@XBMarketing"
+  - "@UnknownProxies"
+  - "@cryproot9845"
+  - "@RTMedia2021"
+  - "@BurgersKicks"
+  - "@Geonix_channel"
+  - "@UiVisionVideos"
+  - "@Tinkernut"
+  - "@SudoShoe"
+  - "@socksescort1917"
+  - "@loopelligence"
+  - "@SamerHijjazi"
+  - "@worthwebscraping-mike6107"
+  - "@emilheap"
+  - "@KishanSheth21"
+  - "@Marvomatic"
+  - "@noveltechmedia"
+  - "@thewebscrapingclub"
+  - "@Kodmatik20"
+  - "@ninjascripter5214"
+  - "@Crycryproxy"
+  - "@distrotechnologies"
+  - "@goutamborthakur4980"
+  - "@TechnicalMehru1"
+  - "@LeonardoKuffo"
+  - "@arsmit-ar"
+  - "@AvishekTechPro"
+  - "@TOPDigitalProducts"
+  - "@DavidOndrej"
+  - "@SomeSmallMoney"
+  - "@Immayhem"
+  - "@Browserbots"
+  - "@CreativeITSection"
+  - "@Davidson-Daniel"
+  - "@smartitonline"
+  - "@Cryptostar-t8l"
+  - "@NeuralNine"
+  - "@PythonSimplified"
+  - "@JoeColantonio"
+  - "@frank.freelancer"
+  - "@jobstr-work"
+  - "@looplinescrapebox"
+  - "@CodeFlaring"
+  - "@MRMobin1M-s3s"
+  - "@Faisal.Warraich"
+  - "@Level1Techs"
+  - "@cpamarketingfree"
+  - "@SyedSole"
+  - "@sasmediastudio"
+  - "@ebrahimalkadim"
+  - "@codeRECODE"
+  - "@WebbSpacee"
+  - "@ZZZ_Official"
+  - "@godstimehustle"
+  - "@octobrowser_net"
+  - "@Bashrc"
+  - "@AmjadOnlineYT"
+  - "@MRMURK4G3"
+  - "@damgetbags"
+  - "@TheDataCircle"
+  - "@Tech-Tactics-English"
+  - "@bot_media"
+  - "@CourseTerritory"
+  - "@getivan"
+  - "@Gologin"
+  - "@AmadoSerna"
+  - "@proadsyoutube"
+  - "@mwcmd"
+  - "@SpaceinvaderOne"
+  - "@2captcha_official"
+  - "@thepycoachES"
+  - "@techsurferscrib"
+  - "@omnilogin2466"
+  - "@UserBotTelegramSoftware"
+  - "@PROXYS_IO"
+  - "@SeokhanUs"
+  - "@FicaaDica"
+  - "@hasanaboulhasan"
+  - "@TechWithTim"
+  - "@ProxySeller"
+  - "@mike-futia"
+  - "@BradfordSCarlton"
+  - "@VancouverData"
+  - "@workfloows"
+  - "@GFXMentor"
+  - "@zytedata"
+  - "@PandaExtractVisuaScraper"
+  - "@automatio_ai"
+  - "@To_Codando"
+  - "@OpenSourceStudent"
+  - "@sudoteach"
+  - "@WhoerNetEn"
+  - "@engineerprompt"
+  - "@manfalajorg"
+  - "@HexactInc"
+  - "@scrap-io"
+  - "@ZennoLabcom"
+  - "@The-Nexus-Prime"
+  - "@FNeves"
+  - "@BananaCoding"
+  - "@neroplus-it"
+  - "@Successs"
+  - "@BDStudio24"
+  - "@SaaSInspection"
+  - "@programacaobotsewebscraping"
+  - "@GetSetPython"
+  - "@NNAdmin"
+  - "@imdadcodes"
+  - "@PythonforTrading"
+  - "@BytesBits01"
+  - "@mariusespejo"
+  - "@juliannash3590"
+  - "@mohsinreviewpoint"
+  - "@techWithId"
+  - "@Fireship"
+  - "@syntaxfm"
+  - "@harkirat1"
+  - "@davidbombal"
+  - "@AppFind"
+  - "@ClicksDontLie"
 
 # ── Keywords for relevance filtering ─────────────────────────
 keywords:
