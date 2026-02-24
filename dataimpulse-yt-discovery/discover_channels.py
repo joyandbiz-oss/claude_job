@@ -357,59 +357,62 @@ def main():
     if args.resume:
         print("  Resume mode: ON (skipping completed queries)")
 
-    # ── Source 1 + 2: Search queries ─────────────────────────
-    print(f"\n{'='*70}")
-    print("  [SOURCE 1+2] Channel Search + Video Search")
-    print(f"{'='*70}")
+    # ── Source 1 + 2: DISABLED for lookalike run (only Source 3) ──
+    # print(f"\n{'='*70}")
+    # print("  [SOURCE 1+2] Channel Search + Video Search")
+    # print(f"{'='*70}")
+    #
+    # total_new = 0
+    # skipped = 0
+    #
+    # for idx, (query, tier_name) in enumerate(queries):
+    #     prefix = f"[{idx+1}/{total_queries}]"
+    #
+    #     # Check if already done (resume mode)
+    #     if args.resume:
+    #         if (is_query_completed(db_conn, query, "channel_search") and
+    #                 is_query_completed(db_conn, query, "video_search")):
+    #             skipped += 1
+    #             if skipped <= 5 or skipped % 20 == 0:
+    #                 print(f"  {prefix} SKIP (done): {query}")
+    #             continue
+    #
+    #     print(f"  {prefix} [{tier_name}] {query}", end="", flush=True)
+    #
+    #     # Source 1: Channel search
+    #     started = datetime.utcnow().isoformat()
+    #     ch_new = 0
+    #     if not (args.resume and is_query_completed(db_conn, query, "channel_search")):
+    #         ch_new = discover_channel_search(
+    #             fetcher, db_conn, query, pages=pages_per_query, min_subs=min_subs
+    #         )
+    #         record_discovery_run(
+    #             db_conn, query, "channel_search", ch_new,
+    #             started, datetime.utcnow().isoformat()
+    #         )
+    #
+    #     # Source 2: Video search
+    #     vid_new = 0
+    #     if not (args.resume and is_query_completed(db_conn, query, "video_search")):
+    #         vid_new = discover_video_search(
+    #             fetcher, db_conn, query, pages=3, min_subs=min_subs
+    #         )
+    #         record_discovery_run(
+    #             db_conn, query, "video_search", vid_new,
+    #             started, datetime.utcnow().isoformat()
+    #         )
+    #
+    #     query_new = ch_new + vid_new
+    #     total_new += query_new
+    #     total_db = get_channel_count(db_conn)
+    #     print(f"  -> +{query_new} new (ch:{ch_new} vid:{vid_new}) | total: {total_db}")
+    #
+    # if skipped > 0:
+    #     print(f"\n  Skipped {skipped} already-completed queries (resume mode)")
+    # print(f"  New channels from search: {total_new}")
 
     total_new = 0
-    skipped = 0
-
-    for idx, (query, tier_name) in enumerate(queries):
-        prefix = f"[{idx+1}/{total_queries}]"
-
-        # Check if already done (resume mode)
-        if args.resume:
-            if (is_query_completed(db_conn, query, "channel_search") and
-                    is_query_completed(db_conn, query, "video_search")):
-                skipped += 1
-                if skipped <= 5 or skipped % 20 == 0:
-                    print(f"  {prefix} SKIP (done): {query}")
-                continue
-
-        print(f"  {prefix} [{tier_name}] {query}", end="", flush=True)
-
-        # Source 1: Channel search
-        started = datetime.utcnow().isoformat()
-        ch_new = 0
-        if not (args.resume and is_query_completed(db_conn, query, "channel_search")):
-            ch_new = discover_channel_search(
-                fetcher, db_conn, query, pages=pages_per_query, min_subs=min_subs
-            )
-            record_discovery_run(
-                db_conn, query, "channel_search", ch_new,
-                started, datetime.utcnow().isoformat()
-            )
-
-        # Source 2: Video search
-        vid_new = 0
-        if not (args.resume and is_query_completed(db_conn, query, "video_search")):
-            vid_new = discover_video_search(
-                fetcher, db_conn, query, pages=3, min_subs=min_subs
-            )
-            record_discovery_run(
-                db_conn, query, "video_search", vid_new,
-                started, datetime.utcnow().isoformat()
-            )
-
-        query_new = ch_new + vid_new
-        total_new += query_new
-        total_db = get_channel_count(db_conn)
-        print(f"  -> +{query_new} new (ch:{ch_new} vid:{vid_new}) | total: {total_db}")
-
-    if skipped > 0:
-        print(f"\n  Skipped {skipped} already-completed queries (resume mode)")
-    print(f"  New channels from search: {total_new}")
+    print("\n  [SOURCE 1+2] SKIPPED — lookalike run (Source 3 only)")
 
     # ── Source 3: Seed channel expansion ─────────────────────
     seed_channels = cfg.get("seed_channels", [])
