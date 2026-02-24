@@ -3,4 +3,7 @@ __pycache__/
 discovery.db
 discovery.db-wal
 discovery.db-shm
+discovery_lookalike.db
+discovery_lookalike.db-wal
+discovery_lookalike.db-shm
 backups/
