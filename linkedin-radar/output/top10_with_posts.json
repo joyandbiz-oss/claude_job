@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "title": "SerpApi says Google doesn't own the internet, files motion to dismiss web scraping lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fMEJ0UzZfZWphd2ZkbkNMUHdiLWtfNU04N2d1aGR0b29WTnh6TDRJeXpTWGNNS1B6VHhkNjFyejRuclh6WFIzbTA0NUlRMUdId2h1OVZOYUZXUVFMZGtOYThMMlVZN1JsLVE",
+    "source": "News: Scraping Lawsuits",
+    "scores": {"viral_format": 7, "hook_strength": 9, "audience_resonance": 9, "timeliness": 8},
+    "total_score": 8.5,
+    "template": "lawsuit_gdpr",
+    "why": "Landmark case — SerpApi fighting Google on web scraping rights. Sets precedent for entire proxy/data industry."
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "source": "TechCrunch",
+    "scores": {"viral_format": 8, "hook_strength": 8, "audience_resonance": 8, "timeliness": 8},
+    "total_score": 8.0,
+    "template": "cloudflare_effect",
+    "why": "24K fake accounts = industrial-scale scraping for AI distillation. Perfect proxy/data infrastructure angle."
+  },
+  {
+    "rank": 3,
+    "title": "Supreme Court Leaves Bright Data Patent Invalidation Ruling Intact",
+    "url": "https://news.google.com/rss/articles/bright-data-patent",
+    "source": "News: Bright Data",
+    "scores": {"viral_format": 6, "hook_strength": 8, "audience_resonance": 9, "timeliness": 7},
+    "total_score": 8.0,
+    "template": "lawsuit_gdpr",
+    "why": "Direct competitor (Bright Data $300M rev) loses patent battle at Supreme Court level."
+  },
+  {
+    "rank": 4,
+    "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+    "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+    "source": "HN Best (249 points)",
+    "scores": {"viral_format": 8, "hook_strength": 9, "audience_resonance": 7, "timeliness": 7},
+    "total_score": 7.5,
+    "template": "most_people_think",
+    "why": "Contrarian Goldman data vs AI hype. Perfect for 'data-driven insider' positioning."
+  },
+  {
+    "rank": 5,
+    "title": "Teaching AI to scrape like a pro: how we measure LLMs' data quality",
+    "url": "https://zyte.com/blog/teaching-ai-to-scrape/",
+    "source": "Zyte Blog",
+    "scores": {"viral_format": 7, "hook_strength": 7, "audience_resonance": 9, "timeliness": 6},
+    "total_score": 7.5,
+    "template": "data_point",
+    "why": "Competitor Zyte ($38M rev) shares AI scraping quality metrics. Direct competitive intelligence."
+  },
+  {
+    "rank": 6,
+    "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+    "url": "https://spectrum.ieee.org/age-verification",
+    "source": "HN Best (1435 points!)",
+    "scores": {"viral_format": 7, "hook_strength": 7, "audience_resonance": 7, "timeliness": 7},
+    "total_score": 7.0,
+    "template": "most_people_think",
+    "why": "1435 HN points — massive interest. Data protection angle connects to proxy/privacy positioning."
+  },
+  {
+    "rank": 7,
+    "title": "Show HN: InferShield – open-source security proxy for LLM inference",
+    "url": "https://github.com/infershield/infershield",
+    "source": "HN Proxy",
+    "scores": {"viral_format": 7, "hook_strength": 6, "audience_resonance": 8, "timeliness": 7},
+    "total_score": 7.0,
+    "template": "free_resource",
+    "why": "Security proxy for AI — directly relevant to DataImpulse's infrastructure expertise."
+  },
+  {
+    "rank": 8,
+    "title": "Show HN: AgentReady – Drop-in proxy that cuts LLM token costs 40-60%",
+    "url": "https://github.com/agentready/agentready",
+    "source": "HN Proxy",
+    "scores": {"viral_format": 8, "hook_strength": 7, "audience_resonance": 7, "timeliness": 6},
+    "total_score": 7.0,
+    "template": "data_point",
+    "why": "Proxy + AI cost optimization — combines both DataImpulse angles."
+  },
+  {
+    "rank": 9,
+    "title": "Disney to pay $2.75M CCPA settlement over consumer privacy violations",
+    "url": "https://news.google.com/rss/articles/disney-ccpa",
+    "source": "News: CCPA",
+    "scores": {"viral_format": 7, "hook_strength": 7, "audience_resonance": 6, "timeliness": 6},
+    "total_score": 6.5,
+    "template": "lawsuit_gdpr",
+    "why": "Big brand + privacy fine = attention grabber. Compliance angle."
+  },
+  {
+    "rank": 10,
+    "title": "Cloudflare One is the first SASE offering modern post-quantum encryption",
+    "url": "https://blog.cloudflare.com/post-quantum-sase/",
+    "source": "Cloudflare Blog",
+    "scores": {"viral_format": 5, "hook_strength": 6, "audience_resonance": 7, "timeliness": 7},
+    "total_score": 6.5,
+    "template": "cloudflare_effect",
+    "why": "Cloudflare security upgrade impacts proxy industry. Infrastructure angle."
+  }
+]
