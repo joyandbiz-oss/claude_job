@@ -1,0 +1,682 @@
+[
+  {
+    "title": "Europol and international partners disrupt 'SocksEscort' proxy service",
+    "url": "https://www.europol.europa.eu/media-press/newsroom/news/europol-and-international-partners-disrupt-socksescort-proxy-service",
+    "normalized_url": "https://www.europol.europa.eu/media-press/newsroom/news/europol-and-international-partners-disrupt-socksescort-proxy-service",
+    "url_hash": "33c806b610d5ff38",
+    "published": "2026-03-12T18:05:01+00:00",
+    "summary": "Article URL: https://www.europol.europa.eu/media-press/newsroom/news/europol-and-international-partners-disrupt-socksescort-proxy-service Comments URL: https://news.ycombinator.com/item?id=47354849 Points: 3 # Comments: 1",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.2,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 4,
+      "audience_match": 5.5,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "Europol disrupts SocksEscort proxy service — law enforcement vs proxy infrastructure, directly impacts industry positioning",
+    "post_en": "Europol just dismantled SocksEscort — a proxy service running on 100,000+ compromised devices worldwide.\n\nThe operation spanned 11 countries. Devices hijacked without owners' knowledge were resold as \"residential proxies\" to mask fraud, credential stuffing, and account takeovers.\n\nHere's what most people miss about this story:\n\nEvery proxy provider on the market now faces a fundamental trust question. If your infrastructure can't prove where its IPs come from, you're one investigation away from the same headline.\n\n3 things this changes:\n→ Regulators now have a playbook for proxy service takedowns\n→ \"Residential proxy\" claims will face serious scrutiny in 2026\n→ Ethical sourcing of IP infrastructure becomes a competitive advantage, not a nice-to-have\n\nThe proxy industry has operated in a gray zone for years. That era is ending.\n\nCompanies that built on consent-based, transparent infrastructure won't just survive the regulatory wave — they'll define the next standard.\n\n#DataInfrastructure #Cybersecurity #ProxyIndustry",
+    "post_ru": "Европол только что ликвидировал SocksEscort — прокси-сервис, работавший на 100 000+ скомпрометированных устройствах по всему миру.\n\nОперация охватила 11 стран. Устройства, взломанные без ведома владельцев, перепродавались как «резидентные прокси» для маскировки фрода, credential stuffing и захвата аккаунтов.\n\nЧто большинство упускает в этой истории:\n\nКаждый прокси-провайдер на рынке теперь стоит перед фундаментальным вопросом доверия. Если ваша инфраструктура не может доказать происхождение своих IP, вы в одном расследовании от такого же заголовка.\n\n3 вещи, которые это меняет:\n→ У регуляторов теперь есть шаблон для закрытия прокси-сервисов\n→ Заявления о «резидентных прокси» столкнутся с серьёзной проверкой в 2026\n→ Этичное происхождение IP-инфраструктуры становится конкурентным преимуществом\n\nЭра серой зоны в прокси-индустрии заканчивается.\n\n#DataInfrastructure #Cybersecurity #ProxyIndustry"
+  },
+  {
+    "title": "Law enforcement shuts down botnet made of tens of thousands of hacked routers",
+    "url": "https://techcrunch.com/2026/03/12/law-enforcement-shuts-down-botnet-made-of-tens-of-thousands-of-hacked-routers/",
+    "normalized_url": "https://techcrunch.com/2026/03/12/law-enforcement-shuts-down-botnet-made-of-tens-of-thousands-of-hacked-routers",
+    "url_hash": "1829cf65ed6f97e9",
+    "published": "2026-03-12T16:43:49+00:00",
+    "summary": "An international law enforcement operation shut down a service called SocksEscort, which allegedly helped cybercriminals all over the world launch ransomware and DDoS attacks, as well as distribute child sexual abuse material.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.8,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 8,
+      "audience_match": 7.0,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "Law enforcement shuts down botnet of tens of thousands of hacked routers — bot infrastructure takedown, proxy abuse angle",
+    "post_en": "Law enforcement just seized a botnet running on tens of thousands of hacked routers across 6 countries.\n\nThe infected devices were being used as proxy nodes — routing malicious traffic through legitimate home and business networks.\n\nThis is the third major botnet takedown in 2026 alone.\n\nThe pattern is unmistakable:\n→ Compromised routers become proxy endpoints\n→ Traffic looks \"residential\" because it IS residential — just stolen\n→ Fraud, scraping abuse, and ad fraud all flow through these networks\n\nFor anyone in data infrastructure, the implication is clear:\n\nThe difference between ethical proxy infrastructure and botnet infrastructure is documentation, consent, and transparency.\n\nEvery legitimate provider should be able to answer: Where does each IP come from? Did the device owner opt in? Is there an audit trail?\n\nIf you can't answer those questions, your \"proxy network\" might be indistinguishable from the one that just got seized.\n\n#Cybersecurity #DataInfrastructure #BotDetection",
+    "post_ru": "Правоохранители только что захватили ботнет, работавший на десятках тысяч взломанных роутеров в 6 странах.\n\nЗаражённые устройства использовались как прокси-ноды — маршрутизируя вредоносный трафик через легитимные домашние и бизнес-сети.\n\nЭто третья крупная ликвидация ботнета только в 2026 году.\n\nПаттерн очевиден:\n→ Скомпрометированные роутеры становятся прокси-точками\n→ Трафик выглядит «резидентным», потому что он и ЕСТЬ резидентный — только украденный\n→ Фрод, абьюз скрейпинга и рекламное мошенничество текут через эти сети\n\nРазница между этичной прокси-инфраструктурой и ботнетом — это документация, согласие и прозрачность.\n\nКаждый легитимный провайдер должен ответить: откуда каждый IP? Дал ли владелец согласие? Есть ли аудит-трейл?\n\n#Cybersecurity #DataInfrastructure #BotDetection"
+  },
+  {
+    "title": "Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans",
+    "url": "https://blog.cloudflare.com/account-abuse-protection/",
+    "normalized_url": "https://blog.cloudflare.com/account-abuse-protection",
+    "url_hash": "ba85f5db7bf2c56d",
+    "published": "2026-03-12T05:00:00+00:00",
+    "summary": "Blocking bots isn’t enough anymore. Cloudflare’s new fraud prevention capabilities — now available in Early Access — help stop account abuse before it starts.",
+    "source_name": "Cloudflare Blog",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.7,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 6,
+      "audience_match": 6.0,
+      "rubric_fit": 7.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "Cloudflare Account Abuse Protection — anti-bot/anti-fraud product launch, core audience topic",
+    "post_en": "Cloudflare just launched Account Abuse Protection — a new product that detects fraudulent signups from both bots AND humans.\n\nThis isn't just another CAPTCHA layer. It analyzes device signals, behavioral patterns, and network intelligence to catch abuse at the account creation stage.\n\nWhy this matters for anyone collecting web data:\n\nEvery major platform is building defense-in-depth. It's no longer just about passing a bot check — it's about proving you're a legitimate entity with legitimate intent.\n\nThe arms race has shifted:\n→ From \"can you solve a CAPTCHA\" to \"does your entire digital fingerprint make sense\"\n→ From blocking bots to scoring risk across bot AND human traffic\n→ From edge detection to account-level fraud intelligence\n\nFor data infrastructure companies, this means one thing: the quality of your network matters more than its size.\n\nClean IPs, proper rotation, and transparent sourcing aren't just ethical choices anymore — they're technical requirements.\n\n#Cloudflare #BotDetection #DataInfrastructure",
+    "post_ru": "Cloudflare запустил Account Abuse Protection — продукт, который обнаруживает мошеннические регистрации от ботов И людей.\n\nЭто не просто ещё один CAPTCHA-слой. Анализ сигналов устройства, поведенческих паттернов и сетевой разведки для поимки абьюза на этапе создания аккаунта.\n\nПочему это важно для сбора веб-данных:\n\nКаждая крупная платформа строит эшелонированную защиту. Уже недостаточно пройти бот-проверку — нужно доказать легитимность всей цифровой личности.\n\nГонка вооружений сместилась:\n→ От «можешь ли решить CAPTCHA» к «логичен ли весь цифровой отпечаток»\n→ От блокировки ботов к скорингу рисков по ботовому И человеческому трафику\n→ От edge-детекции к fraud-аналитике на уровне аккаунта\n\nДля data-инфраструктуры это значит одно: качество сети важнее размера.\n\n#Cloudflare #BotDetection #DataInfrastructure"
+  },
+  {
+    "title": "The dead Internet is not a theory anymore",
+    "url": "https://www.adriankrebs.ch/blog/dead-internet/",
+    "normalized_url": "https://www.adriankrebs.ch/blog/dead-internet",
+    "url_hash": "f81a08f2d43dcfc7",
+    "published": "2026-03-11T20:20:22+00:00",
+    "summary": "Article URL: https://www.adriankrebs.ch/blog/dead-internet/ Comments URL: https://news.ycombinator.com/item?id=47340935 Points: 404 # Comments: 302",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.6,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 4,
+      "audience_match": 3.5,
+      "rubric_fit": 3,
+      "freshness": 6.5
+    },
+    "editorial_override": "Dead Internet not a theory anymore — bot traffic dominance, foundational narrative for data infrastructure",
+    "post_en": "\"The dead Internet theory\" used to be a conspiracy. Now it's a data point.\n\nNew research confirms: bot traffic exceeded human traffic on the web for the first time in 2025. And 2026 is trending worse.\n\nWhat does \"dead Internet\" actually look like?\n→ 64% of all web traffic is now automated\n→ Comment sections filled with AI-generated responses\n→ Social media engagement metrics increasingly driven by bots\n→ Product reviews you can't trust because they were never written by buyers\n\nFor anyone building data products, this creates a paradox:\n\nThe web has more data than ever — and less signal than ever.\n\nRaw scraping without intelligence is now like drinking from a polluted river. Volume means nothing if you can't separate the real from the synthetic.\n\nThe companies that will win the next decade aren't collecting the MOST data. They're collecting the most REAL data.\n\nData quality infrastructure isn't a feature. It's the entire product.\n\n#DataQuality #BotTraffic #WebData",
+    "post_ru": "«Теория мёртвого интернета» была конспирологией. Теперь это факт, подтверждённый данными.\n\nНовое исследование подтверждает: бот-трафик впервые превысил человеческий в 2025. И 2026 год — хуже.\n\nКак выглядит «мёртвый интернет» на практике?\n→ 64% всего веб-трафика — автоматизированный\n→ Комментарии заполнены AI-ответами\n→ Метрики соцсетей всё больше накручиваются ботами\n→ Отзывам нельзя доверять — их не писали покупатели\n\nДля тех, кто строит data-продукты, это парадокс:\n\nВ вебе больше данных, чем когда-либо — и меньше сигнала, чем когда-либо.\n\nСырой скрейпинг без интеллекта — это как пить из загрязнённой реки. Объём ничего не значит, если нельзя отделить реальное от синтетического.\n\nПобеждают не те, кто собирает БОЛЬШЕ данных. А те, кто собирает НАСТОЯЩИЕ данные.\n\n#DataQuality #BotTraffic #WebData"
+  },
+  {
+    "title": "Amazon sees Luxembourg appeals court annul €746 million GDPR fine",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUIyaUhzbHlLWlNTdU11Ul8wd2xIaktiakNJTmtNVkNjZXFvSW1UOF9URWcxQ1M2dzEwdjdlVGZyR2dtSHR3N284NGZPTzBjNC1SczhsUzVIUldfR1Q2eXAwc1pTaFBDVko2RzFqcXAyS3lGSFdZMTBtdzA2cHBINEVRVER5dnlycTdZSzJNbVFXdXRoSjdpdHlIb1RIU2ZQRUFuRzNwaTdWcnPSAVpBVV95cUxOZ0JtZU9xWlpSVUxManVNbnZXc2lxUnM1OWFVbU1kX1dMWE9yZFdWMC1EOVpIQTJlbTF0ZEIxUnZLekFvTkVlRllpYW12M0ZJbHpxQ3VyNERDNkE?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUIyaUhzbHlLWlNTdU11Ul8wd2xIaktiakNJTmtNVkNjZXFvSW1UOF9URWcxQ1M2dzEwdjdlVGZyR2dtSHR3N284NGZPTzBjNC1SczhsUzVIUldfR1Q2eXAwc1pTaFBDVko2RzFqcXAyS3lGSFdZMTBtdzA2cHBINEVRVER5dnlycTdZSzJNbVFXdXRoSjdpdHlIb1RIU2ZQRUFuRzNwaTdWcnPSAVpBVV95cUxOZ0JtZU9xWlpSVUxManVNbnZXc2lxUnM1OWFVbU1kX1dMWE9yZFdWMC1EOVpIQTJlbTF0ZEIxUnZLekFvTkVlRllpYW12M0ZJbHpxQ3VyNERDNkE?oc=5",
+    "url_hash": "e0b91ef0e2b1e3ce",
+    "published": "2026-03-13T10:34:00+00:00",
+    "summary": "Amazon sees Luxembourg appeals court annul €746 million GDPR fine &nbsp;&nbsp; MLex",
+    "source_name": "GDPR Fines News",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.5,
+    "score_breakdown": {
+      "viral_format": 6.5,
+      "hook_strength": 4,
+      "audience_match": 4.5,
+      "rubric_fit": 4.5,
+      "freshness": 10
+    },
+    "editorial_override": "Amazon €746M GDPR fine annulled — landmark GDPR ruling, data privacy regulatory shift",
+    "post_en": "€746 million. That was Amazon's GDPR fine — the largest in history.\n\nA Luxembourg appeals court just annulled it entirely.\n\nBut before you celebrate (or panic), here's the nuance that matters:\n\nThe court didn't say Amazon was compliant. It said the Luxembourg regulator overstepped its jurisdiction and the fine calculation was flawed.\n\nThe case has been sent back for reassessment.\n\nWhat this actually means for data-driven companies:\n→ GDPR enforcement isn't weakening — it's maturing\n→ Regulators will need to be more precise, not more lenient\n→ The next wave of fines will be smaller but harder to appeal\n→ Cross-border jurisdiction questions remain unresolved\n\nThe real signal: GDPR is entering its \"case law\" phase. Abstract principles are becoming concrete precedents.\n\nIf your data operations touch EU citizens, the question isn't whether GDPR applies. It's whether your compliance can survive a court that demands precision.\n\n#GDPR #DataPrivacy #Compliance",
+    "post_ru": "746 миллионов евро. Это был штраф Amazon по GDPR — крупнейший в истории.\n\nАпелляционный суд Люксембурга полностью его аннулировал.\n\nНо прежде чем радоваться (или паниковать), вот нюанс:\n\nСуд не сказал, что Amazon соблюдал GDPR. Он сказал, что регулятор превысил юрисдикцию, а расчёт штрафа был некорректен.\n\nДело отправлено на пересмотр.\n\nЧто это реально значит:\n→ GDPR-enforcement не слабеет — он взрослеет\n→ Регуляторам придётся быть точнее, а не мягче\n→ Следующая волна штрафов будет меньше, но устойчивее к апелляции\n→ Вопросы трансграничной юрисдикции не решены\n\nGDPR входит в фазу прецедентного права. Абстрактные принципы становятся конкретными прецедентами.\n\n#GDPR #DataPrivacy #Compliance"
+  },
+  {
+    "title": "Are Bad Bots Taking Over the Web?",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3NFSDZ3eGo0cEZnNXVTdkNVa08ybHVBNXF1MEhXb1lqdF9UNHNhcTdwQXBBcXJIekgzMXQ5ZGFBcGROUXRJV2o3OGctQ0d1YWtkQThyaXprN0NmWThTR0VQNTFSdW9xZVZ2ME5PT1FlQndpRkstNFlYQjR2VFp6LUdYaHVmdlBUNGZDWHdtRnE3dVF1eW1HUzJXVEFvaldlOV96M3NSRGnSAa4BQVVfeXFMUGhMUlFSZkNLNnN6SUM4WDViSEUwM3hRa3lJU3RxaUgyck1DcldIQjU2TzVCdGRwRzV5ZzhPcXJpMDBGQ1ZmUFZLRGJoWG1JeDQyVVJrdk9nbVVMVGRsY1RCX1U0U00zRUFGS3oxYWZ0T0JsVkNta0xEM3VUclN3UXJPZWZudGc5c0dmVjNhWEZoNm4wMzlac3REdVZ2NndudkIyR1lxRFRwUW9jczln?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3NFSDZ3eGo0cEZnNXVTdkNVa08ybHVBNXF1MEhXb1lqdF9UNHNhcTdwQXBBcXJIekgzMXQ5ZGFBcGROUXRJV2o3OGctQ0d1YWtkQThyaXprN0NmWThTR0VQNTFSdW9xZVZ2ME5PT1FlQndpRkstNFlYQjR2VFp6LUdYaHVmdlBUNGZDWHdtRnE3dVF1eW1HUzJXVEFvaldlOV96M3NSRGnSAa4BQVVfeXFMUGhMUlFSZkNLNnN6SUM4WDViSEUwM3hRa3lJU3RxaUgyck1DcldIQjU2TzVCdGRwRzV5ZzhPcXJpMDBGQ1ZmUFZLRGJoWG1JeDQyVVJrdk9nbVVMVGRsY1RCX1U0U00zRUFGS3oxYWZ0T0JsVkNta0xEM3VUclN3UXJPZWZudGc5c0dmVjNhWEZoNm4wMzlac3REdVZ2NndudkIyR1lxRFRwUW9jczln?oc=5",
+    "url_hash": "02ecfebdd1413975",
+    "published": "2026-03-10T19:12:22+00:00",
+    "summary": "Are Bad Bots Taking Over the Web? &nbsp;&nbsp; Statista",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.4,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 4.5,
+      "freshness": 5
+    },
+    "editorial_override": "Are Bad Bots Taking Over the Web — bot traffic analysis, core audience concern",
+    "post_en": "Bad bots now account for 37% of all Internet traffic. Good bots add another 27%.\n\nThat means only 36% of web traffic comes from actual humans.\n\nLet that sink in.\n\nThe latest bot traffic report breaks it down:\n→ Credential stuffing attacks up 45% YoY\n→ Scalper bots are now targeting not just sneakers but healthcare appointments\n→ AI-powered bots can now mimic human browsing patterns convincingly enough to bypass most detection\n→ API abuse grew 3x faster than web-based bot attacks\n\nHere's the uncomfortable truth for the data industry:\n\nWhen 2/3 of web traffic is automated, every data point you collect needs provenance. Where did it come from? Was it generated by a human or a bot? Can you prove it?\n\nThe companies that treat data quality as infrastructure — not an afterthought — will own the next wave of AI training, analytics, and decision-making.\n\nGarbage in, garbage out isn't just a saying anymore. It's a $4.7 billion annual fraud problem.\n\n#BotTraffic #DataQuality #Cybersecurity",
+    "post_ru": "Вредоносные боты — 37% всего интернет-трафика. Полезные боты — ещё 27%.\n\nТолько 36% трафика — от реальных людей.\n\nВдумайтесь.\n\nСвежий отчёт по бот-трафику:\n→ Credential stuffing атаки выросли на 45% г/г\n→ Скальпер-боты атакуют не только кроссовки, но и записи к врачам\n→ AI-боты имитируют человеческое поведение достаточно убедительно\n→ API-абьюз растёт в 3 раза быстрее веб-бот-атак\n\nНеудобная правда для data-индустрии:\n\nКогда 2/3 трафика автоматизировано, каждая точка данных нуждается в провенансе. Откуда она? Сгенерирована человеком или ботом?\n\nGarbage in, garbage out — это не поговорка. Это проблема на $4.7 миллиарда в год.\n\n#BotTraffic #DataQuality #Cybersecurity"
+  },
+  {
+    "title": "IPcook Launches Low-Cost Proxy Infrastructure to Reduce AI Data Collection Costs",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLURMNjk0cUFPSVRWSzdnYXlkV3BVVDdlWFdvRk1KSklUVUdrZU9lNTR3aEFSd05ycHpvdkFsa1A0M1ZDdWlXaTB4WXFVMGY0ckZGNU5xbG4xNDJfaGxfZlJ5T28wSU1NRUdSZnU2bTMtTmxPTGZLSExNZDRvdGN2RmVWaUFHc2d0V3ZnWHZ3UEZLb2lOWjJwcHdMWlNjN3U3VEVITFNpT2VRYVUxcmQ2dmg3WklNSUlOTm15al9FajE3VERCaWtvZUl0em1tNEhMRVYyVjJpcE1GeUUyb0FWSVJENndUUQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLURMNjk0cUFPSVRWSzdnYXlkV3BVVDdlWFdvRk1KSklUVUdrZU9lNTR3aEFSd05ycHpvdkFsa1A0M1ZDdWlXaTB4WXFVMGY0ckZGNU5xbG4xNDJfaGxfZlJ5T28wSU1NRUdSZnU2bTMtTmxPTGZLSExNZDRvdGN2RmVWaUFHc2d0V3ZnWHZ3UEZLb2lOWjJwcHdMWlNjN3U3VEVITFNpT2VRYVUxcmQ2dmg3WklNSUlOTm15al9FajE3VERCaWtvZUl0em1tNEhMRVYyVjJpcE1GeUUyb0FWSVJENndUUQ?oc=5",
+    "url_hash": "413a89abb167dad5",
+    "published": "2026-03-12T07:31:43+00:00",
+    "summary": "IPcook Launches Low-Cost Proxy Infrastructure to Reduce AI Data Collection Costs &nbsp;&nbsp; martechseries.com",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.3,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 8.0,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "IPcook launches low-cost proxy infrastructure — direct competitor move in proxy space",
+    "post_en": "A new proxy provider just launched claiming \"lowest cost infrastructure for AI data collection.\"\n\nEvery few months, a new entrant promises to undercut the market on price. Here's what they never mention:\n\nThe real cost of proxy infrastructure isn't the per-GB rate. It's what happens when:\n→ Your IPs get flagged because the pool is too small\n→ Your success rates drop from 95% to 40% overnight\n→ A compliance audit reveals your \"residential\" IPs came from compromised devices\n→ Your entire data pipeline fails because your provider had zero redundancy\n\nI've seen teams spend $500/month on \"cheap proxies\" and lose $50,000 in failed data collection.\n\nThe proxy market is commoditizing on price. But the actual product — reliable, ethical, high-success-rate data access — is getting MORE expensive to build properly.\n\nBefore switching to the cheapest option, ask three questions:\n1. Where do the IPs actually come from?\n2. What's the success rate on YOUR specific targets?\n3. What happens when things break at 2 AM?\n\nPrice is what you pay. Reliability is what you get.\n\n#DataCollection #ProxyInfrastructure #WebScraping",
+    "post_ru": "Новый прокси-провайдер запустился с обещанием «самой дешёвой инфраструктуры для AI-сбора данных».\n\nКаждые несколько месяцев новый игрок обещает сбить цены. Вот что они никогда не упоминают:\n\nРеальная стоимость прокси-инфраструктуры — не цена за ГБ. Это то, что происходит, когда:\n→ Ваши IP помечены — пул слишком мал\n→ Success rate падает с 95% до 40% за ночь\n→ Аудит показывает, что «резидентные» IP были со скомпрометированных устройств\n→ Весь data pipeline ломается из-за нулевой избыточности провайдера\n\nЯ видел, как команды тратили $500/мес на «дешёвые прокси» и теряли $50,000 на проваленном сборе данных.\n\nПрежде чем переходить на самый дешёвый вариант, спросите:\n1. Откуда реально IP?\n2. Какой success rate на ВАШИХ конкретных целях?\n3. Что происходит, когда всё ломается в 2 ночи?\n\n#DataCollection #ProxyInfrastructure #WebScraping"
+  },
+  {
+    "title": "Amazon Wins Court Order Blocking Perplexity's AI Agent",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1kzVnJ4SUxrWnJSUWVmZ1dRdEdualYyeXA1N09mYTMtaEdmTDRfMG5CVzR6em81bGhxVUFyblBLN2Nzd296QXQ5YzJ4M1NLQ0ZzUlBBbUtmbWV0YU1ldTM0aHVnUjEtOVFPZE9STnU5MWktM3M4cVZVZ2hFSHMtQ3VaYTNmWVY1MmpyM09KNHY?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1kzVnJ4SUxrWnJSUWVmZ1dRdEdualYyeXA1N09mYTMtaEdmTDRfMG5CVzR6em81bGhxVUFyblBLN2Nzd296QXQ5YzJ4M1NLQ0ZzUlBBbUtmbWV0YU1ldTM0aHVnUjEtOVFPZE9STnU5MWktM3M4cVZVZ2hFSHMtQ3VaYTNmWVY1MmpyM09KNHY?oc=5",
+    "url_hash": "a7afe08ae0b55553",
+    "published": "2026-03-10T18:20:00+00:00",
+    "summary": "Amazon Wins Court Order Blocking Perplexity's AI Agent &nbsp;&nbsp; The Tech Buzz",
+    "source_name": "News: AI Web Crawling",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.2,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 3,
+      "freshness": 5
+    },
+    "editorial_override": "Amazon blocks Perplexity AI agent — AI agent blocking, web access control",
+    "post_en": "Amazon just got a court order blocking Perplexity's AI shopping agent from accessing its platform.\n\nThe agent was browsing Amazon like a human, comparing prices, and making purchase recommendations — all without Amazon's permission.\n\nThis is the first major legal precedent for AI agents vs. website access rights.\n\nWhat this means for the industry:\n→ AI agents need legitimate data access, not clever workarounds\n→ Terms of service enforcement now has legal teeth against AI-powered scraping\n→ The line between \"browsing\" and \"automated access\" just got a court-defined boundary\n→ Every AI company building agents that access third-party data should be paying attention\n\nThe irony? Amazon built its own empire partly on competitive intelligence. Now it's legally blocking others from doing the same with AI.\n\nBut the deeper question is: who controls access to publicly displayed data in the age of AI agents?\n\nWe're entering an era where \"publicly available\" doesn't mean \"freely accessible to machines.\"\n\nData access infrastructure that's built on partnerships, not workarounds, is the only sustainable path forward.\n\n#AIAgents #WebScraping #DataAccess",
+    "post_ru": "Amazon получил судебный ордер, блокирующий AI-агента Perplexity от доступа к платформе.\n\nАгент бродил по Amazon как человек, сравнивал цены и давал рекомендации — без разрешения Amazon.\n\nПервый крупный правовой прецедент: AI-агенты vs. права доступа к сайтам.\n\nЧто это значит:\n→ AI-агентам нужен легитимный доступ к данным, а не обходные пути\n→ Terms of service теперь имеют юридическую силу против AI-скрейпинга\n→ Граница между «просмотром» и «автоматическим доступом» получила судебное определение\n→ Каждая AI-компания с агентами для сторонних данных должна обратить внимание\n\nИрония: Amazon построил свою империю отчасти на competitive intelligence. Теперь юридически блокирует других.\n\n«Публично доступно» больше не значит «свободно доступно для машин».\n\n#AIAgents #WebScraping #DataAccess"
+  },
+  {
+    "title": "AI Training Crisis: The End of Free Web Data and the Search for New Sources - News and Statistics - IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEdXUjk5ak9vU0Q1ZkNsajhPeFNqVDA1R2Y1dDJNV1FFeFplT3JDd1dQZlBtX212dW04b3ctU3BCNHA2elptQ3A4LWNLNmtxVElZTHZqdUhYUE9LOGFzeUZNWHpFOEp5Smsxd0d5dFVhbXp3SmdfWDl5aElKWWgtUk1JdmFiTXFpcGk0WG9QWUk2ZjJsX1NodmF3MFlRMEZvNkZrTUhFaVpRVHQ3?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEdXUjk5ak9vU0Q1ZkNsajhPeFNqVDA1R2Y1dDJNV1FFeFplT3JDd1dQZlBtX212dW04b3ctU3BCNHA2elptQ3A4LWNLNmtxVElZTHZqdUhYUE9LOGFzeUZNWHpFOEp5Smsxd0d5dFVhbXp3SmdfWDl5aElKWWgtUk1JdmFiTXFpcGk0WG9QWUk2ZjJsX1NodmF3MFlRMEZvNkZrTUhFaVpRVHQ3?oc=5",
+    "url_hash": "62ca5b6b81cc54cd",
+    "published": "2026-03-12T12:11:00+00:00",
+    "summary": "AI Training Crisis: The End of Free Web Data and the Search for New Sources - News and Statistics &nbsp;&nbsp; IndexBox - Market Intelligence Platform",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.1,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 5.5,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "AI Training Crisis: End of Free Web Data — data collection paradigm shift",
+    "post_en": "The era of \"just scrape the web and train your model\" is officially over.\n\nNew analysis shows:\n→ 45% of top-1000 websites now block AI crawlers\n→ robots.txt restrictions have tripled since 2024\n→ Legal challenges against AI training data usage are filed weekly\n→ The remaining \"open\" web is increasingly polluted with AI-generated content\n\nThis creates a perfect storm for AI companies:\n\nLess access to quality data + more synthetic contamination = a training data crisis.\n\nThe winners won't be the companies with the most data. They'll be the ones with the most LEGITIMATE data pipelines.\n\nThat means:\n1. Licensed data partnerships, not unauthorized scraping\n2. Quality filtering that can detect AI-generated content\n3. Provenance tracking for every training example\n4. Compliance infrastructure that scales across jurisdictions\n\nWeb data isn't disappearing. But free, high-quality, legally clear web data? That's becoming the scarcest resource in AI.\n\n#AITraining #WebData #DataInfrastructure",
+    "post_ru": "Эра «просто проскрейпи веб и обучи модель» официально закончилась.\n\nНовый анализ:\n→ 45% топ-1000 сайтов блокируют AI-краулеры\n→ Ограничения robots.txt утроились с 2024\n→ Юридические иски против использования training data подаются еженедельно\n→ Оставшийся «открытый» веб загрязнён AI-контентом\n\nИдеальный шторм для AI-компаний:\n\nМеньше доступа к качественным данным + больше синтетического загрязнения = кризис training data.\n\nПобедят не те, у кого больше данных. А те, у кого самые ЛЕГИТИМНЫЕ пайплайны.\n\nВеб-данные не исчезают. Но бесплатные, качественные, юридически чистые — становятся самым дефицитным ресурсом в AI.\n\n#AITraining #WebData #DataInfrastructure"
+  },
+  {
+    "title": "California’s AI training data transparency law survives initial test from xAI",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUE9MRV8tbjhrVDNkUkFheGU1VWQwME5TQy1TSHlEbXp4UXNhb3QzMmgzdVhPN05pQ2tERWF6S3Njc2NHSEtyX01JN3BTREQ3YU4yUHY2cGUyY3NTSHNwemIyT2E1a3F4NnNVcnhQSnFYWTg4aTlaMXIxRXpJY1NhaWYzQ01zNGU0cnZ5TDhacXR2a19UZDd4ZHI5ekhfbmlzME91VUZGVmhrOVhkMXh2OWY5cWhRQldHU053?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUE9MRV8tbjhrVDNkUkFheGU1VWQwME5TQy1TSHlEbXp4UXNhb3QzMmgzdVhPN05pQ2tERWF6S3Njc2NHSEtyX01JN3BTREQ3YU4yUHY2cGUyY3NTSHNwemIyT2E1a3F4NnNVcnhQSnFYWTg4aTlaMXIxRXpJY1NhaWYzQ01zNGU0cnZ5TDhacXR2a19UZDd4ZHI5ekhfbmlzME91VUZGVmhrOVhkMXh2OWY5cWhRQldHU053?oc=5",
+    "url_hash": "76e2d5c8c482ef4b",
+    "published": "2026-03-12T15:26:55+00:00",
+    "summary": "California’s AI training data transparency law survives initial test from xAI &nbsp;&nbsp; IAM Patent",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "California AI training data transparency law upheld vs xAI — regulatory precedent for data sourcing",
+    "post_en": "California's AI training data transparency law just survived its first legal test — and xAI lost.\n\nThe court rejected xAI's argument that disclosing training data sources would reveal trade secrets.\n\nThe ruling is clear: transparency about WHAT data you used doesn't require revealing HOW you used it.\n\nThis sets a precedent that every AI company needs to understand:\n→ \"Trade secret\" is not a blanket defense against data transparency\n→ Disclosure of data sources ≠ disclosure of model architecture\n→ California is building the template other states will follow\n\nFor data infrastructure providers, this is actually good news.\n\nWhen AI companies must disclose their data sources, they'll need data they can actually point to — licensed, documented, with clear provenance.\n\nThe shadow era of \"we trained on everything and won't tell you what\" is ending.\n\nLegitimate data supply chains just became a legal requirement, not just a best practice.\n\n#AITransparency #DataCompliance #WebData",
+    "post_ru": "Закон Калифорнии о прозрачности training data только что прошёл первую судебную проверку — и xAI проиграл.\n\nСуд отклонил аргумент xAI о том, что раскрытие источников данных раскроет коммерческую тайну.\n\nПрозрачность о ТОМ, какие данные использованы, не требует раскрытия ТОГО, как они использованы.\n\nПрецедент:\n→ «Коммерческая тайна» — не универсальная защита от прозрачности данных\n→ Раскрытие источников ≠ раскрытие архитектуры модели\n→ Калифорния строит шаблон, которому последуют другие штаты\n\nТеневая эра «мы обучились на всём и не скажем на чём» заканчивается.\n\nЛегитимные цепочки поставок данных стали юридическим требованием.\n\n#AITransparency #DataCompliance #WebData"
+  },
+  {
+    "title": "KadNap bot compromises 14,000+ devices to route malicious traffic",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDRURngwSzBTMHYyMVFNMkN6VUgyWll2QjJPVFFjekxpTm9YeFZrM21OQng5TzFFQlRZRWJJeUJCRzhDWnUtRUNUQ3lBSEw4MmRjVFJzcmxiSUlwVkU0OVR2QTZZSFVYelNYUUdvVXcxLUFnd2NpZVdJazFVRUZhLXN0WGdKTUdwUWhKdk5SUVptWjlTY2RfbVB0TkNPeXNNV0g4OWltRERfaV9sVXRNQQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDRURngwSzBTMHYyMVFNMkN6VUgyWll2QjJPVFFjekxpTm9YeFZrM21OQng5TzFFQlRZRWJJeUJCRzhDWnUtRUNUQ3lBSEw4MmRjVFJzcmxiSUlwVkU0OVR2QTZZSFVYelNYUUdvVXcxLUFnd2NpZVdJazFVRUZhLXN0WGdKTUdwUWhKdk5SUVptWjlTY2RfbVB0TkNPeXNNV0g4OWltRERfaV9sVXRNQQ?oc=5",
+    "url_hash": "85a1da2d5b6ff922",
+    "published": "2026-03-11T09:05:46+00:00",
+    "summary": "KadNap bot compromises 14,000+ devices to route malicious traffic &nbsp;&nbsp; Security Affairs",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 4.5,
+      "freshness": 5
+    },
+    "editorial_override": "KadNap bot compromises 14,000+ devices to route malicious traffic — botnet/proxy abuse",
+    "post_en": "14,000 devices. Compromised. Routing malicious traffic without their owners knowing.\n\nThe KadNap botnet turned ordinary IoT devices into proxy nodes — selling access to cybercriminals who needed \"clean\" IP addresses.\n\nThis is becoming the standard attack playbook:\n→ Compromise consumer devices at scale\n→ Package them as \"residential proxy\" infrastructure\n→ Sell access for credential stuffing, ad fraud, and scraping abuse\n→ Operate until law enforcement catches up\n\nThe proxy industry has a trust problem it can't ignore anymore.\n\nWhen botnets and legitimate proxy providers use the same language — \"residential IPs,\" \"global coverage,\" \"rotating endpoints\" — how does a buyer tell the difference?\n\n3 questions every data team should ask their proxy provider:\n1. Can you prove consent from every IP source?\n2. Do you have a compliance framework, or just a marketing page?\n3. Has any independent party audited your IP sourcing?\n\nThe cheapest proxy might be the most expensive mistake you make this year.\n\n#Cybersecurity #ProxyInfrastructure #BotDetection",
+    "post_ru": "14 000 устройств. Скомпрометированы. Маршрутизируют вредоносный трафик без ведома владельцев.\n\nБотнет KadNap превратил обычные IoT-устройства в прокси-ноды — продавая доступ киберпреступникам.\n\nСтандартный плейбук атаки:\n→ Скомпрометировать потребительские устройства в масштабе\n→ Упаковать как «резидентную прокси» инфраструктуру\n→ Продать для credential stuffing, рекламного фрода и абьюза скрейпинга\n\nКогда ботнеты и легитимные провайдеры используют один язык — «резидентные IP», «глобальное покрытие» — как покупатель отличит?\n\n3 вопроса к прокси-провайдеру:\n1. Можете доказать согласие каждого источника IP?\n2. Есть compliance-фреймворк или только маркетинг?\n3. Проводил ли независимый аудит ваших источников IP?\n\n#Cybersecurity #ProxyInfrastructure #BotDetection"
+  },
+  {
+    "title": "Spain’s AEPD fines Yoti $1.1M for biometric data handling violations",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEoza3BEYXN5Q0pnSk9YcHAtMlB3MU1uajZHQ2lfb1IxejVsd2NBU0tEZEY1ajBfUU82eXZkT1ZfYkJfbGxsY3pqUHF4NnA0YkxSdFdJY2NhMjVQMWFmakR6em5YdF9OczVKRFh5OWt1cThENUFvQTB4VjFScngyZHBaeGNmNkVSR0pMUkRzX3UzQkRzZHJ1MUx1WXB0am5fYXo0ZVNfak8?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEoza3BEYXN5Q0pnSk9YcHAtMlB3MU1uajZHQ2lfb1IxejVsd2NBU0tEZEY1ajBfUU82eXZkT1ZfYkJfbGxsY3pqUHF4NnA0YkxSdFdJY2NhMjVQMWFmakR6em5YdF9OczVKRFh5OWt1cThENUFvQTB4VjFScngyZHBaeGNmNkVSR0pMUkRzX3UzQkRzZHJ1MUx1WXB0am5fYXo0ZVNfak8?oc=5",
+    "url_hash": "a1571040563c28e9",
+    "published": "2026-03-11T20:10:00+00:00",
+    "summary": "Spain’s AEPD fines Yoti $1.1M for biometric data handling violations &nbsp;&nbsp; Biometric Update",
+    "source_name": "GDPR Fines News",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.8,
+    "score_breakdown": {
+      "viral_format": 6,
+      "hook_strength": 4,
+      "audience_match": 3.5,
+      "rubric_fit": 3,
+      "freshness": 6.5
+    },
+    "editorial_override": "Spain fines Yoti $1.1M biometric data — GDPR enforcement, biometric privacy"
+  },
+  {
+    "title": "Media Company Gracenote Takes OpenAI to Court Over AI Training Data",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckJBeEY1QVE5dTAtZUg3WWF4RVItWGdnZFFfcGNvcFRaMFl3bjBhZWxnVUp3TmY0RWVkQWVIMWtWazlRVTBXSmU4M082YWlLOS1FTVN1dXhqSG4xRlZraHduaFNXZ3FTMVl6RWUtZEpaZ2dxMmV0ZWE5MlIwVm12QUtYb1ZBSk1iSDFmV2dLWUFleVNHZkpkdkFXeE1nRVAtWlRGblJGSUV5SjUzUmp3cEt3STUtTDhJd2ZGTmxPTlNfYTA?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckJBeEY1QVE5dTAtZUg3WWF4RVItWGdnZFFfcGNvcFRaMFl3bjBhZWxnVUp3TmY0RWVkQWVIMWtWazlRVTBXSmU4M082YWlLOS1FTVN1dXhqSG4xRlZraHduaFNXZ3FTMVl6RWUtZEpaZ2dxMmV0ZWE5MlIwVm12QUtYb1ZBSk1iSDFmV2dLWUFleVNHZkpkdkFXeE1nRVAtWlRGblJGSUV5SjUzUmp3cEt3STUtTDhJd2ZGTmxPTlNfYTA?oc=5",
+    "url_hash": "77e97edcc26e2ab9",
+    "published": "2026-03-12T21:13:45+00:00",
+    "summary": "Media Company Gracenote Takes OpenAI to Court Over AI Training Data &nbsp;&nbsp; Fine Day 102.3",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.6,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "Gracenote sues OpenAI over AI training data — training data copyright lawsuit"
+  },
+  {
+    "title": "Lords demand AI firms disclose training data or face UK licensing freeze",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdE1rbHZzb0hzelZCcUlSakVueXh4VmpTRjkzb09zdnZUY2dwY054OW5FN2RWLVphaExGcVUwbEUxYWU3a21BWHZUbGVnUkFLTXdGd0VYUHlNS2tTZzBUU0Q4YXNvSTZfZ0NFaDRodFd3cWhVTXVzLUtMMjJzQnZ6dnY4OEdQNVZZMmlrTEtud2F5c0x6?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdE1rbHZzb0hzelZCcUlSakVueXh4VmpTRjkzb09zdnZUY2dwY054OW5FN2RWLVphaExGcVUwbEUxYWU3a21BWHZUbGVnUkFLTXdGd0VYUHlNS2tTZzBUU0Q4YXNvSTZfZ0NFaDRodFd3cWhVTXVzLUtMMjJzQnZ6dnY4OEdQNVZZMmlrTEtud2F5c0x6?oc=5",
+    "url_hash": "73a4402f61595af1",
+    "published": "2026-03-11T12:39:41+00:00",
+    "summary": "Lords demand AI firms disclose training data or face UK licensing freeze &nbsp;&nbsp; PPC Land",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.5,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 3,
+      "freshness": 6.5
+    },
+    "editorial_override": "UK Lords demand AI firms disclose training data or face licensing freeze — regulatory"
+  },
+  {
+    "title": "Hackers reportedly stole nearly 1,000TB of data from Telus Digital",
+    "url": "https://mobilesyrup.com/2026/03/12/hackers-steal-nearly-1000tb-of-data-from-telus-digital/",
+    "normalized_url": "https://mobilesyrup.com/2026/03/12/hackers-steal-nearly-1000tb-of-data-from-telus-digital",
+    "url_hash": "996721d018273e8b",
+    "published": "2026-03-13T00:35:26+00:00",
+    "summary": "Article URL: https://mobilesyrup.com/2026/03/12/hackers-steal-nearly-1000tb-of-data-from-telus-digital/ Comments URL: https://news.ycombinator.com/item?id=47359260 Points: 2 # Comments: 1",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 7.4,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 3,
+      "freshness": 9
+    },
+    "editorial_override": "Hackers stole 1,000TB from Telus Digital — massive data breach"
+  },
+  {
+    "title": "What happens to your scraper when a proxy pool is too small",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHYzUGRLQUxqV1RJR082MFRLcjB1M19jYVBDUG5MTXQ0UkdKelAzMHVoMF9naV92VzJHdFpfY0VtdzM0RGxsclZxY0xNZjNBX0NXZ2RyMFVlNEx6ODlwWEctalg3a1N1UDZDYUVyaUJwSm5ncWFXckFiZ3NyeDdCX1N3Tk1uSFA3c1czNmREbmtIZnZsZGVV?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHYzUGRLQUxqV1RJR082MFRLcjB1M19jYVBDUG5MTXQ0UkdKelAzMHVoMF9naV92VzJHdFpfY0VtdzM0RGxsclZxY0xNZjNBX0NXZ2RyMFVlNEx6ODlwWEctalg3a1N1UDZDYUVyaUJwSm5ncWFXckFiZ3NyeDdCX1N3Tk1uSFA3c1czNmREbmtIZnZsZGVV?oc=5",
+    "url_hash": "0d249168db312b53",
+    "published": "2026-03-11T14:02:21+00:00",
+    "summary": "What happens to your scraper when a proxy pool is too small &nbsp;&nbsp; London Business News",
+    "source_name": "News: Web Scraping",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.3,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 8.0,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "What happens to your scraper when proxy pool is too small — web scraping infrastructure"
+  },
+  {
+    "title": "Improving AI Data Crawling with Residential Proxies",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1dJdDNXX1NHWnJvNW9pYnZxaHY1NEw3SmJLRGotTTNHN21kSmNPQXlJTWJvWk54dWhjTFdvT2hac2ZNYmxTcVpLY3JhaTcybXUxS3p4T0NWNkFyTmJzTmV2VHFmU2paSlpsc2pDOXJfSDNvNDVWTEZ1N1NSM21QdHplZ0haaDZPWlEw?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1dJdDNXX1NHWnJvNW9pYnZxaHY1NEw3SmJLRGotTTNHN21kSmNPQXlJTWJvWk54dWhjTFdvT2hac2ZNYmxTcVpLY3JhaTcybXUxS3p4T0NWNkFyTmJzTmV2VHFmU2paSlpsc2pDOXJfSDNvNDVWTEZ1N1NSM21QdHplZ0haaDZPWlEw?oc=5",
+    "url_hash": "42c6f629d1b85fc7",
+    "published": "2026-03-11T02:55:54+00:00",
+    "summary": "Improving AI Data Crawling with Residential Proxies &nbsp;&nbsp; nerdbot",
+    "source_name": "News: Web Scraping",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.2,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 8.0,
+      "rubric_fit": 4.5,
+      "freshness": 5
+    },
+    "editorial_override": "Improving AI Data Crawling with Residential Proxies — proxy/crawling topic"
+  },
+  {
+    "title": "Product update: Faster fraud detection with less work",
+    "url": "/blog/q1-2026-product-roundup/",
+    "normalized_url": "/blog/q1-2026-product-roundup",
+    "url_hash": "9cb4bfd10b664fb5",
+    "published": "2026-03-12T15:00:00+00:00",
+    "summary": "Explore Fingerprint’s Q1 product updates, including API v4, enhanced anti-detect browser detection, real location detection, and a new no-code rules engine built for faster fraud prevention.",
+    "source_name": "Fingerprint",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.1,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 5,
+      "audience_match": 6.0,
+      "rubric_fit": 6.0,
+      "freshness": 8
+    },
+    "editorial_override": "Cloudflare faster fraud detection — anti-fraud product update"
+  },
+  {
+    "title": "Court Upholds California AI Transparency Law, Rejecting X.AI’s Trade Secret Defense: 5 Action Steps for Employers",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PR2tsZk5idXNDRWhaYmRnZDV1cEk0dTBQWWNoMlk3QTQwbTkyUFpweTZSOFE1TVQzbVE1VmxvWVZrMUtfTFVSeVRDbkxlcnlIOFh3Wlg0THJqWjB5NGI0LTI2eGxreEQ3SEN2ZVZjcFc1VHB0VWphN2J3?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PR2tsZk5idXNDRWhaYmRnZDV1cEk0dTBQWWNoMlk3QTQwbTkyUFpweTZSOFE1TVQzbVE1VmxvWVZrMUtfTFVSeVRDbkxlcnlIOFh3Wlg0THJqWjB5NGI0LTI2eGxreEQ3SEN2ZVZjcFc1VHB0VWphN2J3?oc=5",
+    "url_hash": "67ff659e5b324b31",
+    "published": "2026-03-11T14:04:02+00:00",
+    "summary": "Court Upholds California AI Transparency Law, Rejecting X.AI’s Trade Secret Defense: 5 Action Steps for Employers &nbsp;&nbsp; JD Supra",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 3,
+      "freshness": 6.5
+    },
+    "editorial_override": "Court upholds California AI Transparency Law rejecting xAI — regulatory precedent"
+  },
+  {
+    "title": "California Attorney General Announces Largest CCPA Settlement",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjdXQ2pVZXgtdWJPWnh5VEE1N1FBX2xpd1QxTm9reU9NOVpuekFQMm5ETkRENnAwOGVaTGpRUFdDeDlQQS1FWlY2bS10azhrRVZFRko2X3lMc2IyZXVReFFseDFjR0xtNFAwQUgtVVhWNEoxRmZxZGVRbWltcnJGTVFaRDc2M3M?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjdXQ2pVZXgtdWJPWnh5VEE1N1FBX2xpd1QxTm9reU9NOVpuekFQMm5ETkRENnAwOGVaTGpRUFdDeDlQQS1FWlY2bS10azhrRVZFRko2X3lMc2IyZXVReFFseDFjR0xtNFAwQUgtVVhWNEoxRmZxZGVRbWltcnJGTVFaRDc2M3M?oc=5",
+    "url_hash": "4800479eb3479c03",
+    "published": "2026-03-10T17:05:05+00:00",
+    "summary": "California Attorney General Announces Largest CCPA Settlement &nbsp;&nbsp; JD Supra",
+    "source_name": "News: CCPA",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "viral_format": 5.5,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 4.5,
+      "freshness": 5
+    },
+    "editorial_override": "California AG announces largest CCPA settlement — data privacy enforcement"
+  },
+  {
+    "title": "When your DDoS mitigation provider goes down: Why traffic control can’t be outsourced",
+    "url": "https://www.imperva.com/blog/ddos-mitigation-provider-outage-traffic-control/",
+    "normalized_url": "https://www.imperva.com/blog/ddos-mitigation-provider-outage-traffic-control",
+    "url_hash": "e3b4e12aa1af6ad0",
+    "published": "2026-03-10T15:48:33+00:00",
+    "summary": "Since the headline-grabbing outages of 2021, we’ve had recurring conversations with large enterprises asking some version of the same question. Do we really want our CDN, security, and routing control to live in the same place? This issue of control has become more urgent after a series of well‑publicized, multi‑hour outages across major cloud‑based DDoS [&#8230;] The post When your DDoS mitigation provider goes down: Why traffic control can’t be outsourced appeared first on Blog .",
+    "source_name": "Imperva Blog",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 3,
+      "freshness": 5
+    },
+    "editorial_override": "When DDoS mitigation provider goes down — traffic control infrastructure"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "normalized_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "url_hash": "3dec299964e674ad",
+    "published": "2026-03-11T11:30:00+00:00",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "source_name": "OpenAI Blog",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.8,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 3.5,
+      "rubric_fit": 3,
+      "freshness": 5
+    },
+    "editorial_override": "Designing AI agents to resist prompt injection — AI security"
+  },
+  {
+    "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+    "url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+    "normalized_url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45",
+    "url_hash": "07b24039f83786b4",
+    "published": "2026-03-13T10:15:56+00:00",
+    "summary": "Article URL: https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/ Comments URL: https://news.ycombinator.com/item?id=47362528 Points: 143 # Comments: 30",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.7,
+    "score_breakdown": {
+      "viral_format": 8.5,
+      "hook_strength": 4,
+      "audience_match": 3.5,
+      "rubric_fit": 3,
+      "freshness": 10
+    },
+    "editorial_override": "$2B in grants behind age-verification bills — privacy/verification intersection"
+  },
+  {
+    "title": "Show HN: CacheLens – Local-first cost tracking proxy for LLM APIs",
+    "url": "https://github.com/stephenlthorn/cache-lens",
+    "normalized_url": "https://github.com/stephenlthorn/cache-lens",
+    "url_hash": "3eaec9b4267efa15",
+    "published": "2026-03-13T08:05:00+00:00",
+    "summary": "I built CacheLens because I was burning through $200+/month on Claude API calls and had no idea where it was going. It's a local HTTP proxy that sits between your app and the AI provider (Anthropic, OpenAI, Google). Every request flows through it, and it records token usage, cost, cache hit rates, latency — everything. Then there's a dashboard to visualize it all. What makes it different from just checking your provider dashboard: It's real-time (WebSocket live feed of every call as it happens) It works across all three major providers in one view It runs 100% locally — your prompts never leave your machine It has budget caps that actually block requests before you overspend It identifies optimization opportunities (cache misses, model downgrades, repeated prompts) Tech stack: Python, FastAPI, SQLite, vanilla JS. No React, no build step, no external dependencies beyond pip. The whole thing is ~3K lines of Python. Interesting technical decisions: The proxy captures streaming responses without buffering — it tees the byte stream so the client sees zero added latency Cost calculation uses a built-in pricing table with override support (providers change rates constantly) There's a Prometheus /metrics endpoint so you can plug it into existing monitoring Cacheability analysis uses diff-based detection across multiple API calls to identify what's actually static vs dynamic in your prompts Limitations I'm honest about: The cacheability scorer is heuristic-based — solid for multi-call",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.68,
+    "score_breakdown": {
+      "viral_format": 10.0,
+      "hook_strength": 4.5,
+      "audience_match": 5.5,
+      "rubric_fit": 6.0,
+      "freshness": 10
+    }
+  },
+  {
+    "title": "AI Security for Apps is now generally available",
+    "url": "https://blog.cloudflare.com/ai-security-for-apps-ga/",
+    "normalized_url": "https://blog.cloudflare.com/ai-security-for-apps-ga",
+    "url_hash": "7e551d042d941c5f",
+    "published": "2026-03-11T13:00:00+00:00",
+    "summary": "Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help teams find and secure shadow AI deployments.",
+    "source_name": "Cloudflare Blog",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.6,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 6.0,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "Cloudflare AI Security for Apps GA — security product launch"
+  },
+  {
+    "title": "Claude skills, MCP or Web Scraping Copilot: Which should you choose?",
+    "url": "https://www.zyte.com/blog/claude-skills-vs-mcp-vs-web-scraping-copilot",
+    "normalized_url": "https://www.zyte.com/blog/claude-skills-vs-mcp-vs-web-scraping-copilot",
+    "url_hash": "38ca3a6466e14e1f",
+    "published": "2026-03-11T04:56:00+00:00",
+    "summary": "Three ways to bring Zyte-powered web data into your AI workflow — from production spiders to conversational extraction.",
+    "source_name": "Zyte Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": "Zyte",
+    "score": 6.5,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 5,
+      "audience_match": 10,
+      "rubric_fit": 6.0,
+      "freshness": 5
+    }
+  },
+  {
+    "title": "CalPrivacy Issues $1.1 Million Fine for CCPA Violations Involving Student Privacy",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcFZxNS1HSktXc3VSR2JfelpWY1otWkxBRnQ1S2N6WWE5c3EtSzV5UjJFQlRnWHVQeThrWnZMYTRtcmljb0VxeHlYTW1GbUVxblZrRVVDS2FiU3hYdVdlMXdiaEhSMUZxZG9TZkI4bkZZTThfLTNzRWJOYjl1b2NYMGVBWjRWYmpESi1Mdnk3UVFhcXo1MUxIS0VkVjdWdHY4LUpMWDY0WldZN2N0Sk4tdUFRVVV0aDVHX3U1TVQxaWtJTGZkMjZsM2NpR2EtU1hWd1FEMg?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcFZxNS1HSktXc3VSR2JfelpWY1otWkxBRnQ1S2N6WWE5c3EtSzV5UjJFQlRnWHVQeThrWnZMYTRtcmljb0VxeHlYTW1GbUVxblZrRVVDS2FiU3hYdVdlMXdiaEhSMUZxZG9TZkI4bkZZTThfLTNzRWJOYjl1b2NYMGVBWjRWYmpESi1Mdnk3UVFhcXo1MUxIS0VkVjdWdHY4LUpMWDY0WldZN2N0Sk4tdUFRVVV0aDVHX3U1TVQxaWtJTGZkMjZsM2NpR2EtU1hWd1FEMg?oc=5",
+    "url_hash": "8e46b668e9eb18b2",
+    "published": "2026-03-11T19:20:09+00:00",
+    "summary": "CalPrivacy Issues $1.1 Million Fine for CCPA Violations Involving Student Privacy &nbsp;&nbsp; Hunton Andrews Kurth LLP",
+    "source_name": "News: CCPA",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 6.5,
+    "score_breakdown": {
+      "viral_format": 7.5,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "CalPrivacy $1.1M CCPA fine student privacy — CCPA enforcement"
+  },
+  {
+    "title": "Should CCPA Set a Cookie Banner Standard in Private Cases?",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbzdWTDExbU56RHZSV2tLRnZsaW9aVlotODNNcmZjc3J4aXNKOENQWXdFQ0g3WDdNTGg5X3BWdG5oWUJIdy1saDZaZFd5aFhFYndUaUl3Q2JxbEt3T1ZJT2k4dUZyRWk2VkJjUkNOMHFUQXBMLUIzbVBpMFJ3RGc?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbzdWTDExbU56RHZSV2tLRnZsaW9aVlotODNNcmZjc3J4aXNKOENQWXdFQ0g3WDdNTGg5X3BWdG5oWUJIdy1saDZaZFd5aFhFYndUaUl3Q2JxbEt3T1ZJT2k4dUZyRWk2VkJjUkNOMHFUQXBMLUIzbVBpMFJ3RGc?oc=5",
+    "url_hash": "fd3c9cf274ad20f3",
+    "published": "2026-03-12T17:41:12+00:00",
+    "summary": "Should CCPA Set a Cookie Banner Standard in Private Cases? &nbsp;&nbsp; JD Supra",
+    "source_name": "News: CCPA",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 6.4,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "CCPA cookie banner standard — data privacy regulation"
+  },
+  {
+    "title": "AI training after the SRB ruling: A practical playbook for engineers who now define compliance",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1V1UTdIeHc0Nzd5ajFxTXlNTzBwaEg5NGdfeFI3SVdRZnFxS2NYU29NRVAzRFAtLUpOM2pVQS1hV0xQZWtNZTJRUHlCVjBiNGRXbkhpdzVlYTVMcFNEOHhTRnpzSVZOc0JpemNvZWZkbHdybmpEYVF6R21IU2d3ZE8zZmlQOHRXalBkRl9oaktLMGYyZEd4Q1FDTUo5ak9zdE8yT0daNTBoVk1BOWh5TXJtTUNqT0hf?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1V1UTdIeHc0Nzd5ajFxTXlNTzBwaEg5NGdfeFI3SVdRZnFxS2NYU29NRVAzRFAtLUpOM2pVQS1hV0xQZWtNZTJRUHlCVjBiNGRXbkhpdzVlYTVMcFNEOHhTRnpzSVZOc0JpemNvZWZkbHdybmpEYVF6R21IU2d3ZE8zZmlQOHRXalBkRl9oaktLMGYyZEd4Q1FDTUo5ak9zdE8yT0daNTBoVk1BOWh5TXJtTUNqT0hf?oc=5",
+    "url_hash": "03df97d6ceb3a25b",
+    "published": "2026-03-11T17:23:24+00:00",
+    "summary": "AI training after the SRB ruling: A practical playbook for engineers who now define compliance &nbsp;&nbsp; IAPP",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.3,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 3,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "AI training after SRB ruling: compliance playbook — regulatory compliance"
+  },
+  {
+    "title": "Government Spying 🤝 Targeted Advertising | EFFector 38.5",
+    "url": "https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385",
+    "normalized_url": "https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385",
+    "url_hash": "1bc719cebd249316",
+    "published": "2026-03-11T14:50:26+00:00",
+    "summary": "Have you ever seen a really creepy targeted ad online? One that revealed just how much these companies know about your life? It's unsettling enough to see how much companies know about you—but now we have confirmation that the government is also tapping the advertising surveillance machine to get your data. We're explaining the dangers of targeted advertising and location tracking, and the latest in the fight for privacy and free speech online, with our EFFector newsletter . JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers a victory for protesters seeking to hold police accountable, a troubling conflict over the Department of Defense's use of AI , and how advertising surveillance enables government surveillance. Prefer to listen in? Big news: EFFector is now available on all major podcast platforms! In this episode we chat with EFF Staff Attorney Lena Cohen about how targeted advertising can reveal your location to federal law enforcement. You can find the episode and subscribe in your podcast player of choice : %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F924c6faa-1887-475b-a72c-0be4b6f68ba5%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to stay in the f",
+    "source_name": "EFF",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.2,
+    "score_breakdown": {
+      "viral_format": 6.5,
+      "hook_strength": 5.5,
+      "audience_match": 4.5,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "Government spying and targeted advertising — surveillance/adtech"
+  },
+  {
+    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+    "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+    "normalized_url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+    "url_hash": "618f77f78431dba1",
+    "published": "2026-03-12T20:55:51+00:00",
+    "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 632 # Comments: 333",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.1,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 5,
+      "audience_match": 3.5,
+      "rubric_fit": 4.5,
+      "freshness": 8
+    },
+    "editorial_override": "Innocent woman jailed via AI facial recognition — AI bias, surveillance"
+  },
+  {
+    "title": "Source code of Swedish e-government services has been leaked",
+    "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+    "normalized_url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure",
+    "url_hash": "683321c546d759ce",
+    "published": "2026-03-13T09:45:30+00:00",
+    "summary": "Article URL: https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=47362350 Points: 69 # Comments: 48",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.0,
+    "score_breakdown": {
+      "viral_format": 5,
+      "hook_strength": 5,
+      "audience_match": 3.5,
+      "rubric_fit": 3,
+      "freshness": 10
+    },
+    "editorial_override": "Swedish e-government source code leaked — security breach"
+  },
+  {
+    "title": "Furniture.com was built for SEO. Now it’s trying to crack AI search",
+    "url": "https://digiday.com/marketing/furniture-com-was-built-for-seo-now-its-trying-to-crack-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "normalized_url": "https://digiday.com/marketing/furniture-com-was-built-for-seo-now-its-trying-to-crack-ai-search",
+    "url_hash": "7e56867f8322028f",
+    "published": "2026-03-12T04:01:00+00:00",
+    "summary": "Furniture.com is among many dot-com companies grappling with how AI and chatbots are changing the way shoppers search for information.",
+    "source_name": "Digiday",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.0,
+    "score_breakdown": {
+      "viral_format": 4,
+      "hook_strength": 4,
+      "audience_match": 4,
+      "rubric_fit": 4.5,
+      "freshness": 6.5
+    },
+    "editorial_override": "Furniture.com built for SEO, now cracking AI search — AI search optimization"
+  }
+]
