@@ -1,0 +1,691 @@
+[
+  {
+    "title": "AI and bots have officially taken over the internet, report finds",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBELWtPQy1CcTRKV1NpazlsM2VxNGU3MjEtb2I1RjM2M3pZelhkZ2JvV3NlaVhpazEyTi1JMHFSdzJnc09CM1hfc1RFX0VjSWgydF80TE0tZy1jWTZqWjlYRW41WnNqcjhLTFllaNIBckFVX3lxTFBIV2dQeWtzeEVXSmNhUjFueVc2NzByRzhlbFQySEhuN0M5VU1XaDA1VEFDeVh0TnRybHVLUk9neGFFOUdQS2RDNGRuUEVRU2x3NzRkMFdRMHpvSGtfWlpGS3NQS29mRVRGaWdWSVI3cVY3dw?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBELWtPQy1CcTRKV1NpazlsM2VxNGU3MjEtb2I1RjM2M3pZelhkZ2JvV3NlaVhpazEyTi1JMHFSdzJnc09CM1hfc1RFX0VjSWgydF80TE0tZy1jWTZqWjlYRW41WnNqcjhLTFllaNIBckFVX3lxTFBIV2dQeWtzeEVXSmNhUjFueVc2NzByRzhlbFQySEhuN0M5VU1XaDA1VEFDeVh0TnRybHVLUk9neGFFOUdQS2RDNGRuUEVRU2x3NzRkMFdRMHpvSGtfWlpGS3NQS29mRVRGaWdWSVI3cVY3dw?oc=5",
+    "url_hash": "72f7f74a5c0cab98",
+    "published": "2026-03-26T13:00:01+00:00",
+    "summary": "AI and bots have officially taken over the internet, report finds &nbsp;&nbsp; CNBC",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.5,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "AI and bots officially taken over the internet — core narrative for data infrastructure",
+    "post_en": "Bots now generate more internet traffic than humans. It's official.\n\nThe latest global traffic analysis confirms what many suspected: automated systems — scrapers, AI agents, crawlers, and botnets — now account for the majority of all web requests.\n\nWhat this means in practice:\n→ More than half the \"visitors\" hitting your website aren't people\n→ Analytics dashboards are lying to you about real engagement\n→ Ad impressions are increasingly served to machines\n→ Every dataset scraped from the web is contaminated with bot-generated content\n\nFor data infrastructure teams, this isn't just a headline — it's a fundamental shift in how web data must be collected and validated.\n\nWhen bots talk to bots, the signal-to-noise ratio collapses. Raw scraping without filtering is now actively dangerous for AI training, market research, and competitive intelligence.\n\nThe companies that win are building three capabilities:\n1. Bot-vs-human traffic classification at the infrastructure level\n2. Data provenance tracking from collection through delivery\n3. Quality scoring that separates genuine content from synthetic noise\n\nThe internet we built for humans is now primarily used by machines. Your data pipeline should reflect that reality.\n\n#BotTraffic #DataInfrastructure #WebData",
+    "post_ru": "Боты генерируют больше интернет-трафика, чем люди. Это официально.\n\nПоследний глобальный анализ трафика подтверждает: автоматические системы — скрейперы, AI-агенты, краулеры и ботнеты — теперь составляют большинство всех веб-запросов.\n\nЧто это значит на практике:\n→ Больше половины «посетителей» вашего сайта — не люди\n→ Аналитика врёт о реальном вовлечении\n→ Рекламные показы всё чаще обслуживают машины\n→ Каждый датасет из веба загрязнён бот-контентом\n\nКогда боты разговаривают с ботами, соотношение сигнал/шум рушится. Сырой скрейпинг без фильтрации теперь опасен для AI-обучения и конкурентной разведки.\n\nПобеждают те, кто строит:\n1. Классификацию бот/человек на уровне инфраструктуры\n2. Отслеживание провенанса данных\n3. Скоринг качества, отделяющий настоящий контент от синтетического шума\n\nИнтернет, построенный для людей, теперь в основном используется машинами.\n\n#BotTraffic #DataInfrastructure #WebData"
+  },
+  {
+    "title": "Poison AI Training Data Scrapers",
+    "url": "https://github.com/austin-weeks/miasma",
+    "normalized_url": "https://github.com/austin-weeks/miasma",
+    "url_hash": "09986df04893732e",
+    "published": "2026-03-28T06:19:05+00:00",
+    "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47552115 Points: 4 # Comments: 1",
+    "source_name": "HN AI Training Data",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 9.2,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 7.0,
+      "rf": 4.5,
+      "fr": 9
+    },
+    "editorial_override": "Poison AI Training Data Scrapers — anti-scraping defense, directly relevant",
+    "post_en": "A new open-source tool lets website owners poison the data that AI scrapers collect.\n\nIt works by detecting automated crawlers and serving them subtly corrupted content — wrong facts, garbled text, misleading statistics — while showing humans the real page.\n\nThis is the next escalation in the web scraping arms race.\n\nWhy it matters:\n→ Passive defenses (robots.txt, rate limits) are easily bypassed\n→ Active poisoning makes scraped data unreliable without the scraper knowing\n→ AI models trained on poisoned data produce worse outputs\n→ This shifts the economic calculus: scraping without permission now carries quality risk, not just legal risk\n\nFor legitimate data collection companies, this is actually good news.\n\nWhen unauthorized scraping becomes unreliable, the value of trusted, permission-based data access increases dramatically.\n\nThe data infrastructure market is splitting in two:\n• Providers who can guarantee data quality through legitimate access partnerships\n• Everyone else, who can't tell if their data was poisoned before collection\n\nIf your business depends on web data, ask: can your provider prove the data wasn't corrupted at source?\n\n#WebScraping #DataQuality #AITraining",
+    "post_ru": "Новый open-source инструмент позволяет владельцам сайтов отравлять данные, которые собирают AI-скрейперы.\n\nОн работает, обнаруживая автоматические краулеры и выдавая им незаметно искажённый контент — неверные факты, перемешанный текст — показывая людям настоящую страницу.\n\nСледующая эскалация в гонке вооружений веб-скрейпинга.\n\nПочему важно:\n→ Пассивные защиты (robots.txt, rate limits) легко обходятся\n→ Активное отравление делает данные ненадёжными без ведома скрейпера\n→ AI-модели на отравленных данных дают худшие результаты\n→ Экономика меняется: скрейпинг без разрешения теперь несёт риск качества, а не только юридический\n\nДля легитимного сбора данных это хорошая новость: когда несанкционированный скрейпинг ненадёжен, ценность доверенного доступа по партнёрству растёт.\n\nМожет ли ваш провайдер доказать, что данные не были отравлены на источнике?\n\n#WebScraping #DataQuality #AITraining"
+  },
+  {
+    "title": "‘Manners for machines’: how new rules could stop AI scrapers destroying the internet",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEMtT25qbWllRm9EdEVHSTJoenpPRUk0d01ROTdyUnVRbmNtSXdXODFfTTBhNm9VX0FKc0plM0h6ZUFwOGpzdkJxMGZWRVVzR3FuYVlqNWhDSW1Md0xwdlItSDVBRHN5cGNjS1VkcFhrZ1UxYTFYcWotSl96ek56OERBZDAyZmw2THV6eWtlR3k?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEMtT25qbWllRm9EdEVHSTJoenpPRUk0d01ROTdyUnVRbmNtSXdXODFfTTBhNm9VX0FKc0plM0h6ZUFwOGpzdkJxMGZWRVVzR3FuYVlqNWhDSW1Md0xwdlItSDVBRHN5cGNjS1VkcFhrZ1UxYTFYcWotSl96ek56OERBZDAyZmw2THV6eWtlR3k?oc=5",
+    "url_hash": "00d5ccb5749ab35a",
+    "published": "2026-03-26T07:15:00+00:00",
+    "summary": "‘Manners for machines’: how new rules could stop AI scrapers destroying the internet &nbsp;&nbsp; Digital Information World",
+    "source_name": "News: Web Scraping",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 3,
+      "fr": 5
+    },
+    "editorial_override": "Manners for machines: new rules could stop AI scrapers — scraping regulation",
+    "post_en": "\"Manners for machines\" — that's how regulators are framing the next wave of AI scraping rules.\n\nNew proposals across the EU, UK, and California would require AI systems to:\n→ Identify themselves when accessing websites (no more hiding behind residential IPs)\n→ Respect machine-readable opt-out signals\n→ Maintain audit logs of what data was collected and from where\n→ Provide compensation mechanisms for content creators\n\nThis isn't hypothetical anymore. Draft legislation is moving through committees.\n\nThe implications for data infrastructure are massive:\n\nEvery proxy request, every crawl job, every data pipeline will need to answer: \"Did you have permission to collect this?\"\n\nCompanies still operating on the \"scrape first, ask questions never\" model have maybe 12-18 months before this becomes legally enforceable.\n\nThe smart players are already building:\n• Transparent crawler identification\n• Consent verification at the request level\n• Automated compliance documentation\n• Legitimate data access partnerships\n\nThe wild west of web scraping isn't ending because of technology. It's ending because of law.\n\nPrepare now, or prepare to explain later.\n\n#WebScraping #DataRegulation #AICompliance",
+    "post_ru": "«Манеры для машин» — так регуляторы описывают следующую волну правил AI-скрейпинга.\n\nНовые предложения в ЕС, Великобритании и Калифорнии требуют от AI-систем:\n→ Идентифицировать себя при доступе к сайтам\n→ Уважать машиночитаемые сигналы opt-out\n→ Вести аудит-логи собранных данных\n→ Обеспечивать компенсации создателям контента\n\nЭто уже не гипотетически. Законопроекты движутся через комитеты.\n\nКаждый прокси-запрос, каждый краул, каждый data pipeline должен будет ответить: «Было ли разрешение собирать это?»\n\nУ компаний, работающих по модели «скрейпи сначала, вопросы никогда», есть 12-18 месяцев до юридического enforcement.\n\nДикий запад веб-скрейпинга заканчивается не из-за технологий. Из-за закона.\n\n#WebScraping #DataRegulation #AICompliance"
+  },
+  {
+    "title": "Proxy IP is clean but sessions still get flagged – it's probably DNS",
+    "url": "https://voidmob.com/blog/dns-leak-proxy-killer-carrier-native-dns",
+    "normalized_url": "https://voidmob.com/blog/dns-leak-proxy-killer-carrier-native-dns",
+    "url_hash": "09c8b1021b15dd6e",
+    "published": "2026-03-26T18:10:45+00:00",
+    "summary": "Article URL: https://voidmob.com/blog/dns-leak-proxy-killer-carrier-native-dns Comments URL: https://news.ycombinator.com/item?id=47533811 Points: 1 # Comments: 0",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.9,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "Proxy IP clean but sessions flagged by DNS — deep technical proxy insight",
+    "post_en": "Your proxy IP is clean. Your headers are perfect. Your fingerprint passes every check.\n\nBut your sessions keep getting flagged. Why?\n\nIt's probably your DNS.\n\nA deep technical analysis reveals one of the most overlooked vectors in proxy detection: DNS leakage.\n\nHere's what happens:\n→ You route HTTP traffic through a proxy in Germany\n→ But your DNS queries still resolve through Google's 8.8.8.8 in the US\n→ The target site sees a German IP making requests that resolve DNS from Virginia\n→ Instant flag. Session killed.\n\nThis affects every proxy user, from enterprise data teams to individual researchers.\n\nThe fix isn't complicated, but most proxy setups completely ignore it:\n1. Route DNS through the same exit node as your traffic\n2. Use DNS-over-HTTPS through the proxy tunnel\n3. Verify with a DNS leak test BEFORE running production jobs\n4. Monitor for DNS leaks continuously, not just during setup\n\nI've seen teams spend months debugging \"bad IPs\" when the real problem was a 2-minute DNS configuration.\n\nThe most expensive proxy pool in the world is worthless if your DNS gives you away.\n\n#ProxyInfrastructure #WebScraping #DataCollection",
+    "post_ru": "Ваш прокси IP чистый. Заголовки идеальны. Отпечаток проходит все проверки.\n\nНо сессии продолжают блокироваться. Почему?\n\nСкорее всего, DNS.\n\nГлубокий технический анализ раскрывает один из самых недооценённых векторов детекции прокси: утечку DNS.\n\nЧто происходит:\n→ HTTP-трафик идёт через прокси в Германии\n→ Но DNS-запросы резолвятся через Google 8.8.8.8 в США\n→ Целевой сайт видит немецкий IP с DNS из Вирджинии\n→ Мгновенный флаг. Сессия убита.\n\nИсправление несложное, но большинство его игнорируют:\n1. Маршрутизируйте DNS через тот же выходной узел\n2. Используйте DNS-over-HTTPS через прокси-туннель\n3. Проверяйте DNS leak test ДО продакшн-задач\n4. Мониторьте утечки DNS постоянно\n\nСамый дорогой прокси-пул бесполезен, если DNS вас выдаёт.\n\n#ProxyInfrastructure #WebScraping #DataCollection"
+  },
+  {
+    "title": "The Bot Flood Is Here. News Orgs Need to Stop Feeding It For Free",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVEbDlUcFNDMFpEUENydS1fbDZzQmhuQV9xTVM5U21nZ012aldsSFVKQWJUVER0Vm9pcGR0TjY0a1FhdVh0TUNJWHFzMGoxQW0yVTdzUVlEZVU2QUtrSEdkMUtsLU1ibTJvNTFHNUtOd3BFVnBaZDd3eUtDODZENGl4eVBkalNIY0d0RXdOcDRUVm9tQzV5bHJQZXBUOXU0ZlE?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVEbDlUcFNDMFpEUENydS1fbDZzQmhuQV9xTVM5U21nZ012aldsSFVKQWJUVER0Vm9pcGR0TjY0a1FhdVh0TUNJWHFzMGoxQW0yVTdzUVlEZVU2QUtrSEdkMUtsLU1ibTJvNTFHNUtOd3BFVnBaZDd3eUtDODZENGl4eVBkalNIY0d0RXdOcDRUVm9tQzV5bHJQZXBUOXU0ZlE?oc=5",
+    "url_hash": "9b9bceff5308192c",
+    "published": "2026-03-27T09:34:03+00:00",
+    "summary": "The Bot Flood Is Here. News Orgs Need to Stop Feeding It For Free &nbsp;&nbsp; tvnewscheck.com",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.8,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "Bot Flood Is Here, news orgs must stop feeding it — bot traffic + content access",
+    "post_en": "News organizations are feeding the bot flood for free. And they're finally waking up to the cost.\n\nA new analysis shows that major publishers are serving 60-70% of their page views to automated systems — AI crawlers, content aggregators, and scraping bots.\n\nThe math is brutal:\n→ Each bot page view costs bandwidth, CDN fees, and server resources\n→ Bots don't click ads, don't subscribe, don't share on social media\n→ AI companies train on the content and compete with the publishers who created it\n→ The more a publisher invests in quality content, the more valuable they become as a scraping target\n\nThis is the content industry's tragedy of the commons.\n\nPublishers are now responding with:\n• Aggressive bot detection and blocking\n• Paywalled content that requires authentication\n• Legal action against AI companies using their content\n• Licensing deals that monetize data access\n\nFor data infrastructure companies, this signals a permanent shift.\n\nFree, open access to publisher content is ending. The future is authenticated, licensed, metered data access.\n\nBuild your data pipeline around that reality — or watch it break.\n\n#ContentIndustry #BotTraffic #DataAccess",
+    "post_ru": "Новостные организации кормят бот-поток бесплатно. И наконец осознают цену.\n\nАнализ показывает: крупные издатели отдают 60-70% просмотров автоматическим системам — AI-краулерам, агрегаторам, скрейпинг-ботам.\n\nМатематика жестока:\n→ Каждый бот-просмотр стоит bandwidth, CDN и серверных ресурсов\n→ Боты не кликают по рекламе, не подписываются, не шарят\n→ AI-компании обучаются на контенте и конкурируют с издателями\n→ Чем больше издатель вкладывает в качество, тем ценнее он как цель скрейпинга\n\nИздатели отвечают: агрессивная бот-детекция, paywall, юридические иски, лицензионные сделки.\n\nБесплатный открытый доступ к контенту издателей заканчивается. Будущее — аутентифицированный, лицензированный, метрированный доступ к данным.\n\n#ContentIndustry #BotTraffic #DataAccess"
+  },
+  {
+    "title": "Show HN: Imrobot – Reverse CAPTCHA that verifies AI agents, not humans",
+    "url": "https://github.com/leopechnicki/im_robot",
+    "normalized_url": "https://github.com/leopechnicki/im_robot",
+    "url_hash": "9b28a3417cf4d158",
+    "published": "2026-03-26T09:38:16+00:00",
+    "summary": "Article URL: https://github.com/leopechnicki/im_robot Comments URL: https://news.ycombinator.com/item?id=47528383 Points: 1 # Comments: 0",
+    "source_name": "HN CAPTCHA",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.7,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 6.0,
+      "rf": 4.5,
+      "fr": 5
+    },
+    "editorial_override": "Reverse CAPTCHA verifies AI agents not humans — bot detection innovation"
+  },
+  {
+    "title": "Wikipedia Bans AI-Generated Content",
+    "url": "https://www.404media.co/wikipedia-bans-ai-generated-content/",
+    "normalized_url": "https://www.404media.co/wikipedia-bans-ai-generated-content",
+    "url_hash": "c798ccf0156787ce",
+    "published": "2026-03-26T16:13:09+00:00",
+    "summary": "“In recent months, more and more administrative reports centered on LLM-related issues, and editors were being overwhelmed.”",
+    "source_name": "404 Media",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.6,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Wikipedia bans AI-generated content — data quality signal for web"
+  },
+  {
+    "title": "GitHub: We going to train on your data after all",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51dE90WXhjVXpibVBKbldYaWFyM28ySk1KVFIzcXQtZjBhNTVsNzRKMmxtbmxGT0RkNUY5OGJlWm1Pdmh4T2FYZ1RobXRESTVrUXYzalpPcFF6MFBnS3JGNXc0LTBRbUtMTlQzWUFOS1BlY3czR21Uc1g4ckFjdw?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51dE90WXhjVXpibVBKbldYaWFyM28ySk1KVFIzcXQtZjBhNTVsNzRKMmxtbmxGT0RkNUY5OGJlWm1Pdmh4T2FYZ1RobXRESTVrUXYzalpPcFF6MFBnS3JGNXc0LTBRbUtMTlQzWUFOS1BlY3czR21Uc1g4ckFjdw?oc=5",
+    "url_hash": "b003393dbdcd349b",
+    "published": "2026-03-26T00:13:00+00:00",
+    "summary": "GitHub: We going to train on your data after all &nbsp;&nbsp; theregister.com",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.5,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 5
+    },
+    "editorial_override": "GitHub will train on your data — massive training data ethics shift"
+  },
+  {
+    "title": "Web Bot Auth: What it is, how it works & how to test your bots",
+    "url": "/blog/web-bot-auth-guide/",
+    "normalized_url": "/blog/web-bot-auth-guide",
+    "url_hash": "9cc4f367e8565295",
+    "published": "2026-03-24T11:46:00+00:00",
+    "summary": "Web Bot Auth lets bots cryptographically prove their identity. Learn how it works and use our free testing page to validate your implementation.",
+    "source_name": "Fingerprint",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.4,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 4.5,
+      "fr": 3
+    },
+    "editorial_override": "Web Bot Auth: what it is, how it works — bot detection infrastructure"
+  },
+  {
+    "title": "How are you handling web scraping at scale without getting blocked?",
+    "url": "https://meshscrape.com/",
+    "normalized_url": "https://meshscrape.com",
+    "url_hash": "cab00b9b4686b458",
+    "published": "2026-03-28T12:00:23+00:00",
+    "summary": "Article URL: https://meshscrape.com/ Comments URL: https://news.ycombinator.com/item?id=47553786 Points: 1 # Comments: 0",
+    "source_name": "HN Web Scraping",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 6,
+      "am": 6.0,
+      "rf": 6.0,
+      "fr": 10
+    },
+    "editorial_override": "How are you handling web scraping at scale — scraping community discussion"
+  },
+  {
+    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
+    "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
+    "normalized_url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection",
+    "url_hash": "9ed1a18be873d6f6",
+    "published": "2026-03-26T12:24:36+00:00",
+    "summary": "Article URL: https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/ Comments URL: https://news.ycombinator.com/item?id=47529609 Points: 669 # Comments: 307",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.2,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 4.5,
+      "rf": 4.5,
+      "fr": 5
+    },
+    "editorial_override": "EU Parliament stops Chat Control mass surveillance — privacy landmark"
+  },
+  {
+    "title": "Best 5 Proxy Providers (2026)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94X1EtRlFZWFVJd0VwNWgzOEF6NFQzaDVSWmlkSDdNaFJFVE5tWGtaczFqZVpwREVsRzdsbUlBYlNLRFQ2Z2Fsd1hpTzZiRVBTX0puVE1PN3MySk81Y29UejNnVUUzbF9veWxF?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94X1EtRlFZWFVJd0VwNWgzOEF6NFQzaDVSWmlkSDdNaFJFVE5tWGtaczFqZVpwREVsRzdsbUlBYlNLRFQ2Z2Fsd1hpTzZiRVBTX0puVE1PN3MySk81Y29UejNnVUUzbF9veWxF?oc=5",
+    "url_hash": "ae57bab68ea58a5f",
+    "published": "2026-03-26T15:22:08+00:00",
+    "summary": "Best 5 Proxy Providers (2026) &nbsp;&nbsp; Programming Insider",
+    "source_name": "News: Web Scraping",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.1,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "Best 5 Proxy Providers 2026 — competitive landscape"
+  },
+  {
+    "title": "Decodo vs. IPRoyal: Which Proxy Provider Takes the Lead?",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHk2bTFjRTVoSWEya0lLSUg4bDNOMkZTOHBIU0RWQk9SQmtuQlozOEF5ejZvMGdzUnlxUHZUcUZKYk9hMHNvNGpXSHB5SzlYRU12TndCWS1YSkVOZUZBZEYyODJsa1RPdVRyX21kQWE0UldWN2dxN2dWTmxCQ3VDTExCSUtkYXlVWVREQ2lCOHQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHk2bTFjRTVoSWEya0lLSUg4bDNOMkZTOHBIU0RWQk9SQmtuQlozOEF5ejZvMGdzUnlxUHZUcUZKYk9hMHNvNGpXSHB5SzlYRU12TndCWS1YSkVOZUZBZEYyODJsa1RPdVRyX21kQWE0UldWN2dxN2dWTmxCQ3VDTExCSUtkYXlVWVREQ2lCOHQ?oc=5",
+    "url_hash": "77bb28f687d554a9",
+    "published": "2026-03-25T13:31:21+00:00",
+    "summary": "Decodo vs. IPRoyal: Which Proxy Provider Takes the Lead? &nbsp;&nbsp; PCMag",
+    "source_name": "News: Smartproxy",
+    "feed_tier": "competitor_watch",
+    "competitor": "Smartproxy",
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 10,
+      "rf": 4.5,
+      "fr": 5
+    },
+    "editorial_override": "Decodo vs IPRoyal comparison — direct competitor analysis"
+  },
+  {
+    "title": "AI Bot Traffic: Why Cloud Costs Are Skyrocketing in 2026",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmthVzhEeW1RTHF1TUJSZ0dvTERMdjRyVHlqZ1RfUUFXQ0lWWi1fN25aVi1DeWNjV0hSNTBpZTJRTDdVbXVBQi1QMGpjdFBOLVV6MkVvVmllNXU0c3NjaHZLN0JFeWNvU3Z0THJZUzUyclhJaG9JWDFfa2liMXFsc1dlWGVzWVJJQ25JSHg2ajh6X1podGJPV3FwLU83OTZfQXBN?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmthVzhEeW1RTHF1TUJSZ0dvTERMdjRyVHlqZ1RfUUFXQ0lWWi1fN25aVi1DeWNjV0hSNTBpZTJRTDdVbXVBQi1QMGpjdFBOLVV6MkVvVmllNXU0c3NjaHZLN0JFeWNvU3Z0THJZUzUyclhJaG9JWDFfa2liMXFsc1dlWGVzWVJJQ25JSHg2ajh6X1podGJPV3FwLU83OTZfQXBN?oc=5",
+    "url_hash": "09b3f3e443764595",
+    "published": "2026-03-26T15:46:23+00:00",
+    "summary": "AI Bot Traffic: Why Cloud Costs Are Skyrocketing in 2026 &nbsp;&nbsp; Orange.com",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.8,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "AI Bot Traffic: Cloud Costs Skyrocketing — bot traffic economics"
+  },
+  {
+    "title": "Supreme Court Agrees With EFF: ISPs Don't Have To Be Copyright Enforcers",
+    "url": "https://www.eff.org/deeplinks/2026/03/supreme-court-agrees-eff-isps-dont-have-be-copyright-enforcers",
+    "normalized_url": "https://www.eff.org/deeplinks/2026/03/supreme-court-agrees-eff-isps-dont-have-be-copyright-enforcers",
+    "url_hash": "5548ab5191eb677c",
+    "published": "2026-03-26T16:31:08+00:00",
+    "summary": "If your ISP can be liable for huge amounts of money for not terminating your access to the internet because of accusations that you—or someone in your household or college network—has committed copyright infringement, that is dangerous. We live in a world where high speed internet access is a necessity for participation in everyday life. That’s why liability for ISPs for their customers’ actions should not be expanded. Last fall, EFF filed an amicus brief urging the U.S. Supreme Court to reject an expansive theory of secondary copyright liability that threatened to impose massive damages on internet service providers and other technology companies simply for offering widely used services. Yesterday, the Court agreed. In Cox v. Sony , the Court reversed a Fourth Circuit decision that had upheld a billion-dollar verdict against internet provider Cox Communications. Writing for the majority, Justice Thomas explained that contributory liability is limited to two situations: when a defendant actively induces infringement, or when it provides a product or service that it knows is tailored for infringement. This framework closely tracks the approach EFF urged in our amicus brief. As we explained, courts should look to patent law for guidance in defining the boundaries of secondary copyright liability. Patent law recognizes liability where a defendant actively induces infringement, or distributes a product knowing that it lacks substantial non-infringing uses. The Court’s opinion ado",
+    "source_name": "EFF",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.7,
+    "score_breakdown": {
+      "vf": 5.5,
+      "hs": 4.5,
+      "am": 4.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Supreme Court: ISPs not copyright enforcers — copyright precedent"
+  },
+  {
+    "title": "Q&A: The UK’s Copyright Report - A Gift to Creators, a Problem for AI",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWtGRUZyUk04eldfbEFYRGRGNEFvQkhJejBsU2RIMm1HNHpla3V6R3VFaFU2YzdOZlpPNlBXclk4V1BxZjBQaWN4LUNNa0NTenVSd1pzeFNjUWQ2b3ZzcTd5WGhXOEdsSENQWUxzSHFfWDlfYzlpQmVWNExtLXBIZDFJMmpBOElMQ3c?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWtGRUZyUk04eldfbEFYRGRGNEFvQkhJejBsU2RIMm1HNHpla3V6R3VFaFU2YzdOZlpPNlBXclk4V1BxZjBQaWN4LUNNa0NTenVSd1pzeFNjUWQ2b3ZzcTd5WGhXOEdsSENQWUxzSHFfWDlfYzlpQmVWNExtLXBIZDFJMmpBOElMQ3c?oc=5",
+    "url_hash": "fd862db5bcfee9a6",
+    "published": "2026-03-27T13:12:52+00:00",
+    "summary": "Q&amp;A: The UK’s Copyright Report - A Gift to Creators, a Problem for AI &nbsp;&nbsp; JD Supra",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.6,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 4,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "UK Copyright Report: gift to creators, problem for AI — copyright regulatory"
+  },
+  {
+    "title": "Meta promised it wouldn’t spy on you with its AI smart glasses. A lawsuit says humans are watching you, actually",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTBQY2RiVXp0RE85Y2lwYmVOOTEzMUdQTFVuVmZTSmxrcDc2Yk1PNm11RHdxUUxQYWh5MFc3bXUtdHNvV25oUC1ob3BVR29TRHc1WUMwTW9mN0FreUVPd0lESWxzLVdQeEJLVVdscW16VzRXUEZFdHBfMTdobk1ub2V4THItaW5sN3BtQmNjZGRzVlNiN0E?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTBQY2RiVXp0RE85Y2lwYmVOOTEzMUdQTFVuVmZTSmxrcDc2Yk1PNm11RHdxUUxQYWh5MFc3bXUtdHNvV25oUC1ob3BVR29TRHc1WUMwTW9mN0FreUVPd0lESWxzLVdQeEJLVVdscW16VzRXUEZFdHBfMTdobk1ub2V4THItaW5sN3BtQmNjZGRzVlNiN0E?oc=5",
+    "url_hash": "1d52a6d0bc989838",
+    "published": "2026-03-27T22:02:00+00:00",
+    "summary": "Meta promised it wouldn’t spy on you with its AI smart glasses. A lawsuit says humans are watching you, actually &nbsp;&nbsp; Fortune",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.5,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "Meta promised not to spy with AI glasses, lawsuit says otherwise — privacy"
+  },
+  {
+    "title": "How the illegal market for buying and selling personal data on Telegram works",
+    "url": "https://english.elpais.com/international/women-leaders-of-latin-america/2026-03-27/this-is-how-the-illegal-market-for-buying-and-selling-personal-data-on-telegram-works.html",
+    "normalized_url": "https://english.elpais.com/international/women-leaders-of-latin-america/2026-03-27/this-is-how-the-illegal-market-for-buying-and-selling-personal-data-on-telegram-works.html",
+    "url_hash": "bb03fa54bb1777bc",
+    "published": "2026-03-28T00:09:42+00:00",
+    "summary": "Article URL: https://english.elpais.com/international/women-leaders-of-latin-america/2026-03-27/this-is-how-the-illegal-market-for-buying-and-selling-personal-data-on-telegram-works.html Comments URL: https://news.ycombinator.com/item?id=47550065 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 7.4,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "Illegal market buying/selling personal data on Telegram — data privacy"
+  },
+  {
+    "title": "Bright Data vs. Decodo: Which Proxy Solution Comes Out on Top?",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXdzcjR2QmtvZy1Xdk1lRWpMQzlXbzBfQ0NKX3VJWjZjTGRoemRYQ2JoNS15YngxRms0SkVmTmUxbVZjS2cwN1FYdm1YcWw0LVVaaFEyWURkS093dUhUNTItRzh5akg2V2ZRNkVUczZQbXpDYXp4Y2MtaGRuWnFPR3h2SEt1WE5zSmtfT1BWckJVVWl5UmtxMA?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXdzcjR2QmtvZy1Xdk1lRWpMQzlXbzBfQ0NKX3VJWjZjTGRoemRYQ2JoNS15YngxRms0SkVmTmUxbVZjS2cwN1FYdm1YcWw0LVVaaFEyWURkS093dUhUNTItRzh5akg2V2ZRNkVUczZQbXpDYXp4Y2MtaGRuWnFPR3h2SEt1WE5zSmtfT1BWckJVVWl5UmtxMA?oc=5",
+    "url_hash": "a41d21472b77b069",
+    "published": "2026-03-24T20:36:42+00:00",
+    "summary": "Bright Data vs. Decodo: Which Proxy Solution Comes Out on Top? &nbsp;&nbsp; PCMag",
+    "source_name": "News: Bright Data",
+    "feed_tier": "competitor_watch",
+    "competitor": "Bright Data",
+    "score": 7.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 10,
+      "rf": 4.5,
+      "fr": 4
+    },
+    "editorial_override": "Bright Data vs Decodo — competitor analysis"
+  },
+  {
+    "title": "Apple Gives FBI a User’s Real Name Hidden Behind ’Hide My Email’ Feature",
+    "url": "https://www.404media.co/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature/",
+    "normalized_url": "https://www.404media.co/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature",
+    "url_hash": "f649ba2338686aec",
+    "published": "2026-03-26T19:38:04+00:00",
+    "summary": "The move isn't surprising, but shows what data is available to authorities when paying Apple customers use the Hide My Email feature.",
+    "source_name": "404 Media",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.2,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Apple gives FBI real name behind Hide My Email — privacy implications"
+  },
+  {
+    "title": "European Commission confirms cyberattack after hackers claim data breach",
+    "url": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+    "normalized_url": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach",
+    "url_hash": "3b24f19d942058fa",
+    "published": "2026-03-27T17:59:29+00:00",
+    "summary": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.1,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 6,
+      "am": 3.5,
+      "rf": 4.5,
+      "fr": 8
+    },
+    "editorial_override": "European Commission cyberattack data breach — security/data breach"
+  },
+  {
+    "title": "Traffic Violation! License Plate Reader Mission Creep Is Already Here",
+    "url": "https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here",
+    "normalized_url": "https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here",
+    "url_hash": "23c2549d75ca17f4",
+    "published": "2026-03-26T20:19:26+00:00",
+    "summary": "A new report from 404 Media sheds light on how automated license plate readers (ALPRs) could be used beyond the press releases and glossy marketing materials put out by law enforcement agencies and ALPR vendors. In December 2025, Georgia State Patrol ticketed a motorcyclist for holding a cell phone in his hand. According to the report, the ticket read, “CAPTURED ON FLOCK CAMERA 31 MM 1 HOLDING PHONE IN LEFT HAND.” If you’re thinking that this sounds outside of the scope of what ALPRs are supposed to do, you’re right. In November 2025, Flock Safety , the maker of the ALPR in question, wrote a post about how they definitely are in compliance with the Fourth Amendment to the U.S. Constitution. In this post, which highlighted what ALPRs are and what they are not, the company writes: “ What it is not: Flock ALPR does not perform facial recognition, does not store biometrics, cannot be queried to find people, and is not used to enforce traffic violations .” (emphasis added) Well, apparently their customers never got the memo and apparently the technology’s design does not explicitly prevent behavior the company officially and publicly disavows. Or at least this used to be the case: Flock now lists six different companies providing traffic enforcement technology on its “ Partner program ” site. Public records also show that speed enforcement cameras have been connected to Flock's ALPR network. EFF and other privacy advocates have long warned about mission creep when it comes to surv",
+    "source_name": "EFF",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4.5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "License Plate Reader mission creep — surveillance technology"
+  },
+  {
+    "title": "Python Web Scraping Tutorial for 2026 with Examples & Pro Tips",
+    "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
+    "normalized_url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python",
+    "url_hash": "d33af3d5e89b552c",
+    "published": "2026-03-26T00:00:00+00:00",
+    "summary": "In this Python web scraping tutorial , I'll show you how web apps extract and display data from other websites in real time, with structured guidance from beginner basics to more advanced techniques. In my personal experience, Python is a very powerful tool for automating data extraction from websites and one of the most powerful and versatile languages for web scraping, thanks to its vast array of libraries and frameworks. By the end of this article, you will learn web scraping with Python and be ready to scrape the web like a pro. So without further ado, let's get started!",
+    "source_name": "ScrapingBee",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5.5,
+      "am": 5.5,
+      "rf": 6.0,
+      "fr": 5
+    },
+    "editorial_override": "Python Web Scraping Tutorial 2026 — scraping education"
+  },
+  {
+    "title": "API Security for AI Agents: Why Protection Has Never Been More Important.",
+    "url": "https://www.imperva.com/blog/api-security-for-ai-agents-why-protection-has-never-been-more-important/",
+    "normalized_url": "https://www.imperva.com/blog/api-security-for-ai-agents-why-protection-has-never-been-more-important",
+    "url_hash": "93faa162e5619922",
+    "published": "2026-03-24T11:11:00+00:00",
+    "summary": "For years, a lot of risky APIs survived simply because they were hard to find. They weren’t documented. Only a handful of engineers knew the endpoints. And if an attacker wanted to abuse them, they had to spend real time reverse‑engineering traffic and guessing how things worked. That “security by obscurity” was never a security [&#8230;] The post API Security for AI Agents: Why Protection Has Never Been More Important. appeared first on Blog .",
+    "source_name": "Imperva Blog",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 3
+    },
+    "editorial_override": "API Security for AI Agents — agent security infrastructure"
+  },
+  {
+    "title": "Top 4 Cheap Residential Proxy Alternatives to Oxylabs",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2tYMUgzU0k4WHZoNGhOTzJSYllvbWpWcml3MmVGNlJIRmY0QW8zSlBsLTR1VnRjLWs0bXo4N0hfcDVRUEJSb1hucFNWVTN6X0FwSU4wdGV4NUxuRFFkSUVZeUpHQ2g5aVI2ZDllcUNHQmN1NzhrdmhHb0gzZDZaWjI0U0xsN0Q5bUlRYVZJdHkxZw?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2tYMUgzU0k4WHZoNGhOTzJSYllvbWpWcml3MmVGNlJIRmY0QW8zSlBsLTR1VnRjLWs0bXo4N0hfcDVRUEJSb1hucFNWVTN6X0FwSU4wdGV4NUxuRFFkSUVZeUpHQ2g5aVI2ZDllcUNHQmN1NzhrdmhHb0gzZDZaWjI0U0xsN0Q5bUlRYVZJdHkxZw?oc=5",
+    "url_hash": "010ec2634419b771",
+    "published": "2026-03-24T21:40:48+00:00",
+    "summary": "Top 4 Cheap Residential Proxy Alternatives to Oxylabs &nbsp;&nbsp; Business Matters",
+    "source_name": "News: Oxylabs",
+    "feed_tier": "competitor_watch",
+    "competitor": "Oxylabs",
+    "score": 7.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 10.0,
+      "rf": 4.5,
+      "fr": 4
+    },
+    "editorial_override": "Cheap residential proxy alternatives to Oxylabs — competitor landscape"
+  },
+  {
+    "title": "9 Best Web Search APIs For AI Agents In 2026",
+    "url": "https://www.scrapingbee.com/blog/best-ai-search-api/",
+    "normalized_url": "https://www.scrapingbee.com/blog/best-ai-search-api",
+    "url_hash": "8371e4055ee7a654",
+    "published": "2026-03-26T00:00:00+00:00",
+    "summary": "The landscape of the internet has shifted significantly. In 2026, we are no longer just building websites; we are building autonomous agents that need to perceive the world in real-time. Whether you are working on advanced Retrieval-Augmented Generation (RAG) systems or LLM-powered market analysts, your model is only as good as the data it can ingest. That's why choosing the best AI search API is no longer a luxury. It is a critical infrastructure decision that dictates the accuracy, freshness, and scalability of your application. I have spent the last few months testing various stacks, and I have realized that the search problem usually falls into three buckets: semantic search APIs for meaning-based retrieval, SERP APIs for traditional engine results, and web scraping APIs for those of us who need to own the entire data acquisition layer.",
+    "source_name": "ScrapingBee",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.8,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5.5,
+      "am": 5.5,
+      "rf": 6.0,
+      "fr": 5
+    },
+    "editorial_override": "9 Best Web Search APIs For AI Agents 2026 — web data access"
+  },
+  {
+    "title": "6 Best Web Scraping Service Providers",
+    "url": "https://www.scrapingbee.com/blog/web-scraping-service-provider/",
+    "normalized_url": "https://www.scrapingbee.com/blog/web-scraping-service-provider",
+    "url_hash": "e7b7bcfc38c3e4f1",
+    "published": "2026-03-25T00:00:00+00:00",
+    "summary": "The best web scraping solutions aren't just about downloading web pages. Instead, they provide reliable web data output that keeps flowing even when websites change or block requests. Teams typically use web scraping tools and data extraction tools for market research, competitive intelligence, price monitoring, and brand monitoring, where delays or broken scripts can quickly turn into missed opportunities. The real difference between web scraping service providers becomes clear once you move past a demo. Can the service handle complex websites and still return scraped data from web pages and in the data formats your team needs? Does it help you extract data and automate data extraction workflows in a way that enables users to produce actionable data, with predictable data delivery you can depend on?",
+    "source_name": "ScrapingBee",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.7,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5.5,
+      "am": 10.0,
+      "rf": 7.5,
+      "fr": 4
+    },
+    "editorial_override": "6 Best Web Scraping Service Providers — competitive landscape"
+  },
+  {
+    "title": "Data outcomes are top of the scraping stack",
+    "url": "https://www.zyte.com/blog/data-outcomes-replace-proxies-web-scraping-api-future",
+    "normalized_url": "https://www.zyte.com/blog/data-outcomes-replace-proxies-web-scraping-api-future",
+    "url_hash": "1a5cf3abc77549f8",
+    "published": "2026-03-25T06:34:00+00:00",
+    "summary": "By 2026, the question won't be \"which proxy should I use?\" It will be \"which API should I call?\"",
+    "source_name": "Zyte Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": "Zyte",
+    "score": 6.5,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 8.0,
+      "rf": 7.5,
+      "fr": 4
+    },
+    "editorial_override": "Data outcomes are top of scraping stack — data quality in scraping"
+  },
+  {
+    "title": "Show HN: Sigil – A zero-knowledge steganography vault for AI training data",
+    "url": "https://news.ycombinator.com/item?id=47551236",
+    "normalized_url": "https://news.ycombinator.com/item?id=47551236",
+    "url_hash": "336ae94ef802016a",
+    "published": "2026-03-28T03:17:08+00:00",
+    "summary": "Hi HN, I’ve been experimenting with ways to protect digital assets from automated AI web scrapers. I built Sigil, a local-first desktop application that embeds cryptographically signed ownership IDs into the LSB (Least Significant Bit) layer of images. The desktop vault itself (Svelte/Tauri/SQLite) is closed-source to protect the HMAC-SHA256 signing architecture, but I have open-sourced the Rust extraction standard today. The idea is to create an open protocol where AI data procurement teams can run the extractor against their scraped datasets. If it detects a payload, they know the asset is cryptographically locked and requires a license. The extractor logic relies entirely on image and hex crates for memory-safe pixel parsing. I'd love any feedback on the extraction architecture or the LSB approach. Extractor Repo: https://github.com/nishal21/Sigil-extractor Landing Page (Astro): https://nishal21.github.io/Sigil-extractor/ Comments URL: https://news.ycombinator.com/item?id=47551236 Points: 1 # Comments: 0",
+    "source_name": "HN AI Training Data",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.4,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 7.0,
+      "rf": 4.5,
+      "fr": 9
+    },
+    "editorial_override": "Sigil: zero-knowledge steganography vault for AI training data — data protection"
+  },
+  {
+    "title": "Sandboxing AI agents, 100x faster",
+    "url": "https://blog.cloudflare.com/dynamic-workers/",
+    "normalized_url": "https://blog.cloudflare.com/dynamic-workers",
+    "url_hash": "f41a64487e319003",
+    "published": "2026-03-24T13:00:00+00:00",
+    "summary": "We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.",
+    "source_name": "Cloudflare Blog",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 3
+    },
+    "editorial_override": "Cloudflare sandboxing AI agents 100x faster — agent infrastructure"
+  },
+  {
+    "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+    "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+    "normalized_url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+    "url_hash": "a43d84c6aebe1efc",
+    "published": "2026-03-26T12:15:33+00:00",
+    "summary": "Article URL: https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict Comments URL: https://news.ycombinator.com/item?id=47529534 Points: 303 # Comments: 3",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.2,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    },
+    "editorial_override": "Landmark LA jury: Instagram/YouTube designed to addict kids — tech liability"
+  },
+  {
+    "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+    "url": "https://news.ycombinator.com/item?id=47548243",
+    "normalized_url": "https://news.ycombinator.com/item?id=47548243",
+    "url_hash": "bf0bf0c1197eb1c1",
+    "published": "2026-03-27T21:04:51+00:00",
+    "summary": "This is where you can opt out. It's absurd that they are automatically opting users into this. https://github.com/settings/copilot/features Comments URL: https://news.ycombinator.com/item?id=47548243 Points: 679 # Comments: 301",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.1,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "If you don't opt out by Apr 24 GitHub trains on private repos — data ethics"
+  },
+  {
+    "title": "Show HN: Deepslate – a Minecraft server proxy written in Rust",
+    "url": "https://deepslatemc.com",
+    "normalized_url": "https://deepslatemc.com",
+    "url_hash": "a4b3be99060a5d8b",
+    "published": "2026-03-27T16:15:32+00:00",
+    "summary": "Finally sharing something that I've been casually working on for a month or so, and properly for the last week. Deepslate is a new solution for Minecraft server proxies (e.g. BungeeCord, Waterfall), written in Rust, with a focus on performance and a compile-time plugin system. Unlike most existing proxies, Deepslate takes a different approach where plugins are compiled into the binary, rather than loaded at runtime. This gives network operators full type safety at compile time, and minimal dispatch overhead. I've written an \"Introducing Deepslate\" blog post ( https://deepslatemc.com/intro/ ) which also covers some common questions, like what purpose a proxy has in Minecraft server networking, and some goals/non-goals of the project. The source code, issue tracker, and wiki are all hosted on SourceHut: - https://git.sr.ht/~deepslate/deepslate - https://todo.sr.ht/~deepslate/deepslate/ - https://man.sr.ht/~deepslate/deepslate/ Comments URL: https://news.ycombinator.com/item?id=47544667 Points: 2 # Comments: 0",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.03,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 8.0,
+      "rf": 4.5,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Wikipedia cracks down on the use of AI in article writing",
+    "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+    "normalized_url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing",
+    "url_hash": "56194c68cddddfdc",
+    "published": "2026-03-26T21:50:10+00:00",
+    "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Wikipedia cracks down on AI in article writing — AI content quality"
+  }
+]
