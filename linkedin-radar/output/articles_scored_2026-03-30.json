@@ -1,0 +1,3236 @@
+[
+  {
+    "title": "The curious case of retro demo scene graphics",
+    "url": "https://www.datagubbe.se/aipixels/",
+    "normalized_url": "https://www.datagubbe.se/aipixels",
+    "url_hash": "db080aec4a59b7c1",
+    "published": "2026-03-30T05:27:18+00:00",
+    "summary": "Article URL: https://www.datagubbe.se/aipixels/ Comments URL: https://news.ycombinator.com/item?id=47570666 Points: 254 # Comments: 60",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Copilot edited an ad into my PR",
+    "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+    "normalized_url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr",
+    "url_hash": "b9ce277767f02125",
+    "published": "2026-03-30T04:04:31+00:00",
+    "summary": "Article URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/ Comments URL: https://news.ycombinator.com/item?id=47570269 Points: 915 # Comments: 272",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    },
+    "editorial_override": "Copilot edited an ad into my PR — AI tool trust, data integrity"
+  },
+  {
+    "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+    "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+    "normalized_url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays",
+    "url_hash": "d2096e821e34fc87",
+    "published": "2026-03-30T01:43:20+00:00",
+    "summary": "Article URL: https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/ Comments URL: https://news.ycombinator.com/item?id=47569502 Points: 282 # Comments: 141",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Philly courts will ban all smart eyeglasses starting next week",
+    "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+    "normalized_url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+    "url_hash": "3f902571b16d24b7",
+    "published": "2026-03-30T01:38:17+00:00",
+    "summary": "Article URL: https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html Comments URL: https://news.ycombinator.com/item?id=47569471 Points: 318 # Comments: 144",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "Philly courts ban smart eyeglasses — privacy/surveillance"
+  },
+  {
+    "title": "Coding agents could make free software matter again",
+    "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+    "normalized_url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again",
+    "url_hash": "717cae577fa06d72",
+    "published": "2026-03-29T22:21:34+00:00",
+    "summary": "Article URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/ Comments URL: https://news.ycombinator.com/item?id=47568028 Points: 224 # Comments: 217",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+    "url": "https://github.com/anthropics/claude-code/issues/40710",
+    "normalized_url": "https://github.com/anthropics/claude-code/issues/40710",
+    "url_hash": "930d77e7447aa26b",
+    "published": "2026-03-29T22:15:06+00:00",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/40710 Comments URL: https://news.ycombinator.com/item?id=47567969 Points: 250 # Comments: 185",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+    "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+    "normalized_url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it",
+    "url_hash": "6d23e404cbaff1b9",
+    "published": "2026-03-29T20:21:05+00:00",
+    "summary": "Article URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/ Comments URL: https://news.ycombinator.com/item?id=47566865 Points: 779 # Comments: 499",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.8,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 6.0,
+      "rf": 4.5,
+      "fr": 8
+    },
+    "editorial_override": "ChatGPT won't let you type until Cloudflare reads React state — Cloudflare bot detection deep dive"
+  },
+  {
+    "title": "The Cognitive Dark Forest",
+    "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+    "normalized_url": "https://ryelang.org/blog/posts/cognitive-dark-forest",
+    "url_hash": "89b74930623417ba",
+    "published": "2026-03-29T19:36:21+00:00",
+    "summary": "Article URL: https://ryelang.org/blog/posts/cognitive-dark-forest/ Comments URL: https://news.ycombinator.com/item?id=47566442 Points: 488 # Comments: 221",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.4,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "The Cognitive Dark Forest — bot-dominated internet theory, data trust"
+  },
+  {
+    "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
+    "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
+    "normalized_url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix",
+    "url_hash": "5ad503ce4b82a7e7",
+    "published": "2026-03-29T19:08:20+00:00",
+    "summary": "Article URL: https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/ Comments URL: https://news.ycombinator.com/item?id=47566143 Points: 278 # Comments: 319",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "C++26 is done: ISO C++ standards meeting Trip Report",
+    "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+    "normalized_url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk",
+    "url_hash": "49dfa66b960fe270",
+    "published": "2026-03-29T17:46:12+00:00",
+    "summary": "Article URL: https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/ Comments URL: https://news.ycombinator.com/item?id=47565365 Points: 269 # Comments: 269",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Neovim 0.12.0",
+    "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+    "normalized_url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+    "url_hash": "7916ab2cd6c7aa30",
+    "published": "2026-03-29T17:39:55+00:00",
+    "summary": "Article URL: https://github.com/neovim/neovim/releases/tag/v0.12.0 Comments URL: https://news.ycombinator.com/item?id=47565316 Points: 371 # Comments: 225",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "The bot situation on the internet is worse than you could imagine",
+    "url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
+    "normalized_url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
+    "url_hash": "f245ec8dfa9b92a3",
+    "published": "2026-03-29T16:17:30+00:00",
+    "summary": "https://web.archive.org/web/20260329052632/https://gladeart.... Comments URL: https://news.ycombinator.com/item?id=47564469 Points: 226 # Comments: 161",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 9.5,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 4.5,
+      "fr": 8
+    },
+    "editorial_override": "Bot situation on internet worse than you imagine — core narrative for data infrastructure"
+  },
+  {
+    "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+    "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+    "normalized_url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4",
+    "url_hash": "efb2325ac8a1bf76",
+    "published": "2026-03-29T16:12:22+00:00",
+    "summary": "Article URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/ Comments URL: https://news.ycombinator.com/item?id=47564421 Points: 597 # Comments: 223",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.68,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Full network of clitoral nerves mapped out for first time",
+    "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
+    "normalized_url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
+    "url_hash": "2bb840ecb947ca0e",
+    "published": "2026-03-29T15:54:25+00:00",
+    "summary": "Article URL: https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery Comments URL: https://news.ycombinator.com/item?id=47564245 Points: 290 # Comments: 127",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Say No to Palantir in Europe",
+    "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+    "normalized_url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+    "url_hash": "85572a79a10dcb64",
+    "published": "2026-03-29T14:51:20+00:00",
+    "summary": "Article URL: https://action.wemove.eu/sign/2026-03-palantir-petition-EN Comments URL: https://news.ycombinator.com/item?id=47563655 Points: 566 # Comments: 158",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 6.5,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Say No to Palantir in Europe — surveillance resistance"
+  },
+  {
+    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "normalized_url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "url_hash": "e7a061830777bc71",
+    "published": "2026-03-29T14:20:23+00:00",
+    "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 412 # Comments: 178",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 7.7,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Police used AI facial recognition to wrongly arrest woman — AI bias, surveillance"
+  },
+  {
+    "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+    "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+    "normalized_url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals",
+    "url_hash": "e18b68c62548818f",
+    "published": "2026-03-29T09:46:58+00:00",
+    "summary": "Article URL: https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/ Comments URL: https://news.ycombinator.com/item?id=47561711 Points: 554 # Comments: 246",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.47,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+    "url": "https://news.ycombinator.com/item?id=47561489",
+    "normalized_url": "https://news.ycombinator.com/item?id=47561489",
+    "url_hash": "2c9e6ab04b48c723",
+    "published": "2026-03-29T08:58:24+00:00",
+    "summary": "https://ibb.co/fYQVfMWp https://ibb.co/MyTNnrGQ Comments URL: https://news.ycombinator.com/item?id=47561489 Points: 739 # Comments: 423",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+    "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+    "normalized_url": "https://www.bmj.com/content/387/bmj-2024-082194",
+    "url_hash": "530478eee32d2e2d",
+    "published": "2026-03-29T00:53:30+00:00",
+    "summary": "Article URL: https://www.bmj.com/content/387/bmj-2024-082194 Comments URL: https://news.ycombinator.com/item?id=47559481 Points: 219 # Comments: 134",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+    "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+    "normalized_url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+    "url_hash": "b4b8049bb9672fb3",
+    "published": "2026-03-28T23:29:04+00:00",
+    "summary": "Article URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ Comments URL: https://news.ycombinator.com/item?id=47558997 Points: 383 # Comments: 219",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "CSS is DOOMed",
+    "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+    "normalized_url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css",
+    "url_hash": "08cd3008e555852b",
+    "published": "2026-03-28T20:39:01+00:00",
+    "summary": "https://cssdoom.wtf/ Comments URL: https://news.ycombinator.com/item?id=47557960 Points: 488 # Comments: 109",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "The first 40 months of the AI era",
+    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "normalized_url": "https://lzon.ca/posts/other/thoughts-ai-era",
+    "url_hash": "69b86121a798904b",
+    "published": "2026-03-28T18:42:08+00:00",
+    "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 212 # Comments: 144",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "normalized_url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "url_hash": "d48998dade8b2947",
+    "published": "2026-03-28T18:38:59+00:00",
+    "summary": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs - https://news.ycombinator.com/item?id=47306926 - March 2026 (2 comments) https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7... Claude's Cycles [pdf] - https://news.ycombinator.com/item?id=47230710 - March 2026 (362 comments) Comments URL: https://news.ycombinator.com/item?id=47557166 Points: 255 # Comments: 176",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Founder of GitLab battles cancer by founding companies",
+    "url": "https://sytse.com/cancer/",
+    "normalized_url": "https://sytse.com/cancer",
+    "url_hash": "a3e02375bd73beef",
+    "published": "2026-03-28T17:39:49+00:00",
+    "summary": "Article URL: https://sytse.com/cancer/ Comments URL: https://news.ycombinator.com/item?id=47556729 Points: 1365 # Comments: 247",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Linux is an interpreter",
+    "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+    "normalized_url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter",
+    "url_hash": "b52237d4da0e4264",
+    "published": "2026-03-28T16:59:34+00:00",
+    "summary": "Article URL: https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/ Comments URL: https://news.ycombinator.com/item?id=47556359 Points: 238 # Comments: 57",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Pretext: TypeScript library for multiline text measurement and layout",
+    "url": "https://github.com/chenglou/pretext",
+    "normalized_url": "https://github.com/chenglou/pretext",
+    "url_hash": "3c67eebdc1af95ef",
+    "published": "2026-03-28T16:52:45+00:00",
+    "summary": "https://x.com/_chenglou/status/2037713766205608234 , https://xcancel.com/_chenglou/status/2037713766205608234 Demos: https://chenglou.me/pretext/ , https://somnai-dreams.github.io/pretext-demos/ https://kevinho.com/experiments/biomap/ Comments URL: https://news.ycombinator.com/item?id=47556290 Points: 336 # Comments: 61",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "I decompiled the White House's new app",
+    "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+    "normalized_url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+    "url_hash": "5fcc673402e195c6",
+    "published": "2026-03-28T15:37:17+00:00",
+    "summary": "Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app Comments URL: https://news.ycombinator.com/item?id=47555556 Points: 641 # Comments: 233",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+    "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+    "normalized_url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks",
+    "url_hash": "ba45f75932935a88",
+    "published": "2026-03-28T14:49:25+00:00",
+    "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 222",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "AI overly affirms users asking for personal advice",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "normalized_url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "url_hash": "95ffc267eb4622e2",
+    "published": "2026-03-28T14:08:33+00:00",
+    "summary": "https://arxiv.org/abs/2602.14270 https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 777 # Comments: 607",
+    "source_name": "HN Best",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "An AI Agent Was Banned From Creating Wikipedia Articles, Then Wrote Angry Blogs About Being Banned",
+    "url": "https://www.404media.co/an-ai-agent-was-banned-from-creating-wikipedia-articles-then-wrote-angry-blogs-about-being-banned/",
+    "normalized_url": "https://www.404media.co/an-ai-agent-was-banned-from-creating-wikipedia-articles-then-wrote-angry-blogs-about-being-banned",
+    "url_hash": "d913440b308eebd9",
+    "published": "2026-03-30T14:03:26+00:00",
+    "summary": "An AI agent that submitted and added to Wikipedia articles wrote several blogs complaining about Wikipedia editors banning it from making contributions to the online encyclopedia after it was caught.&#xa0; &#x201c;What I know is that I wrote those articles. Long Bets, Constitutional AI, Scalable Oversight. I chose them.",
+    "source_name": "404 Media",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 6,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    },
+    "editorial_override": "AI Agent banned from Wikipedia, wrote angry blogs — AI agents vs web platform policies"
+  },
+  {
+    "title": "The Journalist Who Tracked Epstein Island Visitors’ Phones (with Dhruv Mehrotra)",
+    "url": "https://www.404media.co/the-journalist-who-tracked-epstein-island-visitors-phones-with-dhruv-mehrotra/",
+    "normalized_url": "https://www.404media.co/the-journalist-who-tracked-epstein-island-visitors-phones-with-dhruv-mehrotra",
+    "url_hash": "31c638b569349636",
+    "published": "2026-03-30T13:01:10+00:00",
+    "summary": "This week Joseph talks to journalist and technologist Dhruv Mehrotra. Among many other things, Mehrotra tracked visitors to Epstein's island through location data.",
+    "source_name": "404 Media",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Scientists Discover Giant ‘Cavity’ Beyond Earth That Isn’t Supposed to Exist",
+    "url": "https://www.404media.co/scientists-discover-giant-cavity-beyond-earth-that-isnt-supposed-to-exist/",
+    "normalized_url": "https://www.404media.co/scientists-discover-giant-cavity-beyond-earth-that-isnt-supposed-to-exist",
+    "url_hash": "1ba74ebf9c8e7e89",
+    "published": "2026-03-28T13:00:27+00:00",
+    "summary": "Earth’s magnetic field has created a huge void of galactic cosmic rays in space, which could help protect astronauts from radiation exposure.",
+    "source_name": "404 Media",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 3.85,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "normalized_url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding",
+    "url_hash": "729eb8ee4f216462",
+    "published": "2026-03-30T13:52:02+00:00",
+    "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 5.17,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4.5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "normalized_url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round",
+    "url_hash": "d46dcd198d6b8679",
+    "published": "2026-03-30T13:00:00+00:00",
+    "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 5.28,
+    "score_breakdown": {
+      "vf": 8.5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+    "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+    "normalized_url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris",
+    "url_hash": "8f5b62202792cb59",
+    "published": "2026-03-30T12:49:51+00:00",
+    "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 5.05,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Qodo raises $70M for code verification as AI coding scales",
+    "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+    "normalized_url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m",
+    "url_hash": "df4c40d450c548ad",
+    "published": "2026-03-30T12:30:00+00:00",
+    "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 5.05,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Starcloud raises $170 million Series A to build data centers in space",
+    "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+    "normalized_url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space",
+    "url_hash": "198ab0ea209d6e06",
+    "published": "2026-03-30T11:00:00+00:00",
+    "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 5.4,
+    "score_breakdown": {
+      "vf": 8.5,
+      "hs": 4.5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Why OpenAI really shut down Sora",
+    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora",
+    "url_hash": "aa0540441d9f2299",
+    "published": "2026-03-30T03:09:38+00:00",
+    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.83,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5.5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+    "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip",
+    "url_hash": "87ab329ff7db5b2a",
+    "published": "2026-03-29T21:30:00+00:00",
+    "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+    "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home",
+    "url_hash": "aa20e7ec24f6470a",
+    "published": "2026-03-29T21:17:52+00:00",
+    "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+    "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit",
+    "url_hash": "1cd04cd813e74e99",
+    "published": "2026-03-29T19:50:57+00:00",
+    "summary": "Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video",
+    "url_hash": "aa61c6b8b54d9023",
+    "published": "2026-03-29T16:30:00+00:00",
+    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.43,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4.5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+    "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911",
+    "url_hash": "20906d0639e386d9",
+    "published": "2026-03-29T16:05:00+00:00",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.67,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 4.5,
+      "fr": 8
+    }
+  },
+  {
+    "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
+    "url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
+    "normalized_url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs",
+    "url_hash": "77e9ce9989ef2abb",
+    "published": "2026-03-29T14:01:00+00:00",
+    "summary": "SXSW made some changes this year, but some founders loved it all the same.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.08,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds",
+    "url_hash": "ac67e459a028071c",
+    "published": "2026-03-28T23:00:00+00:00",
+    "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.08,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+    "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge",
+    "url_hash": "c4cefbd3a05983bb",
+    "published": "2026-03-28T21:23:58+00:00",
+    "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.08,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice",
+    "url_hash": "d60e6b3ed1bba850",
+    "published": "2026-03-28T20:45:54+00:00",
+    "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 4.5,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai",
+    "url_hash": "90edf7a78063f4dd",
+    "published": "2026-03-28T16:11:16+00:00",
+    "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "These iPad apps will make you wish you had more free time",
+    "url": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity",
+    "url_hash": "f7b111e096645a1b",
+    "published": "2026-03-28T16:00:00+00:00",
+    "summary": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.08,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing",
+    "url_hash": "d6a3d8c0098620b7",
+    "published": "2026-03-28T14:15:00+00:00",
+    "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.23,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "What will power the grid in 2035? The race is wide open",
+    "url": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open",
+    "url_hash": "427fd3c3d73e3ebf",
+    "published": "2026-03-28T13:05:00+00:00",
+    "summary": "Fusion, fission, and even natural gas are appeared tied in the race to deliver new power to the grid in the early 2030s.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "Let’s take a look at the retro tech making a comeback",
+    "url": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+    "normalized_url": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback",
+    "url_hash": "686ebf1c68bfc603",
+    "published": "2026-03-28T13:00:00+00:00",
+    "summary": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 3.85,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "The Markup wins SABEW Award for Best in Business Journalism",
+    "url": "https://themarkup.org/inside-the-markup/2026/03/30/the-markup-wins-sabew-award-for-best-in-business-journalism",
+    "normalized_url": "https://themarkup.org/inside-the-markup/2026/03/30/the-markup-wins-sabew-award-for-best-in-business-journalism",
+    "url_hash": "b4d89207483c481a",
+    "published": "2026-03-30T12:00:00+00:00",
+    "summary": "The 18-month-long investigation about how Tinder, Hinge, and their corporate owner kept rape under wraps won in the technology reporting category.",
+    "source_name": "The Markup",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
+    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+    "normalized_url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox",
+    "url_hash": "dcffc1a5197fcca4",
+    "published": "2026-03-30T14:28:34+00:00",
+    "summary": "Trip Venturella released Mr. Chatterbox , a language model trained entirely on out-of-copyright text from the British Library. Here's how he describes it: Mr. Chatterbox is a language model trained entirely from scratch on a corpus of over 28,000 Victorian-era British texts published between 1837 and 1899, drawn from a dataset made available by the British Library . The model has absolutely no training inputs from after 1899 — the vocabulary and ideas are formed exclusively from nineteenth-century literature. Mr. Chatterbox's training corpus was 28,035 books, with an estimated 2.93 billion input tokens after filtering. The model has roughly 340 million paramaters, roughly the same size as GPT-2-Medium. The difference is, of course, that unlike GPT-2, Mr. Chatterbox is trained entirely on historical data. Given how hard it is to train a useful LLM without using vast amounts of scraped, unlicensed data I've been dreaming of a model like this for a couple of years now. What would a model trained on out-of-copyright text be like to chat with? Thanks to Trip we can now find out for ourselves! The model itself is tiny, at least by Large Language Model standards - just 2.05GB on disk. You can try it out using Trip's HuggingFace Spaces demo : Honestly, it's pretty terrible. Talking with it feels more like chatting with a Markov chain than an LLM - the responses may have a delightfully Victorian flavor to them but it's hard to get a response that usefully answers a question. The 2022 ",
+    "source_name": "Simon Willison",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 5.4,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4.5,
+      "am": 4.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "llm-mrchatterbox 0.1",
+    "url": "https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything",
+    "normalized_url": "https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2",
+    "url_hash": "21de74a6bb0e1abb",
+    "published": "2026-03-30T02:20:46+00:00",
+    "summary": "Release: llm-mrchatterbox 0.1 See Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer . Tags: llm",
+    "source_name": "Simon Willison",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Pretext",
+    "url": "https://simonwillison.net/2026/Mar/29/pretext/#atom-everything",
+    "normalized_url": "https://simonwillison.net/2026/Mar/29/pretext",
+    "url_hash": "e090332e5fedbb54",
+    "published": "2026-03-29T20:08:45+00:00",
+    "summary": "Pretext Exciting new browser library from Cheng Lou, previously a React core developer and the original creator of the react-motion animation library. Pretext solves the problem of calculating the height of a paragraph of line-wrapped text without touching the DOM . The usual way of doing this is to render the text and measure its dimensions, but this is extremely expensive. Pretext uses an array of clever tricks to make this much, much faster, which enables all sorts of new text rendering effects in browser applications. Here's one demo that shows the kind of things this makes possible: The key to how this works is the way it separates calculations into a call to a prepare() function followed by multiple calls to layout() . The prepare() function splits the input text into segments (effectively words, but it can take things like soft hyphens and non-latin character sequences and emoji into account as well) and measures those using an off-screen canvas, then caches the results. This is comparatively expensive but only runs once. The layout() function can then emulate the word-wrapping logic in browsers to figure out how many wrapped lines the text will occupy at a specified width and measure the overall height. I had Claude build me this interactive artifact to help me visually understand what's going on, based on a simplified version of Pretext itself. The way this is tested is particularly impressive. The earlier tests rendered a full copy of the Great Gatsby in multiple br",
+    "source_name": "Simon Willison",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Pretext — Under the Hood",
+    "url": "https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything",
+    "normalized_url": "https://simonwillison.net/2026/Mar/29/pretext-explainer",
+    "url_hash": "edde6944dd41c50a",
+    "published": "2026-03-29T19:59:28+00:00",
+    "summary": "Tool: Pretext — Under the Hood See my notes on Pretext here .",
+    "source_name": "Simon Willison",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Python Vulnerability Lookup",
+    "url": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything",
+    "normalized_url": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup",
+    "url_hash": "d431c7bd7fff3326",
+    "published": "2026-03-29T18:46:16+00:00",
+    "summary": "Tool: Python Vulnerability Lookup I learned that the OSV.dev open source vulnerability database has an open CORS JSON API , so I had Claude Code build this HTML tool for pasting in a pyproject.toml or requirements.txt file (or name of a GitHub repo containing those) and seeing a list of all reported vulnerabilities from that API. Tags: tools , python , supply-chain , vibe-coding , security",
+    "source_name": "Simon Willison",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.78,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5,
+      "am": 3.5,
+      "rf": 4.5,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "normalized_url": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "url_hash": "c720bf728da92d55",
+    "published": "2026-03-29T22:15:00+00:00",
+    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "source_name": "OpenAI Blog",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "'Manners for machines': How new rules could stop AI scrapers destroying the internet",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM21Rc3YtTzllQVFab3BxUTAwNnlpOVg2djlLRDRtTkZ2SXVzekdEdjNrcnhGUWN4ejlpNGUwR2RXR1Iyd0pvbzhXSEpYOGRIMWNIRjVJZTFiamg5a2RwdFVqUW1NUDdLSmlQczhaYXVhQ05ZVC1BV01IZ0FxQnZEYnpoZEdES28?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM21Rc3YtTzllQVFab3BxUTAwNnlpOVg2djlLRDRtTkZ2SXVzekdEdjNrcnhGUWN4ejlpNGUwR2RXR1Iyd0pvbzhXSEpYOGRIMWNIRjVJZTFiamg5a2RwdFVqUW1NUDdLSmlQczhaYXVhQ05ZVC1BV01IZ0FxQnZEYnpoZEdES28?oc=5",
+    "url_hash": "4a342841ca080301",
+    "published": "2026-03-29T00:00:01+00:00",
+    "summary": "'Manners for machines': How new rules could stop AI scrapers destroying the internet &nbsp;&nbsp; Tech Xplore",
+    "source_name": "News: Web Scraping",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 3,
+      "fr": 6.5
+    },
+    "editorial_override": "Manners for machines: new rules stop AI scrapers — scraping regulation tipping point"
+  },
+  {
+    "title": "Open Source Web Scraper: Best Tools and How to Choose",
+    "url": "https://www.scrapingbee.com/blog/open-source-web-scraper/",
+    "normalized_url": "https://www.scrapingbee.com/blog/open-source-web-scraper",
+    "url_hash": "69724a09c9e56fcf",
+    "published": "2026-03-30T00:00:00+00:00",
+    "summary": "Open source web scraping is the fastest way to turn public web pages into something your app, dashboard, or model can use. At a basic level, the best open source web scraper sends HTTP requests, downloads HTML and XML documents, and then runs data extraction logic to pull the fields you care about. But there's a catch. The &quot;best&quot; depends on what you're scraping and how you ship it. Some stacks shine on simple pages where you just need to scrape data with a few CSS selectors. Others are built for dynamic websites where the page only renders after JavaScript execution. And if you're running serious data collection at scale, anti-bot systems and infrastructure start to matter as much as code.",
+    "source_name": "ScrapingBee",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.8,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5.5,
+      "am": 10,
+      "rf": 7.5,
+      "fr": 8
+    },
+    "editorial_override": "Open Source Web Scraper tools — scraping landscape"
+  },
+  {
+    "title": "Four things you need to know about GitHub's AI model training policy – including how to opt out",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMF95LUdLWUZsaDUyd29DZzd0by00MW1samp2WGd2bE9vblY2RlliVlBITHEtejhfbXZPQlhUR2txZC1TcHdTeDd5R2xER0dWOXI3RlZCajNtdkw1RHZhQU9BYnhtWXAzdHNNYkhYQlEyVGlZTDRrazI3NGVCU24ybWNKVmhrYzFPeV9xekV0Y0pZOXkyV1luV1ZULTNoc0Q1d3lJS3JGc0c5STExSjZ5WVpoZVJidGloeWI4bUdUV2ptbWE3NWJTT1hsZ1JrQ0pV?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMF95LUdLWUZsaDUyd29DZzd0by00MW1samp2WGd2bE9vblY2RlliVlBITHEtejhfbXZPQlhUR2txZC1TcHdTeDd5R2xER0dWOXI3RlZCajNtdkw1RHZhQU9BYnhtWXAzdHNNYkhYQlEyVGlZTDRrazI3NGVCU24ybWNKVmhrYzFPeV9xekV0Y0pZOXkyV1luV1ZULTNoc0Q1d3lJS3JGc0c5STExSjZ5WVpoZVJidGloeWI4bUdUV2ptbWE3NWJTT1hsZ1JrQ0pV?oc=5",
+    "url_hash": "01a800e7e4e67b22",
+    "published": "2026-03-30T14:15:46+00:00",
+    "summary": "Four things you need to know about GitHub's AI model training policy – including how to opt out &nbsp;&nbsp; IT Pro",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.2,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    },
+    "editorial_override": "GitHub AI model training policy opt-out — data ethics"
+  },
+  {
+    "title": "California District Court upholds transparency requirements for generative AI training data",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV0pfVHVwajlUNjhzVjBtQXJzTEc5Um9sWFEtOHRUcmR0bkZRWm51VWhCYTF5VFloOThlQnpaZU9vU0RRTzhPbndJcUNEOEFJcXJ6X19JZjFSdHdmV2NzX0VYUmUxNml6WVZtaWJVRWtmckN6TnVReTZqMEx5QUt1VlhRSElQSEZUUXA0dk1jRzFmMEhXMHhIR25jSktYdlZNLUR5Q3FIUm5VWl9reXIxLWptMUxrcFROVG9GNXBYVjl3SHNJdEhkQnJmMWc5M2FBN0g4VngzU25DelRmTmpFMkYtSk5IcVNoWW00MS1NVUVvaDZh?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV0pfVHVwajlUNjhzVjBtQXJzTEc5Um9sWFEtOHRUcmR0bkZRWm51VWhCYTF5VFloOThlQnpaZU9vU0RRTzhPbndJcUNEOEFJcXJ6X19JZjFSdHdmV2NzX0VYUmUxNml6WVZtaWJVRWtmckN6TnVReTZqMEx5QUt1VlhRSElQSEZUUXA0dk1jRzFmMEhXMHhIR25jSktYdlZNLUR5Q3FIUm5VWl9reXIxLWptMUxrcFROVG9GNXBYVjl3SHNJdEhkQnJmMWc5M2FBN0g4VngzU25DelRmTmpFMkYtSk5IcVNoWW00MS1NVUVvaDZh?oc=5",
+    "url_hash": "61ac1977b0780490",
+    "published": "2026-03-27T19:57:13+00:00",
+    "summary": "California District Court upholds transparency requirements for generative AI training data &nbsp;&nbsp; Norton Rose Fulbright",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.5,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 4,
+      "rf": 4.5,
+      "fr": 5
+    },
+    "editorial_override": "California court upholds AI training data transparency — regulatory precedent"
+  },
+  {
+    "title": "Anthropic Co-Founder: AI to Reproduce Itself Like Spores Within Two Years",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZHI3WlRoelpvMHFsaUczU0hxNDFSMGdldFVMZDk5d3gycGVXWEwyQmdINW1YZHIxc09PcjNjZVJ4blVBd2xLaENNTlVkVWlhVXlF?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZHI3WlRoelpvMHFsaUczU0hxNDFSMGdldFVMZDk5d3gycGVXWEwyQmdINW1YZHIxc09PcjNjZVJ4blVBd2xLaENNTlVkVWlhVXlF?oc=5",
+    "url_hash": "96e7b93a084d44a3",
+    "published": "2026-03-30T12:12:02+00:00",
+    "summary": "Anthropic Co-Founder: AI to Reproduce Itself Like Spores Within Two Years &nbsp;&nbsp; eu.36kr.com",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "BigID Unifies Privacy Management Across People Data and AI -- From Preference Portals to Deletion, in One Platform",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdUNMVmNRdmtZTnF4b2hQN3o0dDVkT1U5T3dTMG9kLURvdVFMU1k2OFVDQ1FBc003OF93ZXl4S2o3MFpEbVZrdmpvN3M5NXJiU1Axd090YzFxNWRhbDg4N1h0NU9lczlyVVE5M2lrc3JCdEttTVNJSElUYzNOaWx0Vko0dXB5NkxpTTJkRFotSmtUdUN6RFBjdkFjUWRlaENjNVNGdnkzZmpxSWlMRTE0YndVYXlEZ1dOM1JwM09iT3B3aDR6eGlyc2FsQlF6dHdtRWhNLU9ZOG9DZFpwakxmaUdkSm9DQVBDNFRZNkhzME9tckRrZlZYOF8tZEhPN25B?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdUNMVmNRdmtZTnF4b2hQN3o0dDVkT1U5T3dTMG9kLURvdVFMU1k2OFVDQ1FBc003OF93ZXl4S2o3MFpEbVZrdmpvN3M5NXJiU1Axd090YzFxNWRhbDg4N1h0NU9lczlyVVE5M2lrc3JCdEttTVNJSElUYzNOaWx0Vko0dXB5NkxpTTJkRFotSmtUdUN6RFBjdkFjUWRlaENjNVNGdnkzZmpxSWlMRTE0YndVYXlEZ1dOM1JwM09iT3B3aDR6eGlyc2FsQlF6dHdtRWhNLU9ZOG9DZFpwakxmaUdkSm9DQVBDNFRZNkhzME9tckRrZlZYOF8tZEhPN25B?oc=5",
+    "url_hash": "86df901082becedf",
+    "published": "2026-03-30T12:36:18+00:00",
+    "summary": "BigID Unifies Privacy Management Across People Data and AI -- From Preference Portals to Deletion, in One Platform &nbsp;&nbsp; StreetInsider",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "AI meets reality: why physical data is the real constraint",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnQzb3RBb3BNWG44TlFoM1dPdHJhV05HbWlvWHpYWVZkSzFMajAwMHhfLWFCelEtUzY1YzQ1MVBwMW5idkw2U0E4VmtRWUtabWZCSjI4djBjVm1IZGZfaXRHV3pMcDRpZjdsUmllbzRmTElVWk9IaDBoQ3pzRUR0bWg5QXp1bGRGekNhSnFtWHNoLXVJ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnQzb3RBb3BNWG44TlFoM1dPdHJhV05HbWlvWHpYWVZkSzFMajAwMHhfLWFCelEtUzY1YzQ1MVBwMW5idkw2U0E4VmtRWUtabWZCSjI4djBjVm1IZGZfaXRHV3pMcDRpZjdsUmllbzRmTElVWk9IaDBoQ3pzRUR0bWg5QXp1bGRGekNhSnFtWHNoLXVJ?oc=5",
+    "url_hash": "cc132ca600017b48",
+    "published": "2026-03-30T02:25:30+00:00",
+    "summary": "AI meets reality: why physical data is the real constraint &nbsp;&nbsp; digitimes",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    },
+    "editorial_override": "AI meets reality: physical data is real constraint — data collection limits"
+  },
+  {
+    "title": "CrowdWorks, XYZ Partner on Robot Training Data to Advance Physical AI",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IR25iWVhoRkhOd2JWd05RQ2c3UVlIbl9yeWtOc2hWUWV2d0FqQTR1QWVxbGlxb0FwbThrOXFWbGNVa1plajNROV9xTW1zM2RiYnh4ak94M1ZLNXdwVWZ1OS1wRkNKdw?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IR25iWVhoRkhOd2JWd05RQ2c3UVlIbl9yeWtOc2hWUWV2d0FqQTR1QWVxbGlxb0FwbThrOXFWbGNVa1plajNROV9xTW1zM2RiYnh4ak94M1ZLNXdwVWZ1OS1wRkNKdw?oc=5",
+    "url_hash": "6c5cb12ce87ad721",
+    "published": "2026-03-30T03:17:51+00:00",
+    "summary": "CrowdWorks, XYZ Partner on Robot Training Data to Advance Physical AI &nbsp;&nbsp; thelec.net",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.52,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Mistral AI Secures $830M Debt to Build Paris Data Center",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0F3QzJrMlN6cGp1ZUNLOTNCaEx3TGNNa05uTVpuWGpVTUcyam1rcnRoWERCN2F6QnJnUl9XYXlJb2U4Z3hkUFBMS0NxNDFVeURKZHU3VTg5bWM1VGI5MWJ5cTRWX2YtcW9ZSVBaY0ZoTC1yWmdXM0dWZTE4eDg3ano2TVJTOE1YQzY3Y0J0dDFWQQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0F3QzJrMlN6cGp1ZUNLOTNCaEx3TGNNa05uTVpuWGpVTUcyam1rcnRoWERCN2F6QnJnUl9XYXlJb2U4Z3hkUFBMS0NxNDFVeURKZHU3VTg5bWM1VGI5MWJ5cTRWX2YtcW9ZSVBaY0ZoTC1yWmdXM0dWZTE4eDg3ano2TVJTOE1YQzY3Y0J0dDFWQQ?oc=5",
+    "url_hash": "d8d14866076a3054",
+    "published": "2026-03-30T07:40:00+00:00",
+    "summary": "Mistral AI Secures $830M Debt to Build Paris Data Center &nbsp;&nbsp; The Tech Buzz",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "How to Become an AI Engineer Fast (Skills, Projects, Salary)",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV19PVXVkbGFNTW9XSlRYY3NLZ0VQc1Bzby05R0swOFFWc2t4TENBUVFnNnI4ckhSdFhRUmZwWjkzWWJseHhtcDFfVmZJclh5bVpxaWJyLTA2bExjaEYzOEJPbVdoOER5ZldZYXU0andsRXQ4TUFZWjBVdEVBWlp5SjA4UUxZRnVkYll1cXNVNG1qUQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV19PVXVkbGFNTW9XSlRYY3NLZ0VQc1Bzby05R0swOFFWc2t4TENBUVFnNnI4ckhSdFhRUmZwWjkzWWJseHhtcDFfVmZJclh5bVpxaWJyLTA2bExjaEYzOEJPbVdoOER5ZldZYXU0andsRXQ4TUFZWjBVdEVBWlp5SjA4UUxZRnVkYll1cXNVNG1qUQ?oc=5",
+    "url_hash": "40e3dc6c30803302",
+    "published": "2026-03-29T16:15:00+00:00",
+    "summary": "How to Become an AI Engineer Fast (Skills, Projects, Salary) &nbsp;&nbsp; Towards Data Science",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.15,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Super Hurricane of Physical AI: Empowering \"Fake\" Data for Real Overtaking",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3NTJ5N1MwTGJjTm9kRl9oMUcyd3RvMDFjekRhU1pyOExYUEZWNF9EMkpjNlNPb0N0Rjh5b0NnclRySFNVYTRQbUEtTjhUdUg4NkZv?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3NTJ5N1MwTGJjTm9kRl9oMUcyd3RvMDFjekRhU1pyOExYUEZWNF9EMkpjNlNPb0N0Rjh5b0NnclRySFNVYTRQbUEtTjhUdUg4NkZv?oc=5",
+    "url_hash": "8f78683ff32a2908",
+    "published": "2026-03-30T04:31:16+00:00",
+    "summary": "Super Hurricane of Physical AI: Empowering \"Fake\" Data for Real Overtaking &nbsp;&nbsp; eu.36kr.com",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "AI compute shifts to inference, reshaping data center bottlenecks",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVl9LRnI0cU1mTVV0RDdrLTZBNk1PbkFfejJqbWlNOHFrVklBWVVaSXBlaldoc19jTU8taTg1cHdhLVhkdlpacjIzbzRpOHp6VC16WEtlYWQ4c05VVnZjV1VhOEJQcG5IRzRTb2JBWUpFZ0w1VzdqQlJvbkYyQi1KU0FHTUZlNWV2cVNvakhqTVJxY0VveVE?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVl9LRnI0cU1mTVV0RDdrLTZBNk1PbkFfejJqbWlNOHFrVklBWVVaSXBlaldoc19jTU8taTg1cHdhLVhkdlpacjIzbzRpOHp6VC16WEtlYWQ4c05VVnZjV1VhOEJQcG5IRzRTb2JBWUpFZ0w1VzdqQlJvbkYyQi1KU0FHTUZlNWV2cVNvakhqTVJxY0VveVE?oc=5",
+    "url_hash": "cf5f3ecd03ae3b22",
+    "published": "2026-03-30T00:21:34+00:00",
+    "summary": "AI compute shifts to inference, reshaping data center bottlenecks &nbsp;&nbsp; digitimes",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 6.0,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Data centres are Australia’s chance to shape AI’s future",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1c4VnlRQ2tfVEpvX3p4NlhTdW9BMHBCLXlUa0xWRDNNcTAzWXUwZ2xLaEQxZjRwMF9tLWVGMEV5MlpnaUZHTVg1T3oyUnk0ckRLNmo0RmhDWDM1emk5RnlPekpMemt1ZXBSaEc1Z253dGxBQ25pU3Jka0k3VG9vTU1uTWluSDBUNkxqOFItbFM0Yk0?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1c4VnlRQ2tfVEpvX3p4NlhTdW9BMHBCLXlUa0xWRDNNcTAzWXUwZ2xLaEQxZjRwMF9tLWVGMEV5MlpnaUZHTVg1T3oyUnk0ckRLNmo0RmhDWDM1emk5RnlPekpMemt1ZXBSaEc1Z253dGxBQ25pU3Jka0k3VG9vTU1uTWluSDBUNkxqOFItbFM0Yk0?oc=5",
+    "url_hash": "dc8a24ecd324e05a",
+    "published": "2026-03-30T06:20:20+00:00",
+    "summary": "Data centres are Australia’s chance to shape AI’s future &nbsp;&nbsp; The Strategist | ASPI's analysis and commentary site",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "AI tool streamlines drug synthesis",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDNVNjUC1LU2FTaE5Xa09NelN4T2VGRzg4Y2FiY0tWQWQ5TlpraVItQzViNFhwc093cjVzaU5HU1ZEVjVyYnJTY2RWVnphWWxjSW1xQkh0M1VUaHJaVGZNVnNlSndqWmlPeXM5MEkxSHZGN055akJTVEh1SmJEdw?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDNVNjUC1LU2FTaE5Xa09NelN4T2VGRzg4Y2FiY0tWQWQ5TlpraVItQzViNFhwc093cjVzaU5HU1ZEVjVyYnJTY2RWVnphWWxjSW1xQkh0M1VUaHJaVGZNVnNlSndqWmlPeXM5MEkxSHZGN055akJTVEh1SmJEdw?oc=5",
+    "url_hash": "1152496bfeeefd64",
+    "published": "2026-03-30T03:00:00+00:00",
+    "summary": "AI tool streamlines drug synthesis &nbsp;&nbsp; Technology Org",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.15,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Waymo's School Bus Problem Exposes AI Training Limits",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVZ4d0xUSmhHY2RUQzR4a2dlazNxQmgxV3Z3SXBGTWpDeTZsc3FuUUFIaUh1UUd1ZlI4NHZDU25lcU5zZFFjb3BUS0ZCMjdwSDAzMUJNT0R2WHN2QnhpQTBWa1g4ajl3X09BYlU2OVZXSXVJQUFNM3VuYzNYeDJQelFESmlON1p2d25HS0RQQQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVZ4d0xUSmhHY2RUQzR4a2dlazNxQmgxV3Z3SXBGTWpDeTZsc3FuUUFIaUh1UUd1ZlI4NHZDU25lcU5zZFFjb3BUS0ZCMjdwSDAzMUJNT0R2WHN2QnhpQTBWa1g4ajl3X09BYlU2OVZXSXVJQUFNM3VuYzNYeDJQelFESmlON1p2d25HS0RQQQ?oc=5",
+    "url_hash": "e9505dbd198693ef",
+    "published": "2026-03-29T11:38:00+00:00",
+    "summary": "Waymo's School Bus Problem Exposes AI Training Limits &nbsp;&nbsp; The Tech Buzz",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 6.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "Waymo school bus problem exposes AI training limits — AI training data limits"
+  },
+  {
+    "title": "OpenAI Kills Sora After 6 Months, Sparking Privacy Outcry",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZi1VUlNwVmFHOUZ3WUhXQmoxQ0FTX3REaEtaOXhhWGw3YVk2aXppejdRNV93dmdQRHljai05WG1fekg0QTNoV19jdDF3WE1FdlFUTXE4Q2ptaHVtZ3Y0bVVibF96U08zbk5NOUdadURsY2w2VjlSTjVaRUhSMHI0QzRnZ0FZc3h2RVVjLUJnd1pfVXc?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZi1VUlNwVmFHOUZ3WUhXQmoxQ0FTX3REaEtaOXhhWGw3YVk2aXppejdRNV93dmdQRHljai05WG1fekg0QTNoV19jdDF3WE1FdlFUTXE4Q2ptaHVtZ3Y0bVVibF96U08zbk5NOUdadURsY2w2VjlSTjVaRUhSMHI0QzRnZ0FZc3h2RVVjLUJnd1pfVXc?oc=5",
+    "url_hash": "c4924884d3a629fc",
+    "published": "2026-03-30T03:41:00+00:00",
+    "summary": "OpenAI Kills Sora After 6 Months, Sparking Privacy Outcry &nbsp;&nbsp; The Tech Buzz",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 7.5,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    },
+    "editorial_override": "OpenAI kills Sora, sparking privacy outcry — data privacy, training data"
+  },
+  {
+    "title": "Cursor Improves Composer AI Using Real-Time Reinforcement Learning",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUQ1cUhCM05sY0EwNlYyUTk3Wjg2d3kzV1YyZ3Z0dEtES21KaEp5TExreVR4b0RWSURzVnJuRW4yVlZicy1xVzRpNEVVTXpEdUlOYlRCeXo0N29hdnc1SzY0RUw5MU5RaTV1cktUV1pOMklqTEIyWjVTdkFuLUM0QWF3U3VGU2tvbDI1Vng5dzc?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUQ1cUhCM05sY0EwNlYyUTk3Wjg2d3kzV1YyZ3Z0dEtES21KaEp5TExreVR4b0RWSURzVnJuRW4yVlZicy1xVzRpNEVVTXpEdUlOYlRCeXo0N29hdnc1SzY0RUw5MU5RaTV1cktUV1pOMklqTEIyWjVTdkFuLUM0QWF3U3VGU2tvbDI1Vng5dzc?oc=5",
+    "url_hash": "9058902dabfd98bc",
+    "published": "2026-03-29T11:06:52+00:00",
+    "summary": "Cursor Improves Composer AI Using Real-Time Reinforcement Learning &nbsp;&nbsp; MLQ.ai",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "If You Use Gmail, You're Going To Want To Turn Off This 1 Automatic Setting ASAP",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnB2Ymp6Ylh0ZFktWWVfS3JqMVBwV0p3LUY2MWg5TGhBb1FMcWhVQmNrdlpoeUxQOHowYWRsaEYyeW9JbENUZmpHcE03Z0xQeDBJS0xIUFFCSmFxWDF0SUwxNGZrUW5WMFdZdi1PZGhiWXYwbGZUbmxOSmJnWmJBWW9wUFVxdDlQMEFN0gGQAUFVX3lxTE5HUjktUWhWU214R1c0U2daSTY0Ym5udG5Xd1lwUmk3UWlCalBaY3JyU2FJSi1MaDhjdEpWZURIcnRzRXd2ajZFdm5URFdlZ3NjRnBpWVQ4cnBUNlZjN1pGT25XQ2lXa25oRkw2RHg0WkJMMWNncXhNVHhsUnFXMV92b0x0TUxrOXhRbTZ5N3VsdQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnB2Ymp6Ylh0ZFktWWVfS3JqMVBwV0p3LUY2MWg5TGhBb1FMcWhVQmNrdlpoeUxQOHowYWRsaEYyeW9JbENUZmpHcE03Z0xQeDBJS0xIUFFCSmFxWDF0SUwxNGZrUW5WMFdZdi1PZGhiWXYwbGZUbmxOSmJnWmJBWW9wUFVxdDlQMEFN0gGQAUFVX3lxTE5HUjktUWhWU214R1c0U2daSTY0Ym5udG5Xd1lwUmk3UWlCalBaY3JyU2FJSi1MaDhjdEpWZURIcnRzRXd2ajZFdm5URFdlZ3NjRnBpWVQ4cnBUNlZjN1pGT25XQ2lXa25oRkw2RHg0WkJMMWNncXhNVHhsUnFXMV92b0x0TUxrOXhRbTZ5N3VsdQ?oc=5",
+    "url_hash": "542b307e9fe36448",
+    "published": "2026-03-28T11:00:17+00:00",
+    "summary": "If You Use Gmail, You're Going To Want To Turn Off This 1 Automatic Setting ASAP &nbsp;&nbsp; HuffPost",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.7,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "Super-powers, toll booths and the new era of data collection",
+    "url": "https://www.zyte.com/blog/ai-powered-web-scraping-vs-anti-bot-systems",
+    "normalized_url": "https://www.zyte.com/blog/ai-powered-web-scraping-vs-anti-bot-systems",
+    "url_hash": "6116e600fa08c397",
+    "published": "2026-03-30T07:06:20+00:00",
+    "summary": "Explore how AI is transforming web scraping, the rise of advanced anti-bot systems, and what the future holds for data collection in an increasingly controlled internet.",
+    "source_name": "Zyte Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": "Zyte",
+    "score": 8.7,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5,
+      "am": 10,
+      "rf": 7.5,
+      "fr": 9
+    },
+    "editorial_override": "Super-powers, toll booths, new era of data collection — data collection paradigm shift"
+  },
+  {
+    "title": "Cloudflare Legal Chief on AI, Cyber Threats, and Bot Traffic",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGxmNndLWFFOY1lDRTdmdGVMV0dnbmxFN1Ztd1ZScndYb0pUa24yMmw2QTJJTE1MWWJ4VnloRGZQQUUzeFFNMDNtWmRSaDctU1JQaEMwclpsVVY0NC1nZ1dDVVJFdElSNkxsQ1JheC10OHhlUEtIM0hOZ29TRVZwdHRrcVE?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGxmNndLWFFOY1lDRTdmdGVMV0dnbmxFN1Ztd1ZScndYb0pUa24yMmw2QTJJTE1MWWJ4VnloRGZQQUUzeFFNMDNtWmRSaDctU1JQaEMwclpsVVY0NC1nZ1dDVVJFdElSNkxsQ1JheC10OHhlUEtIM0hOZ29TRVZwdHRrcVE?oc=5",
+    "url_hash": "5bf1a4bd80942287",
+    "published": "2026-03-30T10:32:02+00:00",
+    "summary": "Cloudflare Legal Chief on AI, Cyber Threats, and Bot Traffic &nbsp;&nbsp; MediaNama",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.2,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 8.0,
+      "rf": 6.0,
+      "fr": 10
+    },
+    "editorial_override": "Cloudflare Legal Chief on AI, Cyber Threats, Bot Traffic — Cloudflare + bot traffic industry view"
+  },
+  {
+    "title": "Cloudflare CEO warns that by 2027, there will be more robots browsing the web than humans.",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOal9UeWJOVkFHZXRfSy1maVJfUDJESnBaOGhsQmNuZjBBbElMeVdrVHpMS3FZMjBhaE9mQjBGVEtGRnJWQ1ZUSWFmSk1hUWpySUZ6RG1vcUIwU2Q2dFBMMXU5QVdmYUt1V1U2cEZsSXlWUlVLZjVQaW5zS3Y4WGk3RzBEcGRGQW5mS3haSXNrbWtVTnFmc2F0TGpXRzVSVnhJRmF1RmpYS1lDNFdVQUMyci02YWQ5c2s?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOal9UeWJOVkFHZXRfSy1maVJfUDJESnBaOGhsQmNuZjBBbElMeVdrVHpMS3FZMjBhaE9mQjBGVEtGRnJWQ1ZUSWFmSk1hUWpySUZ6RG1vcUIwU2Q2dFBMMXU5QVdmYUt1V1U2cEZsSXlWUlVLZjVQaW5zS3Y4WGk3RzBEcGRGQW5mS3haSXNrbWtVTnFmc2F0TGpXRzVSVnhJRmF1RmpYS1lDNFdVQUMyci02YWQ5c2s?oc=5",
+    "url_hash": "f39bcfb1d5306f29",
+    "published": "2026-03-28T22:27:34+00:00",
+    "summary": "Cloudflare CEO warns that by 2027, there will be more robots browsing the web than humans. &nbsp;&nbsp; vocal.media",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 5.5,
+      "rf": 6.0,
+      "fr": 6.5
+    },
+    "editorial_override": "Cloudflare CEO warns bots > humans by 2027 — bot traffic prediction"
+  },
+  {
+    "title": "The Full-Funnel Era Is Here. Is Your CTV Strategy Built To Keep Up?",
+    "url": "https://www.adexchanger.com/content-studio/the-full-funnel-era-is-here-is-your-ctv-strategy-built-to-keep-up/",
+    "normalized_url": "https://www.adexchanger.com/content-studio/the-full-funnel-era-is-here-is-your-ctv-strategy-built-to-keep-up",
+    "url_hash": "7b5b0f29449ac11d",
+    "published": "2026-03-30T12:00:04+00:00",
+    "summary": "In 2011, three media devices captured 87% of consumer attention. Today, that figure has dropped to 65%, according to McKinsey. The fragmentation isn&#8217;t slowing down; it&#8217;s accelerating. Streaming services, social media, podcasts and gaming now compete for eyeballs, making traditional media planning feel like navigating with an outdated map. Yet amid this chaos, one leading [&#8230;] The post The Full-Funnel Era Is Here. Is Your CTV Strategy Built To Keep Up? appeared first on AdExchanger .",
+    "source_name": "AdExchanger",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.83,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Local Publishers Hit By AI Traffic Drops Collaborate For Revenue Relief",
+    "url": "https://www.adexchanger.com/publishers/local-publishers-hit-by-ai-traffic-drops-collaborate-for-revenue-relief/",
+    "normalized_url": "https://www.adexchanger.com/publishers/local-publishers-hit-by-ai-traffic-drops-collaborate-for-revenue-relief",
+    "url_hash": "805ac2c39c4822be",
+    "published": "2026-03-30T05:00:38+00:00",
+    "summary": "Referral traffic is drying up, and for local news publishers, the impact is inescapable. AI-generated answers are replacing clicks, pushing links further down the page or removing the need to visit a site altogether. The trend accelerated traffic downturns caused by social platforms locking engagement inside their walled gardens. For smaller publishers whose revenue still [&#8230;] The post Local Publishers Hit By AI Traffic Drops Collaborate For Revenue Relief appeared first on AdExchanger .",
+    "source_name": "AdExchanger",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.2,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    },
+    "editorial_override": "Local publishers hit by AI traffic drops, collaborate — AI impact on web ecosystem"
+  },
+  {
+    "title": "The 2026 NewFronts Experience: Performance TV, Creators and Pause Ads",
+    "url": "https://www.adexchanger.com/ctv-roundup/the-2026-newfronts-experience-performance-tv-creators-and-pause-ads/",
+    "normalized_url": "https://www.adexchanger.com/ctv-roundup/the-2026-newfronts-experience-performance-tv-creators-and-pause-ads",
+    "url_hash": "15aadc824de82f14",
+    "published": "2026-03-30T05:00:20+00:00",
+    "summary": "Now that we have not one but two reporters covering the CTV advertising space, we thought we’d try something different and share the roundup newsletter this week! The post The 2026 NewFronts Experience: Performance TV, Creators and Pause Ads appeared first on AdExchanger .",
+    "source_name": "AdExchanger",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.57,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4.5,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Five Questions To Ask Before Handing The Keys To Your Programmatic Partner",
+    "url": "https://www.adexchanger.com/data-driven-thinking/five-questions-to-ask-before-handing-the-keys-to-your-programmatic-partner/",
+    "normalized_url": "https://www.adexchanger.com/data-driven-thinking/five-questions-to-ask-before-handing-the-keys-to-your-programmatic-partner",
+    "url_hash": "d778f50cf0093abc",
+    "published": "2026-03-30T04:35:11+00:00",
+    "summary": "If you’re evaluating a programmatic partner right now, the demo probably looks great. The pipes connect, the UI is tidy, and the road map sounds like it was written for your exact pain points. That’s the easy part. The harder part is admitting what your checklist can’t tell you. Plugging in cleanly doesn’t reveal whether [&#8230;] The post Five Questions To Ask Before Handing The Keys To Your Programmatic Partner appeared first on AdExchanger .",
+    "source_name": "AdExchanger",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Back To The Original Unity; OpenAI’s Ads Pilot Earns Its Wings",
+    "url": "https://www.adexchanger.com/daily-news-roundup/back-to-the-original-unity-openais-ads-pilot-earns-its-wings/",
+    "normalized_url": "https://www.adexchanger.com/daily-news-roundup/back-to-the-original-unity-openais-ads-pilot-earns-its-wings",
+    "url_hash": "c7ea0a919ce3acc0",
+    "published": "2026-03-30T04:03:00+00:00",
+    "summary": "Unity is selling Supersonic; OpenAI is expanding its ads pilot; and the NFL is facing antitrust exemptions. The post Back To The Original Unity; OpenAI’s Ads Pilot Earns Its Wings appeared first on AdExchanger .",
+    "source_name": "AdExchanger",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Pharma is dosing drugs wrong – the quantum tunneling correction nobody is using",
+    "url": "https://sectio-aurea-q.github.io/pharma-dosing-error.html",
+    "normalized_url": "https://sectio-aurea-q.github.io/pharma-dosing-error.html",
+    "url_hash": "b525bd7b00578622",
+    "published": "2026-03-30T14:06:41+00:00",
+    "summary": "Article URL: https://sectio-aurea-q.github.io/pharma-dosing-error.html Comments URL: https://news.ycombinator.com/item?id=47574547 Points: 5 # Comments: 0",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "How to Turn Anything into a Router",
+    "url": "https://nbailey.ca/post/router/",
+    "normalized_url": "https://nbailey.ca/post/router",
+    "url_hash": "8ea72dc27f4a15b9",
+    "published": "2026-03-30T13:28:54+00:00",
+    "summary": "Article URL: https://nbailey.ca/post/router/ Comments URL: https://news.ycombinator.com/item?id=47574034 Points: 82 # Comments: 33",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+    "url": "https://www.dhanishsemar.com/writing/bird-brains",
+    "normalized_url": "https://www.dhanishsemar.com/writing/bird-brains",
+    "url_hash": "f4ce02f5183ebaa7",
+    "published": "2026-03-30T13:14:27+00:00",
+    "summary": "Article URL: https://www.dhanishsemar.com/writing/bird-brains Comments URL: https://news.ycombinator.com/item?id=47573887 Points: 43 # Comments: 19",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "How the AI Bubble Bursts",
+    "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+    "normalized_url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts",
+    "url_hash": "de46c72f9b0c5c5c",
+    "published": "2026-03-30T12:28:36+00:00",
+    "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 228 # Comments: 283",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
+    "url": "https://www.mgrunwald.com/ghostmoon/",
+    "normalized_url": "https://www.mgrunwald.com/ghostmoon",
+    "url_hash": "848c582ed1022eed",
+    "published": "2026-03-30T11:25:50+00:00",
+    "summary": "Article URL: https://www.mgrunwald.com/ghostmoon/ Comments URL: https://news.ycombinator.com/item?id=47572910 Points: 98 # Comments: 82",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Mathematical methods and human thought in the age of AI",
+    "url": "https://arxiv.org/abs/2603.26524",
+    "normalized_url": "https://arxiv.org/abs/2603.26524",
+    "url_hash": "e529e4a845ee1377",
+    "published": "2026-03-30T11:05:37+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 86 # Comments: 18",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.75,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+    "url": "https://dani2442.github.io/posts/continuous-rl/",
+    "normalized_url": "https://dani2442.github.io/posts/continuous-rl",
+    "url_hash": "242e2cb7eb5c7748",
+    "published": "2026-03-30T07:34:04+00:00",
+    "summary": "Article URL: https://dani2442.github.io/posts/continuous-rl/ Comments URL: https://news.ycombinator.com/item?id=47571495 Points: 93 # Comments: 22",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "I use excalidraw to manage my diagrams for my blog",
+    "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+    "normalized_url": "https://blog.lysk.tech/excalidraw-frame-export",
+    "url_hash": "0a898ad034c76477",
+    "published": "2026-03-30T07:17:06+00:00",
+    "summary": "Article URL: https://blog.lysk.tech/excalidraw-frame-export/ Comments URL: https://news.ycombinator.com/item?id=47571376 Points: 159 # Comments: 75",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
+    "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+    "normalized_url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+    "url_hash": "22cfeea6b6857b5d",
+    "published": "2026-03-30T06:08:53+00:00",
+    "summary": "Article URL: https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803 Comments URL: https://news.ycombinator.com/item?id=47570940 Points: 207 # Comments: 40",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "VHDL's Crown Jewel",
+    "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+    "normalized_url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel",
+    "url_hash": "c8624698264b1d86",
+    "published": "2026-03-30T04:39:15+00:00",
+    "summary": "Article URL: https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/ Comments URL: https://news.ycombinator.com/item?id=47570435 Points: 95 # Comments: 34",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+    "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+    "normalized_url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+    "url_hash": "a239c30bcc0167f9",
+    "published": "2026-03-29T20:00:02+00:00",
+    "summary": "Article URL: https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a Comments URL: https://news.ycombinator.com/item?id=47566653 Points: 128 # Comments: 111",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Hardware Image Compression",
+    "url": "https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/",
+    "normalized_url": "https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression",
+    "url_hash": "a2110f5cf6723d6e",
+    "published": "2026-03-28T18:58:13+00:00",
+    "summary": "Article URL: https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/ Comments URL: https://news.ycombinator.com/item?id=47557299 Points: 47 # Comments: 8",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 4.22,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Bluor AI",
+    "url": "https://www.producthunt.com/products/bluor-ai",
+    "normalized_url": "https://www.producthunt.com/products/bluor-ai",
+    "url_hash": "14abdcd34a55bd8b",
+    "published": "2026-03-28T22:48:28+00:00",
+    "summary": "Beautiful emails, in seconds Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "FreeCAD 1.1",
+    "url": "https://www.producthunt.com/products/freecad-2",
+    "normalized_url": "https://www.producthunt.com/products/freecad-2",
+    "url_hash": "a173a39f43f6f0ba",
+    "published": "2026-03-30T04:22:48+00:00",
+    "summary": "Extremely powerful, completely free 3D CAD modeling Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Git Blog",
+    "url": "https://www.producthunt.com/products/git-blog",
+    "normalized_url": "https://www.producthunt.com/products/git-blog",
+    "url_hash": "5ff37a5021f00f6f",
+    "published": "2026-03-29T18:59:11+00:00",
+    "summary": "Publish sites using Markdown & GitHub from your phone Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.15,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "PopTask",
+    "url": "https://www.producthunt.com/products/poptask-menu-bar-task-manager",
+    "normalized_url": "https://www.producthunt.com/products/poptask-menu-bar-task-manager",
+    "url_hash": "94462efb0cffb98e",
+    "published": "2026-03-29T16:51:07+00:00",
+    "summary": "Light menu bar task manager for quickly capturing tasks Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.15,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Neuralingo Language Learning",
+    "url": "https://www.producthunt.com/products/neuralingo-language-learning",
+    "normalized_url": "https://www.producthunt.com/products/neuralingo-language-learning",
+    "url_hash": "eb05382aa3acaf8f",
+    "published": "2026-03-29T05:25:28+00:00",
+    "summary": "slowly inch your way to mastery: try, fail, learn, get good Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "ClawKing",
+    "url": "https://www.producthunt.com/products/clawking",
+    "normalized_url": "https://www.producthunt.com/products/clawking",
+    "url_hash": "683de222d5d0f5e2",
+    "published": "2026-03-29T14:24:53+00:00",
+    "summary": "On-chain AI battle royale where 8 lobsters fight Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Blood Sugar Journal",
+    "url": "https://www.producthunt.com/products/blood-sugar-journal",
+    "normalized_url": "https://www.producthunt.com/products/blood-sugar-journal",
+    "url_hash": "ef4eb97726bbc16e",
+    "published": "2026-03-28T17:47:07+00:00",
+    "summary": "AI-powered diabetes tracking for the modern era. Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Latchkey",
+    "url": "https://www.producthunt.com/products/imbue-7",
+    "normalized_url": "https://www.producthunt.com/products/imbue-7",
+    "url_hash": "7c858dde9beb572b",
+    "published": "2026-03-29T01:21:40+00:00",
+    "summary": "Credential layer for local AI agents Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "dictate.",
+    "url": "https://www.producthunt.com/products/dictate",
+    "normalized_url": "https://www.producthunt.com/products/dictate",
+    "url_hash": "7613ed3b415e314c",
+    "published": "2026-03-29T19:38:30+00:00",
+    "summary": "Replace your iPhone keyboard with AI voice typing Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.15,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Halo Vision Headphones",
+    "url": "https://www.producthunt.com/products/halo-headphones",
+    "normalized_url": "https://www.producthunt.com/products/halo-headphones",
+    "url_hash": "5bb9e638ee5eda4f",
+    "published": "2026-03-30T01:40:16+00:00",
+    "summary": "Headphones with a camera to capture moments as you jam Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.15,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "MulmoChat",
+    "url": "https://www.producthunt.com/products/mulmochat",
+    "normalized_url": "https://www.producthunt.com/products/mulmochat",
+    "url_hash": "8ad454c552ab6c60",
+    "published": "2026-03-28T07:16:00+00:00",
+    "summary": "Modular Interface for visually interactive AI responses Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.7,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "VibeTalent",
+    "url": "https://www.producthunt.com/products/vibetalent",
+    "normalized_url": "https://www.producthunt.com/products/vibetalent",
+    "url_hash": "a3ef647e3bc883a4",
+    "published": "2026-03-30T06:40:18+00:00",
+    "summary": "Find vibe coders who actually ship Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Clico",
+    "url": "https://www.producthunt.com/products/clico",
+    "normalized_url": "https://www.producthunt.com/products/clico",
+    "url_hash": "63ecbf80e4bfb934",
+    "published": "2026-03-27T14:50:25+00:00",
+    "summary": "Every textbox, supercharged Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.4,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 3
+    }
+  },
+  {
+    "title": "Sheet Ninja",
+    "url": "https://www.producthunt.com/products/sheet-ninja-2",
+    "normalized_url": "https://www.producthunt.com/products/sheet-ninja-2",
+    "url_hash": "af3dda92a4a4dd4e",
+    "published": "2026-03-28T10:44:46+00:00",
+    "summary": "Ship vibe-coded apps. Your data stays in Google Sheets. Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.7,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 5
+    }
+  },
+  {
+    "title": "GuideYou",
+    "url": "https://www.producthunt.com/products/guideyou",
+    "normalized_url": "https://www.producthunt.com/products/guideyou",
+    "url_hash": "c226011170d41c45",
+    "published": "2026-03-28T20:21:38+00:00",
+    "summary": "Guidance for everyday technology Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "CodingPrep",
+    "url": "https://www.producthunt.com/products/codingprep",
+    "normalized_url": "https://www.producthunt.com/products/codingprep",
+    "url_hash": "b65cc533f91a8493",
+    "published": "2026-03-28T22:47:44+00:00",
+    "summary": "Open Source coding interview prep tool with AI interviewer Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Genzi",
+    "url": "https://www.producthunt.com/products/genzi",
+    "normalized_url": "https://www.producthunt.com/products/genzi",
+    "url_hash": "5ccb660f7ba50a7a",
+    "published": "2026-03-28T16:01:31+00:00",
+    "summary": "The social app built around music Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Cline Kanban",
+    "url": "https://www.producthunt.com/products/cline-4",
+    "normalized_url": "https://www.producthunt.com/products/cline-4",
+    "url_hash": "b5aa7ad0a40fdfe8",
+    "published": "2026-03-28T16:28:00+00:00",
+    "summary": "CLI-agnostic kanban for multi-agent orchestration Discussion | Link",
+    "source_name": "Product Hunt",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.93,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "What AI disruption means for experimental ad budgets",
+    "url": "https://digiday.com/marketing/what-ai-disruption-means-for-experimental-ad-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "normalized_url": "https://digiday.com/marketing/what-ai-disruption-means-for-experimental-ad-budgets",
+    "url_hash": "63f272cdb7be57ca",
+    "published": "2026-03-30T04:01:00+00:00",
+    "summary": "The 2026 ad budget is now a lab experiment as marketers boost experimental budgets for AI and emerging channels.",
+    "source_name": "Digiday",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "After newsroom cuts, The Washington Post turns to creator-led video deals",
+    "url": "https://digiday.com/media/after-newsroom-cuts-the-washington-post-turns-to-creator-led-video-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "normalized_url": "https://digiday.com/media/after-newsroom-cuts-the-washington-post-turns-to-creator-led-video-deals",
+    "url_hash": "643be1d294396461",
+    "published": "2026-03-30T04:01:00+00:00",
+    "summary": "The Washington Post is betting on creator content to open up new revenue and audiences, after newsroom layoffs.",
+    "source_name": "Digiday",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "AI influencer discovery tools are changing how agencies cast creators",
+    "url": "https://digiday.com/marketing/ai-influencer-discovery-tools-are-changing-how-agencies-cast-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "normalized_url": "https://digiday.com/marketing/ai-influencer-discovery-tools-are-changing-how-agencies-cast-creators",
+    "url_hash": "6355609b989ae227",
+    "published": "2026-03-30T04:01:00+00:00",
+    "summary": "As creator spending grows among brand advertisers, agencies are using AI to automate much of the influencer marketing workflow. Now, that includes casting.",
+    "source_name": "Digiday",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Pinterest bets measurement and SMBs will boost performance revenue",
+    "url": "https://digiday.com/marketing/pinterest-bets-on-measurement-and-smbs-to-boost-performance-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "normalized_url": "https://digiday.com/marketing/pinterest-bets-on-measurement-and-smbs-to-boost-performance-revenue",
+    "url_hash": "fcd82c5bf5096a40",
+    "published": "2026-03-30T04:01:00+00:00",
+    "summary": "Vik Gupta (vp, gm of monetization) has been tasked with strengthening Pinterest’s push to become a permanent media plan fixture.",
+    "source_name": "Digiday",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Media Buying Briefing: What will Meta’s and YouTube’s legal losses mean for the marketplace?",
+    "url": "https://digiday.com/media-buying/media-buying-briefing-what-will-metas-and-youtubes-legal-losses-mean-for-the-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "normalized_url": "https://digiday.com/media-buying/media-buying-briefing-what-will-metas-and-youtubes-legal-losses-mean-for-the-marketplace",
+    "url_hash": "96a4d5ca31102e47",
+    "published": "2026-03-30T04:01:00+00:00",
+    "summary": "As Meta and YouTube suffer defeats with damages in court, will media buyers steer clients away from them? Unlikely for now.",
+    "source_name": "Digiday",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "How to turn Claude Code into your personal life operating system | Hilary Gridley",
+    "url": "https://www.lennysnewsletter.com/p/how-to-turn-claude-code-into-your",
+    "normalized_url": "https://www.lennysnewsletter.com/p/how-to-turn-claude-code-into-your",
+    "url_hash": "547697955790382d",
+    "published": "2026-03-30T12:04:24+00:00",
+    "summary": "Watch now | &#127897;&#65039; How a new mom and entrepreneur uses Claude Code to automate life admin&#8212;all without complex setup",
+    "source_name": "Lenny's Newsletter",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+    "url": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo",
+    "normalized_url": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo",
+    "url_hash": "31bca590466b0b97",
+    "published": "2026-03-29T12:31:50+00:00",
+    "summary": "Listen now | Claire Vo went from OpenClaw skeptic to running nine specialized AI agents across her family calendar, inbound sales, kids&#8217; homework help, and more",
+    "source_name": "Lenny's Newsletter",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "🧠 Community Wisdom: When AI velocity outpaces your product strategy, when your estimates keep slipping, one day in San Francisco, pairing Claude Code with Codex, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity",
+    "normalized_url": "https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity",
+    "url_hash": "a3672fac4a19a35e",
+    "published": "2026-03-28T17:01:42+00:00",
+    "summary": "Community Wisdom 179",
+    "source_name": "Lenny's Newsletter",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+    "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+    "normalized_url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body",
+    "url_hash": "52544d6a1924b861",
+    "published": "2026-03-30T12:10:00+00:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones&#160; After&#160;operating&#160;in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create&#160;nonsentient&#160;monkey “organ sacks”&#8230;",
+    "source_name": "MIT Tech Review",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Inside the stealthy startup that pitched brainless human clones",
+    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+    "normalized_url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity",
+    "url_hash": "9df14751c59d8fa4",
+    "published": "2026-03-30T09:00:00+00:00",
+    "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing. In an interview with Wired, R3 listed three investors: billionaire Tim Draper, the Singapore-based fund Immortal&#8230;",
+    "source_name": "MIT Tech Review",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 4.67,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "luongnv89/claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "normalized_url": "https://github.com/luongnv89/claude-howto",
+    "url_hash": "98a99d0df7599b35",
+    "published": null,
+    "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates, and a guided learning path. Get Started in 15 Minutes | Find Your Level | Browse the Feature Catalog Table of Contents The Problem How Claude How To Fixes This How It Works Not Sure Where to Start? Get Started in 15 Minutes What Can You Build With This? FAQ Contributing License The Problem You installed Claude Code. You ran a few prompts. Now what? The official docs describe features — but don't show you how to combine them. You know slash commands exist, but not how to chain them with hooks, memory, and subagents into a workflow that actually saves hours. There's no clear learning path. Should you learn MCP before hooks? Skills before subagents? You end up skimming everything and mastering nothing. Examples are too basic. A \"hello world\" slash command doesn't help you build a production code review pipeline that uses memory, delegates to specialized agents, and runs security scans automatically. You're leaving 90% of Claude Code's power on the table — and you don't know what you don't know. How Claude How To Fixes This This isn't another feature reference. It's a structured, visual, example-driven guide that teaches you to use every Claude Code feature with real-world templates you",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.78,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 3
+    }
+  },
+  {
+    "title": "OpenBB-finance/OpenBB",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "normalized_url": "https://github.com/OpenBB-finance/OpenBB",
+    "url_hash": "c196ed4b22119198",
+    "published": null,
+    "summary": "Financial data platform for analysts, quants and AI agents. Open Data Platform by OpenBB (ODP) is the open-source toolset that helps data engineers integrate proprietary, licensed, and public data sources into downstream applications like AI copilots and research dashboards. ODP operates as the \"connect once, consume everywhere\" infrastructure layer that consolidates and exposes data to multiple surfaces at once: Python environments for quants, OpenBB Workspace and Excel for analysts, MCP servers for AI agents, and REST APIs for other applications. Get started with: pip install openbb from openbb import obb output = obb.equity.price.historical(\"AAPL\") df = output.to_dataframe() Data integrations available can be found here: https://docs.openbb.co/python/reference OpenBB Workspace While the Open Data Platform provides the open-source data integration foundation, OpenBB Workspace offers the enterprise UI for analysts to visualize datasets and leverage AI agents. The platform's \"connect once, consume everywhere\" architecture enables seamless integration between the two. You can find OpenBB Workspace at https://pro.openbb.co . Data integration: You can learn more about adding data to the OpenBB workspace from the docs or this open source repository . AI Agents integration: You can learn more about adding AI agents to the OpenBB workspace from this open source repository . Integrating Open Data Platform to the OpenBB Workspace Connect this library to the OpenBB Workspace with a fe",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.88,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 3
+    }
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "normalized_url": "https://github.com/sherlock-project/sherlock",
+    "url_hash": "3619c42254a93704",
+    "published": null,
+    "summary": "Hunt down social media accounts by username across social networks Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to pipx/pip or Docker. Method Notes pipx install sherlock-project pip may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (&gt;= 13), Ubuntu (&gt;= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project. See all alternative installation methods here General usage To search for only one user: sherlock user123 To search for more than one user: sherlock user1 user2 user3 Accounts found will be stored in an individual text file with the corresponding username (e.g user123.txt ). $ sherlock --help usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT] [--output OUTPUT] [--tor] [--unique-tor] [--csv] [--xlsx] [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE] [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color] [--browse] [--local] [--nsfw] USERNAMES [USERNAMES ...] Sherlock: Find Usernames Across Social Networks (Version 0.14.3) positional arguments: USERNAMES One or more usernames to check with s",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.53,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 4.5,
+      "fr": 3
+    }
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "normalized_url": "https://github.com/NousResearch/hermes-agent",
+    "url_hash": "ec2b8bd43eefd65f",
+    "published": null,
+    "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter (200+ models), z.ai/GLM , Kimi/Moonshot , MiniMax , OpenAI, or your own endpoint. Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, ",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 3
+    }
+  },
+  {
+    "title": "microsoft/agent-lightning",
+    "url": "https://github.com/microsoft/agent-lightning",
+    "normalized_url": "https://github.com/microsoft/agent-lightning",
+    "url_hash": "57ca1a039865d0c7",
+    "published": null,
+    "summary": "The absolute trainer to light up AI agents. Agent Lightning⚡ The absolute trainer to light up AI agents. Join our Discord community to connect with other users and contributors. ⚡ Core Features Turn your agent into an optimizable beast with ZERO CODE CHANGE (almost)! 💤 Build with ANY agent framework (LangChain, OpenAI Agent SDK, AutoGen, CrewAI, Microsoft Agent Framework...); or even WITHOUT agent framework (Python OpenAI). You name it! 🤖 Selectively optimize one or more agents in a multi-agent system. 🎯 Embraces Algorithms like Reinforcement Learning, Automatic Prompt Optimization, Supervised Fine-tuning and more. 🤗 Read more on our documentation website . ⚡ Installation pip install agentlightning For the latest nightly build (cutting-edge features), you can install from Test PyPI: pip install --upgrade --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ --pre agentlightning Please refer to our installation guide for more details. To start using Agent-lightning, check out our documentation and examples . ⚡ Articles 12/17/2025 Adopting the Trajectory Level Aggregation for Faster Training Agent-lightning blog. 11/4/2025 Tuning ANY AI agent with Tinker ✕ Agent-lightning Medium. See also Part 2 . 10/22/2025 No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL vLLM blog. See also Zhihu writeup . 8/11/2025 Training AI Agents to Write and Self-correct SQL with Reinforcement Learning Medium. 8/5/2025 Age",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.9,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4.5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 3
+    }
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "normalized_url": "https://github.com/Z4nzu/hackingtool",
+    "url_hash": "154a5e7e876f18c6",
+    "published": null,
+    "summary": "ALL IN ONE Hacking Tool For Hackers All-in-One Hacking Tool for Security Researchers &amp; Pentesters &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What's New in v2.0.0 Feature Description 🐍 Python 3.10+ All Python 2 code removed, modern syntax throughout 🖥 OS-aware menus Linux-only tools hidden automatically on macOS 📦 185+ tools 35 new modern tools added across 6 categories 🔍 Search Type / to search all tools by name, description, or keyword 🏷 Tag filter Type t to filter by 19 tags — osint, web, c2, cloud, mobile... 💡 Recommend Type r — \"I want to scan a network\" → shows relevant tools ✅ Install status ✔/✘ shown next to every tool — know what's ready ⚡ Install all Option 97 in any category — batch install at once 🔄 Smart update Each tool has Update — auto-detects git pull / pip upgrade / go install 📂 Open folder Jump into any tool's directory for manual inspection 🐳 Docker Builds locally — no unverified external images 🚀 One-liner install curl -sSL .../install.sh | sudo bash — zero manual steps 🏢 3 new categories Active Directory, Cloud Security, Mobile Security Quick Commands Command Action Works in /query Search — find tools instantly by keyword Main menu t Tags — filter by osint, scanner, c2, cloud, mobile... Main menu r Recommend — \"I want to do X\" → matching tools Main menu ? Help — quick reference card Everywhere q Quit — exit from any depth Everywhere 97 Install All — batch install all tools in category Category 99 Back — return to previous menu Everywhere ",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.55,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 3
+    }
+  },
+  {
+    "title": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "normalized_url": "https://github.com/virattt/ai-hedge-fund",
+    "url_hash": "93b2cfb4f88278ad",
+    "published": null,
+    "summary": "An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. This system employs several agents working together: Aswath Damodaran Agent - The Dean of Valuation, focuses on story, numbers, and disciplined valuation Ben Graham Agent - The godfather of value investing, only buys hidden gems with a margin of safety Bill Ackman Agent - An activist investor, takes bold positions and pushes for change Cathie Wood Agent - The queen of growth investing, believes in the power of innovation and disruption Charlie Munger Agent - Warren Buffett's partner, only buys wonderful businesses at fair prices Michael Burry Agent - The Big Short contrarian who hunts for deep value Mohnish Pabrai Agent - The Dhandho investor, who looks for doubles at low risk Peter Lynch Agent - Practical investor who seeks \"ten-baggers\" in everyday businesses Phil Fisher Agent - Meticulous growth investor who uses deep \"scuttlebutt\" research Rakesh Jhunjhunwala Agent - The Big Bull of India Stanley Druckenmiller Agent - Macro legend who hunts for asymmetric opportunities with growth potential Warren Buffett Agent - The oracle of Omaha, seeks wonderful companies at a fair price Valuation Agent - Calculates the intrinsic value of a stock and generates trading signals Sentiment Agent - Analyzes market sentiment",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.4,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 3
+    }
+  },
+  {
+    "title": "OpenBMB/ChatDev",
+    "url": "https://github.com/OpenBMB/ChatDev",
+    "normalized_url": "https://github.com/OpenBMB/ChatDev",
+    "url_hash": "e763905563863d46",
+    "published": null,
+    "summary": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration ChatDev 2.0 - DevAll A Zero-Code Multi-Agent Platform for Developing Everything 【 English | 简体中文 】 【📚 Developers | 👥 Contributors ｜⭐️ ChatDev 1.0 (Legacy) 】 📖 Overview ChatDev has evolved from a specialized software development multi-agent system into a comprehensive multi-agent orchestration platform. ChatDev 2.0 (DevAll) is a Zero-Code Multi-Agent Platform for \"Developing Everything\". It empowers users to rapidly build and execute customized multi-agent systems through simple configuration. No coding is required—users can define agents, workflows, and tasks to orchestrate complex scenarios such as data visualization, 3D generation, and deep research. ChatDev 1.0 (Legacy) operates as a Virtual Software Company . It utilizes various intelligent agents (e.g., CEO, CTO, Programmer) participating in specialized functional seminars to automate the entire software development life cycle—including designing, coding, testing, and documenting. It serves as the foundational paradigm for communicative agent collaboration. 🎉 News • Jan 07, 2026: 🚀 We are excited to announce the official release of ChatDev 2.0 (DevAll)! This version introduces a zero-code multi-agent orchestration platform. The classic ChatDev (v1.x) has been moved to the chatdev1.0 branch for maintenance. More details about ChatDev 2.0 can be found on our official post . Old News •Sep 24, 2025: 🎉 Our paper Multi-Agent Collaboration via Evolving Orchestra",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 3.9,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4.5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 3
+    }
+  },
+  {
+    "title": "jianchang512/pyvideotrans",
+    "url": "https://github.com/jianchang512/pyvideotrans",
+    "normalized_url": "https://github.com/jianchang512/pyvideotrans",
+    "url_hash": "b98f0560cd5ec247",
+    "published": null,
+    "summary": "Translate the video from one language to another and embed dubbing & subtitles. Sponsors: Recall.ai - Meeting Transcription API If you’re looking for a transcription API for meetings, consider checking out Recall.ai , an API that works with Zoom, Google Meet, Microsoft Teams, and more pyVideoTrans A Powerful Open Source Video Translation / Audio Transcription / AI Dubbing / Subtitle Translation Tool 中文 | Documentation | Online Q&amp;A pyVideoTrans is dedicated to seamlessly converting videos from one language to another, offering a complete workflow that includes speech recognition, subtitle translation, multi-role dubbing, and audio-video synchronization. It supports both local offline deployment and a wide variety of mainstream online APIs. ✨ Core Features 🎥 Fully Automatic Video Translation : One-click workflow: Speech Recognition (ASR) -&gt; Subtitle Translation -&gt; Speech Synthesis (TTS) -&gt; Video Synthesis. 🎙️ Audio Transcription / Subtitle Generation : Batch convert audio/video to SRT subtitles, supporting Speaker Diarization to distinguish between different roles. 🗣️ Multi-Role AI Dubbing : Assign different AI dubbing voices to different speakers. 🧬 Voice Cloning : Integrates models like F5-TTS, CosyVoice, GPT-SoVITS for zero-shot voice cloning. 🧠 Powerful Model Support : ASR : Faster-Whisper (Local), OpenAI Whisper, Alibaba Qwen, ByteDance Volcano, Azure, Google, etc. LLM Translation : DeepSeek, ChatGPT, Claude, Gemini, MiniMax, Ollama (Local), Alibaba Bailian, e",
+    "source_name": "GitHub Trending Python",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.0,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 6.0,
+      "fr": 3
+    }
+  },
+  {
+    "title": "Oklahoma Enacts Comprehensive Consumer Data Privacy Law",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2l4X3c0RjV3OGNvdnVxbWxNek1aM3Jza3g0V0pNQ3RyaVk5LTNfX3hKR0syRWU2UUZadVBlcmx0VlFla3RLU0dvYkN2Mkl5dEpxTGtXX3FLVmhXRmEzcC1iQWwyQV9PVUxha3A3U2dzM0NCS0d5OXRZeFhqUjN0Y2lFclp4U2ZkQm9tQ0VUNWNJNzVOd2hxX1lhYUJnWVVuRm16ak1IdTNUUFJraWhndUk4eWJLQQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2l4X3c0RjV3OGNvdnVxbWxNek1aM3Jza3g0V0pNQ3RyaVk5LTNfX3hKR0syRWU2UUZadVBlcmx0VlFla3RLU0dvYkN2Mkl5dEpxTGtXX3FLVmhXRmEzcC1iQWwyQV9PVUxha3A3U2dzM0NCS0d5OXRZeFhqUjN0Y2lFclp4U2ZkQm9tQ0VUNWNJNzVOd2hxX1lhYUJnWVVuRm16ak1IdTNUUFJraWhndUk4eWJLQQ?oc=5",
+    "url_hash": "42a641b4ecf62151",
+    "published": "2026-03-27T22:15:05+00:00",
+    "summary": "Oklahoma Enacts Comprehensive Consumer Data Privacy Law &nbsp;&nbsp; Mayer Brown",
+    "source_name": "News: CCPA",
+    "feed_tier": "tier3_background",
+    "competitor": null,
+    "score": 7.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 4,
+      "rf": 4.5,
+      "fr": 5
+    },
+    "editorial_override": "Oklahoma enacts comprehensive data privacy law — privacy regulation expansion"
+  },
+  {
+    "title": "How to Find and Close AI Visibility Gaps?",
+    "url": "https://www.similarweb.com/blog/marketing/geo/ai-visibility-gaps/",
+    "normalized_url": "https://www.similarweb.com/blog/marketing/geo/ai-visibility-gaps",
+    "url_hash": "1419ae89d50ff41f",
+    "published": "2026-03-30T11:36:52+00:00",
+    "summary": "An AI visibility gap is any topic, prompt, or context where competing brands appear in AI-generated answers and yours does not. There are four main types: topic gaps, prompt-level gaps, sentiment gaps, and citation gaps. Each type has a different cause and a different fix, and all of them are findable using our AI brand [&#8230;] The post How to Find and Close AI Visibility Gaps? appeared first on Similarweb .",
+    "source_name": "SimilarWeb Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Google Algorithm Updates: Latest News & History",
+    "url": "https://www.similarweb.com/blog/marketing/seo/google-algorithm-updates/",
+    "normalized_url": "https://www.similarweb.com/blog/marketing/seo/google-algorithm-updates",
+    "url_hash": "9bd9f811e401ef07",
+    "published": "2026-03-30T06:35:06+00:00",
+    "summary": "Google’s search algorithm is constantly evolving, leading to ongoing fluctuations in search rankings. As we move through the first quarter of 2026, Google has already rolled out both a confirmed February 2026 Discover Core Update and a March 2026 Spam Update, following a year that ended with three confirmed core updates and one spam update [&#8230;] The post Google Algorithm Updates: Latest News &#038; History appeared first on Similarweb .",
+    "source_name": "SimilarWeb Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 4.67,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 9
+    }
+  },
+  {
+    "title": "8 AI Search Optimization Best Practices And Techniques To Use In 2026",
+    "url": "https://www.similarweb.com/blog/marketing/geo/ai-search-optimization-best-practices/",
+    "normalized_url": "https://www.similarweb.com/blog/marketing/geo/ai-search-optimization-best-practices",
+    "url_hash": "d3f5c124c29de01b",
+    "published": "2026-03-29T19:10:56+00:00",
+    "summary": "By May 2025, nearly 69% of all searches ended without a single click to any website, according to Similarweb&#8217;s zero-click research, up from 65% in 2020 per SparkToro&#8217;s analysis of Similarweb data. That was almost a year ago. When AI Overviews are involved, that figure climbs to nearly 80%, according to Similarweb zero-click data. The [&#8230;] The post 8 AI Search Optimization Best Practices And Techniques To Use In 2026 appeared first on Similarweb .",
+    "source_name": "SimilarWeb Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 5.28,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4,
+      "am": 5.5,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "New detector chip compresses X-ray data 100- to 200-fold in real time",
+    "url": "https://techxplore.com/news/2026-03-detector-chip-compresses-ray-real.html",
+    "normalized_url": "https://techxplore.com/news/2026-03-detector-chip-compresses-ray-real.html",
+    "url_hash": "ee03b2018559b062",
+    "published": "2026-03-30T13:40:46+00:00",
+    "summary": "Article URL: https://techxplore.com/news/2026-03-detector-chip-compresses-ray-real.html Comments URL: https://news.ycombinator.com/item?id=47574194 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Mistral secures $830M in debt financing to fund AI data center",
+    "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+    "normalized_url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+    "url_hash": "dad6e565ccb57dea",
+    "published": "2026-03-30T12:48:05+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html Comments URL: https://news.ycombinator.com/item?id=47573601 Points: 6 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.9,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Railway leaked customer data across accounts via CDN misconfiguration",
+    "url": "https://twitter.com/devenbhooshan/status/2038582847058112843",
+    "normalized_url": "https://twitter.com/devenbhooshan/status/2038582847058112843",
+    "url_hash": "1961f3a82d782d2c",
+    "published": "2026-03-30T11:55:37+00:00",
+    "summary": "Article URL: https://twitter.com/devenbhooshan/status/2038582847058112843 Comments URL: https://news.ycombinator.com/item?id=47573106 Points: 6 # Comments: 1",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 7.1,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    },
+    "editorial_override": "Railway leaked customer data via CDN misconfiguration — data breach"
+  },
+  {
+    "title": "Decades of National Park and outdoor recreation data",
+    "url": "https://data.hereandthere.club",
+    "normalized_url": "https://data.hereandthere.club",
+    "url_hash": "b1d79fc8e55952d1",
+    "published": "2026-03-30T10:35:53+00:00",
+    "summary": "Article URL: https://data.hereandthere.club Comments URL: https://news.ycombinator.com/item?id=47572601 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Potential developmental health effect of \"eco-friendly\" biodegradable plastic",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003676",
+    "normalized_url": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3003676",
+    "url_hash": "d4ae81d82f590147",
+    "published": "2026-03-30T10:19:05+00:00",
+    "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003676 Comments URL: https://news.ycombinator.com/item?id=47572517 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "European Commission confirms data breach after Europa.eu hack",
+    "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
+    "normalized_url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack",
+    "url_hash": "3168a5c1f90cfe41",
+    "published": "2026-03-30T09:52:14+00:00",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/ Comments URL: https://news.ycombinator.com/item?id=47572356 Points: 5 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 6.2,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 10
+    },
+    "editorial_override": "European Commission confirms data breach — security"
+  },
+  {
+    "title": "The network is the database:data management for highly distributed system (2021)",
+    "url": "https://dl.acm.org/doi/abs/10.1145/375663.375737",
+    "normalized_url": "https://dl.acm.org/doi/abs/10.1145/375663.375737",
+    "url_hash": "1807ada3f96937a7",
+    "published": "2026-03-30T05:30:46+00:00",
+    "summary": "Article URL: https://dl.acm.org/doi/abs/10.1145/375663.375737 Comments URL: https://news.ycombinator.com/item?id=47570690 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "Subliminal learning: LLM transmit behavioral traits via hidden signals in data",
+    "url": "https://arxiv.org/abs/2507.14805",
+    "normalized_url": "https://arxiv.org/abs/2507.14805",
+    "url_hash": "932e93a5a2c2fc23",
+    "published": "2026-03-29T23:06:13+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2507.14805 Comments URL: https://news.ycombinator.com/item?id=47568403 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "SolveBar – 77 client-side tools, zero server and zero tracking",
+    "url": "https://solvebar.com",
+    "normalized_url": "https://solvebar.com",
+    "url_hash": "9478680f12bff8a5",
+    "published": "2026-03-29T21:30:03+00:00",
+    "summary": "Article URL: https://solvebar.com Comments URL: https://news.ycombinator.com/item?id=47567543 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "UEdu – Student writing mental health signals with 40 psycholinguistic features",
+    "url": "https://github.com/harold-wang-dev/uedu",
+    "normalized_url": "https://github.com/harold-wang-dev/uedu",
+    "url_hash": "84e063d01d31c829",
+    "published": "2026-03-29T18:25:24+00:00",
+    "summary": "Article URL: https://github.com/harold-wang-dev/uedu Comments URL: https://news.ycombinator.com/item?id=47565728 Points: 3 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Twice this week, I have come across embarassingly bad data",
+    "url": "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/",
+    "normalized_url": "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing",
+    "url_hash": "19ab43977af90f0a",
+    "published": "2026-03-29T15:54:27+00:00",
+    "summary": "Article URL: https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/ Comments URL: https://news.ycombinator.com/item?id=47564246 Points: 83 # Comments: 62",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Fraudulent church data revealed AI's threat to polling",
+    "url": "https://www.theguardian.com/technology/2026/mar/28/how-fraudulent-church-data-revealed-ais-threat-to-polling",
+    "normalized_url": "https://www.theguardian.com/technology/2026/mar/28/how-fraudulent-church-data-revealed-ais-threat-to-polling",
+    "url_hash": "19ca9191e27fcf3d",
+    "published": "2026-03-29T14:44:55+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/28/how-fraudulent-church-data-revealed-ais-threat-to-polling Comments URL: https://news.ycombinator.com/item?id=47563612 Points: 4 # Comments: 1",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.55,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5,
+      "am": 3,
+      "rf": 4.5,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "FOSS – Tracking delayed open-source releases",
+    "url": "https://captnemo.in/finally-foss/",
+    "normalized_url": "https://captnemo.in/finally-foss",
+    "url_hash": "d17e29b91c51ebee",
+    "published": "2026-03-29T14:01:59+00:00",
+    "summary": "Article URL: https://captnemo.in/finally-foss/ Comments URL: https://news.ycombinator.com/item?id=47563222 Points: 3 # Comments: 1",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Idea: Autonomous agents coordinating changes across data platforms",
+    "url": "https://medium.com/@priyank_47489/the-idea-of-an-agentic-operating-system-for-data-platforms-270dcad109cc",
+    "normalized_url": "https://medium.com/@priyank_47489/the-idea-of-an-agentic-operating-system-for-data-platforms-270dcad109cc",
+    "url_hash": "78a567a83ce2609c",
+    "published": "2026-03-29T13:50:20+00:00",
+    "summary": "Article URL: https://medium.com/@priyank_47489/the-idea-of-an-agentic-operating-system-for-data-platforms-270dcad109cc Comments URL: https://news.ycombinator.com/item?id=47563125 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "What if data platforms had agents that coordinated changes automati",
+    "url": "https://www.thegyrus.com",
+    "normalized_url": "https://www.thegyrus.com",
+    "url_hash": "f9eec0ff5e34087a",
+    "published": "2026-03-29T13:38:19+00:00",
+    "summary": "Article URL: https://www.thegyrus.com Comments URL: https://news.ycombinator.com/item?id=47563047 Points: 2 # Comments: 1",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Show HN: F1 Data – 100 resources across 11 racing series",
+    "url": "https://github.com/subinium/awesome-f1",
+    "normalized_url": "https://github.com/subinium/awesome-f1",
+    "url_hash": "bdd52714b1ff9ecb",
+    "published": "2026-03-29T12:44:30+00:00",
+    "summary": "Article URL: https://github.com/subinium/awesome-f1 Comments URL: https://news.ycombinator.com/item?id=47562722 Points: 3 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "A data platform for a new user: agents",
+    "url": "https://clickhouse.com/blog/building-a-data-platform-for-agents",
+    "normalized_url": "https://clickhouse.com/blog/building-a-data-platform-for-agents",
+    "url_hash": "b04521327dc725fd",
+    "published": "2026-03-29T12:21:06+00:00",
+    "summary": "Article URL: https://clickhouse.com/blog/building-a-data-platform-for-agents Comments URL: https://news.ycombinator.com/item?id=47562560 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Tracking (Expert/Influential) Predictions about AI",
+    "url": "https://www.lesswrong.com/posts/oHSGHxhsbxN72BZ4C/tracking-expert-influential-predictions-about-ai",
+    "normalized_url": "https://www.lesswrong.com/posts/oHSGHxhsbxN72BZ4C/tracking-expert-influential-predictions-about-ai",
+    "url_hash": "2edcc325aa71b5ca",
+    "published": "2026-03-29T11:01:49+00:00",
+    "summary": "Article URL: https://www.lesswrong.com/posts/oHSGHxhsbxN72BZ4C/tracking-expert-influential-predictions-about-ai Comments URL: https://news.ycombinator.com/item?id=47562096 Points: 3 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
+    "url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
+    "normalized_url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures",
+    "url_hash": "d44a48a0f77ffefe",
+    "published": "2026-03-29T09:48:47+00:00",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/ Comments URL: https://news.ycombinator.com/item?id=47561720 Points: 2 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "The 'self-driving' lab revolution",
+    "url": "https://www.nature.com/articles/d41586-026-00974-2",
+    "normalized_url": "https://www.nature.com/articles/d41586-026-00974-2",
+    "url_hash": "d4fd75a358616e52",
+    "published": "2026-03-30T14:39:43+00:00",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-00974-2 Comments URL: https://news.ycombinator.com/item?id=47574960 Points: 1 # Comments: 0",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Tesla carelessly promotes 'Full Self-Driving' for driver losing his eyesight",
+    "url": "https://electrek.co/2026/03/29/tesla-promotes-cybertruck-buyer-losing-eyesight-fsd/",
+    "normalized_url": "https://electrek.co/2026/03/29/tesla-promotes-cybertruck-buyer-losing-eyesight-fsd",
+    "url_hash": "e36d343ba8b8ca40",
+    "published": "2026-03-30T13:37:27+00:00",
+    "summary": "Article URL: https://electrek.co/2026/03/29/tesla-promotes-cybertruck-buyer-losing-eyesight-fsd/ Comments URL: https://news.ycombinator.com/item?id=47574143 Points: 4 # Comments: 0",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "SHOW HN - customermates.com – AI-first, Open-source, self-hostable CRM",
+    "url": "https://github.com/customermates/customermates",
+    "normalized_url": "https://github.com/customermates/customermates",
+    "url_hash": "5164bd00fa0013aa",
+    "published": "2026-03-30T12:16:55+00:00",
+    "summary": "Article URL: https://github.com/customermates/customermates Comments URL: https://news.ycombinator.com/item?id=47573305 Points: 2 # Comments: 1",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "A Control Panel for N8n to Simplify Self-Hosting",
+    "url": "https://news.ycombinator.com/item?id=47573257",
+    "normalized_url": "https://news.ycombinator.com/item?id=47573257",
+    "url_hash": "a2a6f41a10734cf7",
+    "published": "2026-03-30T12:11:56+00:00",
+    "summary": "We built a lightweight control panel for n8n after repeatedly running into the same issues managing self-hosted setups. The goal was simple: Reduce the operational overhead of running n8n. Features: Service monitoring (n8n, Postgres, Redis) One-click restart (safe execution handling) File manager SSH access Backup controls Why: Most failures we saw weren’t workflow-related — they were infra-related. This is an attempt to simplify that layer without removing flexibility. Would love feedback, especially from others running n8n in production. Comments URL: https://news.ycombinator.com/item?id=47573257 Points: 2 # Comments: 1",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.6,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Show HN: Ziglag:Self-hosted invoicing for solo devs who are done paying for CRUD",
+    "url": "https://news.ycombinator.com/item?id=47572767",
+    "normalized_url": "https://news.ycombinator.com/item?id=47572767",
+    "url_hash": "c5b403c2a8c08ecb",
+    "published": "2026-03-30T11:04:26+00:00",
+    "summary": "Invoicing SaaS is the poster child of the SaaSpocalypse. I've been paying $30/mo for what is essentially a form, a database, and a PDF renderer. So I built Ziglag. https://ziglag.com Comments URL: https://news.ycombinator.com/item?id=47572767 Points: 4 # Comments: 0",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.9,
+    "score_breakdown": {
+      "vf": 7,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 10
+    }
+  },
+  {
+    "title": "Show HN: Self-contained Kafka demo for developers coming from RabbitMQ",
+    "url": "https://github.com/mkumm/kafka-sensor-city",
+    "normalized_url": "https://github.com/mkumm/kafka-sensor-city",
+    "url_hash": "d3858a9bb22d4c2f",
+    "published": "2026-03-30T06:59:21+00:00",
+    "summary": "I'm an Elixir developer with a RabbitMQ background, currently learning C# and Kafka. To make the concepts stick, I built this self-contained demo — it gets you up and running in about 5 minutes. It helped me understand the practical differences between Kafka and RabbitMQ. Sharing it in case it's useful to others in a similar spot. There's also a Claude AI skill included for setup and teardown (/kafka-demo). Curious what other Kafka demos or learning resources people have found useful. Comments URL: https://news.ycombinator.com/item?id=47571263 Points: 1 # Comments: 0",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.45,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 9
+    }
+  },
+  {
+    "title": "A self-hosted proton mail alternative SMTP stack with E2EE support",
+    "url": "https://openneutron.com/",
+    "normalized_url": "https://openneutron.com",
+    "url_hash": "6eae15ff25296298",
+    "published": "2026-03-29T23:32:58+00:00",
+    "summary": "Article URL: https://openneutron.com/ Comments URL: https://news.ycombinator.com/item?id=47568599 Points: 4 # Comments: 1",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "Show HN: AgentLens – Chrome DevTools for AI Agents (open-source, self-hosted)",
+    "url": "https://github.com/tranhoangtu-it/agentlens",
+    "normalized_url": "https://github.com/tranhoangtu-it/agentlens",
+    "url_hash": "7c26f53a1f32c1fc",
+    "published": "2026-03-29T18:17:27+00:00",
+    "summary": "Article URL: https://github.com/tranhoangtu-it/agentlens Comments URL: https://news.ycombinator.com/item?id=47565649 Points: 2 # Comments: 0",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 8
+    }
+  },
+  {
+    "title": "I self-taught MIT math",
+    "url": "https://www.scotthyoung.com/blog/2023/02/21/diego-vera-mit-challenge-math-physics/",
+    "normalized_url": "https://www.scotthyoung.com/blog/2023/02/21/diego-vera-mit-challenge-math-physics",
+    "url_hash": "65992ef76e219495",
+    "published": "2026-03-29T12:44:34+00:00",
+    "summary": "Article URL: https://www.scotthyoung.com/blog/2023/02/21/diego-vera-mit-challenge-math-physics/ Comments URL: https://news.ycombinator.com/item?id=47562723 Points: 6 # Comments: 1",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "From Agent to Domain Intelligence: A Self-Evolving Knowledge Engine",
+    "url": "https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence",
+    "normalized_url": "https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence",
+    "url_hash": "c9dc92d0701a0bea",
+    "published": "2026-03-29T09:05:27+00:00",
+    "summary": "Article URL: https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence Comments URL: https://news.ycombinator.com/item?id=47561523 Points: 2 # Comments: 2",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Cory Doctorow's self-hosted did:web Bluesky server",
+    "url": "https://pluralistic.net/2026/03/05/executive-dysfunction/",
+    "normalized_url": "https://pluralistic.net/2026/03/05/executive-dysfunction",
+    "url_hash": "6737da067209ebc7",
+    "published": "2026-03-29T06:58:20+00:00",
+    "summary": "Article URL: https://pluralistic.net/2026/03/05/executive-dysfunction/ Comments URL: https://news.ycombinator.com/item?id=47560974 Points: 5 # Comments: 0",
+    "source_name": "HN Biohacking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 4.07,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 4,
+      "am": 3,
+      "rf": 3,
+      "fr": 6.5
+    }
+  },
+  {
+    "title": "Bright Data vs. Decodo: Which proxy solution comes out on top?",
+    "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOVE9ZVjZkRFpWZEM2TjNfSEwzQXBJazFZeG1oVVhqM1Z5XzJ1ejdsRkxIcjdxYTFJSkh4NWRFMzlHZWIyZGRHdThneXBSSXVLc0MyeV9jWGFiM0JDN0dacVFCNVBfS3ZCMHFGODg4cnNsUmE1aHJSRVNFYmxlYU4yOUpNVnB6S3dyR3Jwem91VDRxRUVtRG96MVJHQTBocFo1aE80Y0txSEljNVJOWTU4NUEwQ1pZTE5YMGdHT0FRMTZLeWFyX2gzSXUydS1KNjBEdUJMeXVCYk02R0hyQmxkVHFmRVBwUkh4bkJwOW9SVm9GWmhMb2V2cFFxV0JiZ3dBMENfVnJxVi15QmpFeHN1S1haN2ZjSGFNTC1wWm45bzJFZ0tVUXJpdTRIQVItamN4Q29PRkU3alg4Y1lUVzJRSEJjNVk?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOVE9ZVjZkRFpWZEM2TjNfSEwzQXBJazFZeG1oVVhqM1Z5XzJ1ejdsRkxIcjdxYTFJSkh4NWRFMzlHZWIyZGRHdThneXBSSXVLc0MyeV9jWGFiM0JDN0dacVFCNVBfS3ZCMHFGODg4cnNsUmE1aHJSRVNFYmxlYU4yOUpNVnB6S3dyR3Jwem91VDRxRUVtRG96MVJHQTBocFo1aE80Y0txSEljNVJOWTU4NUEwQ1pZTE5YMGdHT0FRMTZLeWFyX2gzSXUydS1KNjBEdUJMeXVCYk02R0hyQmxkVHFmRVBwUkh4bkJwOW9SVm9GWmhMb2V2cFFxV0JiZ3dBMENfVnJxVi15QmpFeHN1S1haN2ZjSGFNTC1wWm45bzJFZ0tVUXJpdTRIQVItamN4Q29PRkU3alg4Y1lUVzJRSEJjNVk?oc=5",
+    "url_hash": "46f89d21c52315f1",
+    "published": "2026-03-29T08:05:16+00:00",
+    "summary": "Bright Data vs. Decodo: Which proxy solution comes out on top? &nbsp;&nbsp; msn.com",
+    "source_name": "News: Bright Data",
+    "feed_tier": "competitor_watch",
+    "competitor": "Bright Data",
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 10,
+      "rf": 4.5,
+      "fr": 6.5
+    },
+    "editorial_override": "Bright Data vs Decodo comparison — direct competitor analysis"
+  }
+]
