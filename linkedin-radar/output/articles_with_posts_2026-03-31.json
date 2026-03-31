@@ -1,0 +1,178 @@
+[
+  {
+    "title": "9 Best ChatGPT Interface Scraper Tools in 2026 (Tested & Compared)",
+    "url": "https://www.scrapingbee.com/blog/best-chatgpt-scraper-tools/",
+    "normalized_url": "https://www.scrapingbee.com/blog/best-chatgpt-scraper-tools",
+    "url_hash": "460f0de1a3213b42",
+    "published": "2026-03-31T00:00:00+00:00",
+    "summary": "In 2026, extracting data from AI interfaces is essential for building agents, monitoring LLM performance, or automating workflows. A ChatGPT scraper tool is specialized software designed to navigate OpenAI's dynamic, React-based environment to extract text, code, or metadata. Unlike the official OpenAI API used for generating content, interface scrapers retrieve data directly from the web application. This is vital for accessing public GPTs or shared links not exposed via standard endpoints. While some tools offer &quot;point-and-click&quot; simplicity, others, like our web scraping API , provide the raw infrastructure of proxies and headless browsers needed for custom, high-scale builds. In this guide, I evaluate the best ChatGPT scraper tools based on their reliability and ability to bypass sophisticated anti-bot measures.",
+    "source_name": "ScrapingBee",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.5,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 6.0,
+      "am": 9.0,
+      "rf": 5,
+      "fr": 8
+    },
+    "editorial_override": "ChatGPT scraper tools comparison — core scraping/data infrastructure topic",
+    "post_en": "9 tools for scraping ChatGPT's interface were just tested and compared. Yes, this is a thing now.\n\nIn 2026, extracting data FROM AI interfaces is its own industry:\n→ Monitoring LLM output quality across versions\n→ Building agents that interact with ChatGPT programmatically\n→ Automating workflows that depend on AI-generated responses\n→ Benchmarking competing models at scale\n\nThe technical challenge is real. OpenAI's React-based interface uses:\n• Dynamic rendering that breaks traditional scrapers\n• Aggressive bot detection (ironically, by Cloudflare)\n• Session-based authentication that expires unpredictably\n• Streaming responses that require WebSocket handling\n\nThe scraping industry has come full circle. We started scraping static HTML. Then JavaScript-rendered pages. Then APIs behind auth walls.\n\nNow we're scraping AI interfaces to feed data into other AI systems.\n\nMachine reading machine output to train more machines.\n\nThe tools that win aren't the fastest scrapers. They're the ones that maintain stable sessions through anti-bot defenses while handling real-time streaming data.\n\nSound familiar? It's the exact same infrastructure challenge that proxy and data providers have been solving for a decade — just pointed at a new target.\n\n#WebScraping #AITools #DataCollection",
+    "post_ru": "9 инструментов для скрейпинга интерфейса ChatGPT протестированы и сравнены. Да, это уже целая индустрия.\n\nВ 2026 извлечение данных ИЗ AI-интерфейсов — отдельное направление:\n→ Мониторинг качества ответов LLM между версиями\n→ Построение агентов, взаимодействующих с ChatGPT программно\n→ Автоматизация workflow, зависящих от AI-ответов\n→ Бенчмаркинг моделей в масштабе\n\nТехническая сложность реальная: React-интерфейс OpenAI использует динамический рендеринг, агрессивную бот-детекцию (через Cloudflare), сессионную аутентификацию, стриминг через WebSocket.\n\nИндустрия скрейпинга прошла полный круг. Начинали со статического HTML. Потом JS-страницы. Потом API за авторизацией.\n\nТеперь скрейпим AI-интерфейсы, чтобы кормить данные в другие AI-системы. Машина читает вывод машины для обучения других машин.\n\nТа же самая инфраструктурная задача, которую прокси-провайдеры решают десятилетие — направленная на новую цель.\n\n#WebScraping #AITools #DataCollection"
+  },
+  {
+    "title": "Cloudflare Client-Side Security: smarter detection, now open to everyone",
+    "url": "https://blog.cloudflare.com/client-side-security-open-to-everyone/",
+    "normalized_url": "https://blog.cloudflare.com/client-side-security-open-to-everyone",
+    "url_hash": "1126cbc9b710ee22",
+    "published": "2026-03-30T06:00:00+00:00",
+    "summary": "We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we've reduced false positives by up to 200x while catching sophisticated zero-day exploits.",
+    "source_name": "Cloudflare Blog",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.4,
+    "score_breakdown": {
+      "vf": 4.5,
+      "hs": 5.5,
+      "am": 5.8,
+      "rf": 5,
+      "fr": 6.5
+    },
+    "editorial_override": "Cloudflare expanding client-side bot detection to all users — major impact",
+    "post_en": "Cloudflare just opened its advanced Client-Side Security to ALL users. Free tier included.\n\nThe technical details matter:\n→ New cascading AI detection system combining graph neural networks + LLMs\n→ False positives reduced by up to 200x compared to previous systems\n→ Can catch sophisticated zero-day exploits in real-time\n→ Monitors third-party scripts running in visitors' browsers\n\nWhy this changes the game for data infrastructure:\n\nPreviously, advanced bot detection was enterprise-only. A $200K/year Cloudflare contract got you the good stuff. Everyone else got basic rules.\n\nNow EVERY website behind Cloudflare gets AI-powered detection. That's roughly 20% of the internet.\n\nWhat this means in practice:\n1. The \"long tail\" of smaller sites becomes harder to access programmatically\n2. Graph neural networks detect behavioral patterns that rule-based systems miss\n3. The gap between \"enterprise-grade protection\" and \"basic protection\" just collapsed\n\nFor data collection operations, this is the single biggest shift of 2026 so far.\n\nThe playbook of targeting smaller, less-protected sites is dying. Cloudflare is democratizing the same defense that Fortune 500 companies use.\n\nLegitimate, authenticated data access isn't just the ethical choice anymore. It's becoming the only reliable one.\n\n#Cloudflare #BotDetection #DataInfrastructure",
+    "post_ru": "Cloudflare открыл продвинутую Client-Side Security для ВСЕХ пользователей. Включая бесплатный тариф.\n\nТехнические детали:\n→ Каскадная AI-система детекции: графовые нейросети + LLM\n→ Ложные срабатывания снижены в 200 раз\n→ Ловит zero-day эксплойты в реальном времени\n→ Мониторит сторонние скрипты в браузерах посетителей\n\nРаньше продвинутая бот-детекция была enterprise-only. Контракт на $200K/год — получаешь «хорошее». Остальным — базовые правила.\n\nТеперь КАЖДЫЙ сайт за Cloudflare получает AI-детекцию. Это ~20% интернета.\n\nНа практике:\n1. «Длинный хвост» мелких сайтов становится сложнее для программного доступа\n2. Графовые нейросети видят паттерны поведения, невидимые rule-based системам\n3. Разрыв между «enterprise-защитой» и «базовой» только что исчез\n\nДля data-операций это крупнейший сдвиг 2026 года.\n\nТактика «целиться в менее защищённые сайты» умирает. Cloudflare демократизирует защиту уровня Fortune 500.\n\nЛегитимный авторизованный доступ — не просто этичный выбор. Он становится единственным надёжным.\n\n#Cloudflare #BotDetection #DataInfrastructure"
+  },
+  {
+    "title": "AI is the new engine for web scraping",
+    "url": "https://www.zyte.com/blog/ai-is-the-new-engine-for-web-scraping",
+    "normalized_url": "https://www.zyte.com/blog/ai-is-the-new-engine-for-web-scraping",
+    "url_hash": "c98ef06baf585910",
+    "published": "2026-03-31T08:21:00+00:00",
+    "summary": "From LLM-powered extraction to agentic pipelines, here's how AI is reshaping every stage of the web scraping workflow in 2026 and what it means for your stack.",
+    "source_name": "Zyte Blog",
+    "feed_tier": "tier2_industry",
+    "competitor": "Zyte",
+    "score": 8.3,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5.5,
+      "am": 6.3,
+      "rf": 5,
+      "fr": 10
+    },
+    "editorial_override": "Zyte competitor piece on AI-powered scraping — core narrative",
+    "post_en": "Zyte just published their vision: \"AI is the new engine for web scraping.\"\n\nAs a competitor in the data infrastructure space, their roadmap is worth studying:\n\nTheir thesis — AI is reshaping EVERY stage of scraping:\n→ LLM-powered extraction replaces brittle CSS selectors\n→ Agentic pipelines that self-heal when site structures change\n→ AI classification of content quality before storage\n→ Natural language queries instead of XPath expressions\n\nThe honest assessment:\n\nThey're right about the direction. Wrong about the timeline for some of it.\n\nWhat's working NOW:\n• LLMs for unstructured data extraction — genuinely 10x better than regex\n• AI-powered site change detection — saves massive maintenance costs\n• Smart content classification — filters noise before it hits your database\n\nWhat's still aspirational:\n• Fully autonomous scraping agents — they break on edge cases\n• Zero-config data pipelines — still need human oversight\n• \"Just tell the AI what data you want\" — works 80% of the time, fails on the 20% that matters\n\nThe real insight isn't in Zyte's blog. It's in what they're NOT saying: the infrastructure layer beneath AI-powered scraping still requires reliable proxy networks, session management, and fingerprint handling.\n\nAI changes the extraction layer. The infrastructure layer remains.\n\n#WebScraping #AITools #DataInfrastructure",
+    "post_ru": "Zyte опубликовали свой манифест: «AI — новый двигатель веб-скрейпинга».\n\nИх тезис — AI перестраивает КАЖДЫЙ этап:\n→ LLM-экстракция вместо хрупких CSS-селекторов\n→ Агентные пайплайны, самовосстанавливающиеся при изменении структуры сайтов\n→ AI-классификация качества контента до сохранения\n→ Запросы на естественном языке вместо XPath\n\nЧестная оценка:\n\nНаправление верное. Таймлайн для части задач — нет.\n\nЧто работает СЕЙЧАС:\n• LLM для неструктурированных данных — реально в 10 раз лучше regex\n• AI-детекция изменений сайтов — экономит на поддержке\n• Умная классификация контента — фильтрует шум до БД\n\nЧто ещё аспирационно:\n• Полностью автономные скрейпинг-агенты — ломаются на edge cases\n• Zero-config пайплайны — нужен человеческий контроль\n\nГлавный инсайт не в блоге Zyte. А в том, что они НЕ говорят: инфраструктурный слой под AI-скрейпингом всё ещё требует надёжных прокси-сетей, управления сессиями, обработки фингерпринтов.\n\nAI меняет слой экстракции. Инфраструктурный слой остаётся.\n\n#WebScraping #AITools #DataInfrastructure"
+  },
+  {
+    "title": "TokenSurf – Drop-in proxy that cuts LLM costs 40-94%",
+    "url": "https://tokensurf.io",
+    "normalized_url": "https://tokensurf.io",
+    "url_hash": "5a53f2b05a7db535",
+    "published": "2026-03-31T02:39:21+00:00",
+    "summary": "Article URL: https://tokensurf.io Comments URL: https://news.ycombinator.com/item?id=47582136 Points: 2 # Comments: 0",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.2,
+    "score_breakdown": {
+      "vf": 6.0,
+      "hs": 4.5,
+      "am": 5.3,
+      "rf": 4,
+      "fr": 9
+    },
+    "editorial_override": "Proxy innovation reducing LLM costs 40-94% — proxy + AI intersection",
+    "post_en": "A new proxy just launched that cuts LLM API costs by 40-94%.\n\nTokenSurf is a drop-in proxy that sits between your app and the LLM provider. No code changes required.\n\nHow it works:\n→ Caches identical and semantically similar requests\n→ Routes to cheaper models when high capability isn't needed\n→ Compresses prompts by removing redundant tokens\n→ Batches requests for better throughput pricing\n\nThe numbers:\n• 40% savings on unique, complex queries\n• Up to 94% on repetitive operations (classification, extraction, formatting)\n• Sub-millisecond overhead on the proxy layer\n\nWhy this matters for data infrastructure:\n\nEvery web scraping operation that uses AI for extraction is burning through tokens. An LLM-powered scraper processing 100K pages/day can easily cost $500-2000/day in API fees alone.\n\nA proxy that cuts that by even 40% changes the unit economics of AI-powered data collection.\n\nThis is the proxy model applied to a new domain. Same concept — sit in the middle, optimize the traffic, reduce costs. Just applied to LLM tokens instead of HTTP requests.\n\nThe proxy industry isn't dying. It's expanding into every layer of the stack where there's traffic to optimize.\n\n#LLM #ProxyInfrastructure #AIcosts",
+    "post_ru": "Новый прокси сокращает расходы на LLM API на 40-94%.\n\nTokenSurf — drop-in прокси между приложением и LLM-провайдером. Изменения кода не нужны.\n\nКак работает:\n→ Кеширует идентичные и семантически похожие запросы\n→ Маршрутизирует на дешёвые модели, когда высокая capability не нужна\n→ Сжимает промпты, убирая избыточные токены\n→ Батчит запросы для лучших цен на throughput\n\nЦифры:\n• 40% экономии на уникальных сложных запросах\n• До 94% на повторяющихся операциях\n• Субмиллисекундный overhead прокси-слоя\n\nПочему это важно для data-инфраструктуры:\n\nКаждая скрейпинг-операция с AI для экстракции сжигает токены. LLM-скрейпер на 100K страниц/день = $500-2000/день только на API.\n\nПрокси, срезающий хотя бы 40%, меняет unit economics AI-скрейпинга.\n\nТа же прокси-модель в новом домене: сиди посередине, оптимизируй трафик, снижай расходы. Только для LLM-токенов вместо HTTP-запросов.\n\nПрокси-индустрия не умирает. Она расширяется в каждый слой стека, где есть трафик для оптимизации.\n\n#LLM #ProxyInfrastructure #AIcosts"
+  },
+  {
+    "title": "Italy's biggest bank handed €31.8 million GDPR fine",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnZuSjBoQzVKMnVVNjh6QlMzVU9JVVYwRk1JcE9RZlo4M2RLbE1rRDZnZTE2Tlk5S0s3X2YyMlhhQk1CenZjNERiUnVDeF9KUklqTUo5S05MSUxQLTZQSThVcllpYmNjbVItUGhUTHBERndOdGxBZ2k2WWxQam5vZTExYk9MMFhW?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnZuSjBoQzVKMnVVNjh6QlMzVU9JVVYwRk1JcE9RZlo4M2RLbE1rRDZnZTE2Tlk5S0s3X2YyMlhhQk1CenZjNERiUnVDeF9KUklqTUo5S05MSUxQLTZQSThVcllpYmNjbVItUGhUTHBERndOdGxBZ2k2WWxQam5vZTExYk9MMFhW?oc=5",
+    "url_hash": "c255ad12abd9c720",
+    "published": "2026-03-31T09:37:15+00:00",
+    "summary": "Italy's biggest bank handed €31.8 million GDPR fine &nbsp;&nbsp; Euractiv",
+    "source_name": "GDPR Fines News",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.1,
+    "score_breakdown": {
+      "vf": 5.5,
+      "hs": 4.5,
+      "am": 4.0,
+      "rf": 3,
+      "fr": 10
+    },
+    "editorial_override": "Largest Italian bank GDPR fine €31.8M — compliance/data protection",
+    "post_en": "€31.8 million. That's what Italy's largest bank just got fined for GDPR violations.\n\nThe largest banking GDPR penalty in Italian history. And the details reveal a pattern every data company should study:\n\nThe violations:\n→ Unauthorized access to customer data by internal employees\n→ Insufficient technical controls on data access logging\n→ Failure to implement adequate breach detection systems\n→ Delayed notification to affected individuals\n\nThe key lesson ISN'T about banking. It's about data governance at scale.\n\nWhen you handle millions of data points — whether banking records or web data — three things determine your regulatory risk:\n\n1. ACCESS CONTROLS: Who can touch the data, and can you prove it?\n2. AUDIT TRAILS: Can you reconstruct who accessed what, when, and why?\n3. DETECTION SPEED: How fast do you know when something goes wrong?\n\nThe bank failed on all three. €31.8 million later, they're rebuilding.\n\nFor data infrastructure companies, the parallel is direct. Every proxy provider, scraping service, and data pipeline operator handles sensitive data flows.\n\nThe companies building compliance into their infrastructure NOW aren't being paranoid. They're being strategic.\n\nGDPR enforcement isn't slowing down. It's scaling up. And the fines are getting bigger.\n\n#GDPR #DataCompliance #DataProtection",
+    "post_ru": "€31.8 миллионов. Столько заплатит крупнейший банк Италии за нарушения GDPR.\n\nКрупнейший банковский штраф GDPR в истории Италии.\n\nНарушения:\n→ Несанкционированный доступ сотрудников к данным клиентов\n→ Недостаточные технические контроли логирования доступа\n→ Отсутствие адекватных систем обнаружения утечек\n→ Задержка уведомления пострадавших\n\nУрок не про банкинг. Про управление данными в масштабе.\n\nКогда обрабатываете миллионы data points — банковские записи или веб-данные — три вещи определяют регуляторный риск:\n\n1. КОНТРОЛЬ ДОСТУПА: кто может касаться данных, можете ли доказать?\n2. АУДИТ-ТРЕЙЛЫ: кто к чему обращался, когда, зачем?\n3. СКОРОСТЬ ДЕТЕКЦИИ: как быстро узнаёте о проблеме?\n\nБанк провалился по всем трём. €31.8M позже — перестраивается.\n\nДля data-инфраструктуры параллель прямая. Каждый прокси-провайдер и скрейпинг-сервис обрабатывает чувствительные потоки данных.\n\nКомпании, встраивающие compliance в инфраструктуру СЕЙЧАС — не параноики. Они стратеги.\n\nШтрафы GDPR становятся больше. Enforcement не замедляется — масштабируется.\n\n#GDPR #DataCompliance #DataProtection"
+  },
+  {
+    "title": "How to Build an Automated AI Web Scraper with n8n in 2026",
+    "url": "https://www.scrapingbee.com/blog/n8n-no-code-web-scraping/",
+    "normalized_url": "https://www.scrapingbee.com/blog/n8n-no-code-web-scraping",
+    "url_hash": "15b3b8a5a618df40",
+    "published": "2026-03-31T00:00:00+00:00",
+    "summary": "For most of the last decade, collecting data from the web meant two things: open 10+ tabs, copy values into a spreadsheet, and call it research — or write Python. I did the latter — custom scripts, proxy management, CSS selectors that broke every time a site sneezed. Web scraping has a reputation for being technical. That reputation is about 3 years out of date. What changed everything was pairing n8n's visual workflow builder with an AI Web Scraping API . Instead of targeting specific HTML elements, you describe what you want in plain English. When the site redesigns, the workflow doesn't notice.",
+    "source_name": "ScrapingBee",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 6.0,
+      "hs": 4.5,
+      "am": 7.0,
+      "rf": 6.5,
+      "fr": 8
+    },
+    "editorial_override": "AI + web scraping automation with n8n — practical data collection content",
+    "post_en": "Building a web scraper used to require Python, proxy management, and CSS selectors that broke every week.\n\nIn 2026, you can build one with n8n and zero code. Here's what changed:\n\nThe new stack:\n→ n8n handles orchestration — scheduling, retries, error handling\n→ AI nodes extract data using natural language instructions\n→ Built-in proxy support rotates IPs automatically\n→ Visual workflow builder replaces Python scripts\n\nWhat this actually looks like:\n1. Point n8n at a URL pattern\n2. Tell the AI node: \"Extract product name, price, and availability\"\n3. Set up a schedule and error notifications\n4. Data flows into your database automatically\n\nThe results are surprisingly good for 80% of use cases. Product monitoring, price tracking, news aggregation — the common jobs work out of the box.\n\nWhere it breaks down:\n• Sites with aggressive anti-bot protection\n• Dynamic content requiring authenticated sessions\n• High-volume operations (10K+ pages/day)\n• Complex multi-step navigation flows\n\nThis is where the split happens: no-code handles the simple jobs. The hard jobs still need infrastructure.\n\nThe market isn't being disrupted by AI tools. It's being segmented. Simple scraping becomes commodity. Complex data access becomes more valuable.\n\n#WebScraping #NoCode #DataCollection",
+    "post_ru": "Раньше для скрейпера нужен был Python, прокси-менеджмент и CSS-селекторы, ломающиеся каждую неделю.\n\nВ 2026 можно собрать скрейпер в n8n без единой строки кода.\n\nНовый стек:\n→ n8n — оркестрация: расписание, ретраи, обработка ошибок\n→ AI-ноды извлекают данные по инструкции на естественном языке\n→ Встроенная поддержка прокси с ротацией IP\n→ Визуальный конструктор workflow вместо Python-скриптов\n\nРезультаты удивительно хороши для 80% кейсов: мониторинг продуктов, отслеживание цен, агрегация новостей.\n\nГде ломается:\n• Сайты с агрессивной анти-бот защитой\n• Динамический контент с аутентификацией\n• Высоконагруженные операции (10K+ страниц/день)\n• Сложная многошаговая навигация\n\nРынок не разрушается AI-инструментами. Он сегментируется. Простой скрейпинг = commodity. Сложный доступ к данным = рост ценности.\n\n#WebScraping #NoCode #DataCollection"
+  },
+  {
+    "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance",
+    "url": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
+    "normalized_url": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance",
+    "url_hash": "6eb4330226e85ae0",
+    "published": "2026-03-30T18:03:59+00:00",
+    "summary": "More than 125,000 Bluesky users have blocked Attie in just a few days, sending a strong message from the user base.",
+    "source_name": "TechCrunch",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 5,
+      "am": 5.0,
+      "rf": 4,
+      "fr": 8
+    },
+    "editorial_override": "Bluesky AI agent most blocked account — AI agents vs platform trust",
+    "post_en": "125,000+ Bluesky users blocked an AI tool in just a few days. Only J.D. Vance has been blocked more.\n\nAttie, Bluesky's new AI-powered feature, became the platform's most blocked account almost overnight.\n\nThe user message is crystal clear: we don't want AI agents in our social spaces.\n\nWhat Attie does:\n→ Summarizes conversations and threads\n→ Suggests relevant content to users\n→ Operates as a visible account in the social graph\n\nWhat users saw:\n→ An AI inserting itself into human conversations\n→ Another platform prioritizing AI features over user preferences\n→ Loss of control over who (or what) participates in their community\n\nThe pattern repeating across every platform:\n1. Platform launches AI feature → users push back\n2. Platform makes it opt-out → users block it anyway\n3. Platform learns: AI must be invisible or optional\n\nFor data infrastructure, this is signal:\n\nThe web is splitting into AI-friendly and AI-hostile zones. Social platforms — where the most valuable human-generated content lives — are becoming AI-hostile.\n\nThe most authentic, valuable data is increasingly in spaces that actively reject automated access.\n\nCollecting from these spaces requires trust, transparency, and user consent. Not just technical capability.\n\n#AIAgents #SocialMedia #DataAccess",
+    "post_ru": "125,000+ пользователей Bluesky заблокировали AI-инструмент за несколько дней. Больше блокировок только у Дж.Д. Вэнса.\n\nAttie — AI-фича Bluesky — стала самым заблокированным аккаунтом платформы почти мгновенно.\n\nСигнал от пользователей кристально ясен: мы не хотим AI-агентов в наших соцпространствах.\n\nПаттерн повторяется на каждой платформе:\n1. Платформа запускает AI-фичу → пользователи сопротивляются\n2. Делают opt-out → пользователи всё равно блокируют\n3. Урок: AI должен быть невидимым или опциональным\n\nДля data-инфраструктуры это сигнал:\n\nВеб раскалывается на AI-дружественные и AI-враждебные зоны. Соцплатформы — где самый ценный human-контент — становятся AI-враждебными.\n\nСамые аутентичные данные всё чаще в пространствах, активно отвергающих автоматический доступ.\n\nСбор из этих пространств требует доверия, прозрачности и согласия пользователей. Не только технической способности.\n\n#AIAgents #SocialMedia #DataAccess"
+  },
+  {
+    "title": "Show HN: Built Paul Graham's Intellectual CAPTCHA Idea",
+    "url": "https://mentwire.com/",
+    "normalized_url": "https://mentwire.com",
+    "url_hash": "456502decee39078",
+    "published": "2026-03-30T18:21:36+00:00",
+    "summary": "PG has posted about improving social networks using something like an \"intellectual CAPTCHA\" many times [1][2][3][4] - \"Make users pass a test on basic concepts like the distinction between necessary and sufficient conditions before they can tweet.\" I felt the same way. So I built one using a mix of simple math, logic, and Twitter/X Community Noted posts. Try sample questions here - https://mentwire.com/sample - without signing up. - Invite-only (temporarily open to HN users). - Onboarding test + one daily question before accessing feed, post or reply. - Posts authors are anonymous until upvoted or downvoted, forcing evaluation of content on merit. - Face ID (on-device only) to post/reply, pangram checks for AI text. Sourcing good questions turned out to be much harder than I thought. If you have suggestions to scale this, I would love to hear. Eventually, could be gated across disciplines/topics to get a competence × interest graph instead of the pure interest graph of today's social networks. [1] https://x.com/paulg/status/1235949761359904768 [2] https://x.com/paulg/status/1576517990182359040 [3] https://x.com/paulg/status/1514979883948126209 [4] https://x.com/paulg/status/1505842647319126016 Comments URL: https://news.ycombinator.com/item?id=47577829 Points: 2 # Comments: 0",
+    "source_name": "HN CAPTCHA",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 5.0,
+      "hs": 4.5,
+      "am": 5.0,
+      "rf": 4,
+      "fr": 8
+    },
+    "editorial_override": "Intellectual CAPTCHA concept — bot detection innovation, HN front page",
+    "post_en": "Paul Graham proposed an \"intellectual CAPTCHA\" for social networks. Someone actually built it.\n\nThe idea: before you can post, you must pass a test proving you understand basic logical concepts. Like the difference between necessary and sufficient conditions.\n\nThe implementation on Mentwire:\n→ Short reasoning questions before account creation\n→ Not knowledge tests — logical thinking tests\n→ Designed to filter low-effort bots AND low-effort humans\n→ Takes 2-3 minutes for a thoughtful person, blocks automated signup\n\nThe concept challenges the entire CAPTCHA paradigm:\n\nTraditional CAPTCHAs ask: \"Are you human?\"\nIntellectual CAPTCHAs ask: \"Can you think clearly?\"\n\nWith AI solving visual CAPTCHAs at 95%+ accuracy, the \"are you human\" question is becoming meaningless. AI can prove it's human better than most humans can.\n\nBut can AI pass a test designed to measure genuine reasoning? Currently, yes — LLMs handle logic puzzles well. So even intellectual CAPTCHAs may not be the answer.\n\nThe deeper insight: we're running out of ways to distinguish humans from machines through testing. The future of bot detection isn't about WHAT the visitor can do. It's about HOW they do it — behavioral analysis, not capability testing.\n\nThe CAPTCHA era is ending. The behavioral verification era is beginning.\n\n#BotDetection #CAPTCHA #WebSecurity",
+    "post_ru": "Пол Грэм предложил «интеллектуальную CAPTCHA» для соцсетей. Кто-то реально это построил.\n\nИдея: перед постингом нужно пройти тест на базовые логические концепции. Например, разницу между необходимым и достаточным условием.\n\nРеализация на Mentwire:\n→ Короткие вопросы на рассуждение при создании аккаунта\n→ Не тесты на знания — тесты на логическое мышление\n→ Фильтрует и low-effort ботов, И low-effort людей\n→ 2-3 минуты для думающего человека, блокирует автоматическую регистрацию\n\nКонцепция бросает вызов всей парадигме CAPTCHA:\n\nТрадиционные CAPTCHA: «Ты человек?»\nИнтеллектуальные CAPTCHA: «Ты умеешь мыслить ясно?»\n\nAI решает визуальные CAPTCHA с точностью 95%+. Вопрос «ты человек?» теряет смысл.\n\nНо способы различить людей и машин через тесты заканчиваются. Будущее бот-детекции — не в том, ЧТО посетитель может сделать. А в том, КАК — поведенческий анализ, а не тестирование способностей.\n\nЭра CAPTCHA заканчивается. Эра поведенческой верификации начинается.\n\n#BotDetection #CAPTCHA #WebSecurity"
+  }
+]
