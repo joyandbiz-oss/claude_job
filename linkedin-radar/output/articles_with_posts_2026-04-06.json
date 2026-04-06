@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Blocking AI crawlers doesn't stop citations - new data shows why",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2E0ZDdwTG10RTM5amFKajhBZW4tTmdaZ0FFNGMxVEZHWEdIbG5tbkduY1ZpMlljdHk2a1hJX3RKYzZFWkZSVU5MT2tEclBFdnE0WW04TXFiS3JUNlFIYWtDUk5pY0lmZ2NfSl9PcGVucTE1YmRFVk84M3NWMHNtOUEzcEdYQQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2E0ZDdwTG10RTM5amFKajhBZW4tTmdaZ0FFNGMxVEZHWEdIbG5tbkduY1ZpMlljdHk2a1hJX3RKYzZFWkZSVU5MT2tEclBFdnE0WW04TXFiS3JUNlFIYWtDUk5pY0lmZ2NfSl9PcGVucTE1YmRFVk84M3NWMHNtOUEzcEdYQQ?oc=5",
+    "url_hash": "96d7f7828b7cf7a9",
+    "published": "2026-04-06T02:52:53+00:00",
+    "summary": "Blocking AI crawlers doesn't stop citations - new data shows why &nbsp;&nbsp; PPC Land",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.7,
+    "score_breakdown": {
+      "vf": 5.5,
+      "hs": 5.5,
+      "am": 5.3,
+      "rf": 5.5,
+      "fr": 8
+    },
+    "editorial_override": "Blocking AI crawlers doesnt stop citations — contrarian data on crawling vs AI training",
+    "post_en": "Blocking AI crawlers doesn't stop them from citing your content. New data proves it.\n\nThis challenges everything we thought we knew about robots.txt and AI training:\n\nThe findings:\n→ Sites that block major AI crawlers still appear in AI-generated answers\n→ Citation rates are nearly identical whether you block or allow crawling\n→ AI models retain information from pre-block training data indefinitely\n→ New AI systems access cached/archived versions of blocked content\n\nWhat this means:\n\nrobots.txt was designed for a world where search engines respected \"don't index this.\" AI doesn't work that way.\n\nThree uncomfortable truths:\n1. Once your data is in a training set, blocking the crawler is like closing the barn door after the horse left\n2. AI companies are building on data collected BEFORE blocks were implemented\n3. The legal frameworks assume blocking = protection. The data says otherwise.\n\nFor publishers and content owners: blocking crawlers gives the ILLUSION of control without actual protection.\n\nFor data infrastructure: this reshapes the entire compliance conversation. If blocking doesn't work, what does?\n\nThe answer is shifting toward:\n• Licensing agreements with enforcement mechanisms\n• Technical measures beyond robots.txt (rate limiting, auth walls)\n• Legal frameworks that address training data, not just crawling\n\nThe robots.txt era of AI governance is over. What comes next will be more complex, more expensive, and more effective.\n\n#AITrainingData #WebCrawling #DataGovernance",
+    "post_ru": "Блокировка AI-краулеров не мешает им цитировать ваш контент. Новые данные это доказывают.\n\nЭто бросает вызов всему, что мы знали о robots.txt и обучении AI:\n\n→ Сайты, блокирующие AI-краулеров, всё равно появляются в AI-ответах\n→ Частота цитирования почти идентична — блокируете или нет\n→ AI-модели хранят информацию из до-блокировочных данных бессрочно\n→ Новые AI-системы берут кешированные/архивные версии заблокированного контента\n\nТри неудобные правды:\n1. Данные уже в тренировочном сете — блокировка краулера как закрыть дверь после ухода лошади\n2. AI-компании строят на данных, собранных ДО блокировок\n3. Правовые рамки предполагают: блокировка = защита. Данные говорят иначе.\n\nДля издателей: блокировка даёт ИЛЛЮЗИЮ контроля без реальной защиты.\n\nОтвет смещается к:\n• Лицензионным соглашениям с механизмами enforcement\n• Техническим мерам за пределами robots.txt\n• Правовым рамкам, адресующим training data, а не просто краулинг\n\nЭра robots.txt в AI-governance закончилась. Следующий этап будет сложнее, дороже и эффективнее.\n\n#AITrainingData #WebCrawling #DataGovernance"
+  },
+  {
+    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+    "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNNzhZWlBOeFZrck9vcldWODNGVnl0LWtEdWg5Wk45VVFXUEFSSkxISTA0Wkp6V3p1ejJIUmFfd3Rzc2htT3g1YzJoOW85aGxQcmtHVXdqaEpvb3FjTUVqN1I3V3ZrQkh3R09sdllRSG5oNkZFNUlySWl5S0lRQUFVcko5cWo2ZmVjaFA3anJQYXpabnFRbzhRTm5uSWRLbFhmU0dxZ21ZWHhoYVpNNmMzUHRObEt3NnpKUUtrUzVfMFdmenk4dHBGWXhOMElkd1lka0Z1M1FXUGRHQTdQajg5a3RmcTUtcmhhcExNTWNMajk1Zy1VbWxVbW5mOVg1OXJacWRhN282RHQ4emxWYkxZOWtsR2pwR0FhSE84eEVORGlFY0E2cUdWWUxZSHpVdHJQZG9HcUxkYmZhOFpuT0VDR3JoRlR0amtJYVQ1NUFvS3Jub2kyb01MZ3M3alhoVU1TMnJZcmlvS2ZyeFE?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNNzhZWlBOeFZrck9vcldWODNGVnl0LWtEdWg5Wk45VVFXUEFSSkxISTA0Wkp6V3p1ejJIUmFfd3Rzc2htT3g1YzJoOW85aGxQcmtHVXdqaEpvb3FjTUVqN1I3V3ZrQkh3R09sdllRSG5oNkZFNUlySWl5S0lRQUFVcko5cWo2ZmVjaFA3anJQYXpabnFRbzhRTm5uSWRLbFhmU0dxZ21ZWHhoYVpNNmMzUHRObEt3NnpKUUtrUzVfMFdmenk4dHBGWXhOMElkd1lka0Z1M1FXUGRHQTdQajg5a3RmcTUtcmhhcExNTWNMajk1Zy1VbWxVbW5mOVg1OXJacWRhN282RHQ4emxWYkxZOWtsR2pwR0FhSE84eEVORGlFY0E2cUdWWUxZSHpVdHJQZG9HcUxkYmZhOFpuT0VDR3JoRlR0amtJYVQ1NUFvS3Jub2kyb01MZ3M3alhoVU1TMnJZcmlvS2ZyeFE?oc=5",
+    "url_hash": "cbd505133d82b171",
+    "published": "2026-04-04T04:12:08+00:00",
+    "summary": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says &nbsp;&nbsp; MSN",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.5,
+    "score_breakdown": {
+      "vf": 5.5,
+      "hs": 4.5,
+      "am": 6.0,
+      "rf": 6,
+      "fr": 5
+    },
+    "editorial_override": "Cloudflare CEO: bot traffic > human traffic by 2027 — core bot traffic narrative",
+    "post_en": "Cloudflare's CEO confirmed it again: online bot traffic will exceed human traffic by 2027.\n\nThis isn't speculation anymore. It's an extrapolation from the traffic patterns Cloudflare sees across 20% of the internet.\n\nThe acceleration:\n→ 2024: Bots were ~47% of all web traffic (Imperva data)\n→ 2025: AI agents pushed bot traffic past 50% on many Cloudflare-protected sites\n→ 2026: The crossover is happening on high-value commercial sites first\n→ 2027: Global crossover — more machines browsing than humans\n\nWhat's different about 2027 bots vs 2024 bots:\n\nOld bots: Simple scripts making predictable requests\nNew bots: AI agents that browse like humans, make purchasing decisions, negotiate prices, and interact with content\n\nThe infrastructure implications are massive:\n1. Website analytics become unreliable without bot filtering\n2. A/B testing results are contaminated by machine visitors\n3. Ad impressions served to bots are pure waste\n4. Conversion funnels include non-human \"customers\"\n\nFor data infrastructure providers, this creates a paradox: the web is generating more data than ever, but a growing percentage of that data is machine-generated noise.\n\nThe companies that can separate signal from noise — real humans from sophisticated bots — will define the next era of web infrastructure.\n\n#BotTraffic #Cloudflare #WebInfrastructure",
+    "post_ru": "CEO Cloudflare подтвердил снова: бот-трафик превысит человеческий к 2027.\n\nЭто уже не спекуляция — экстраполяция из паттернов трафика, видимых на 20% интернета.\n\nУскорение:\n→ 2024: Боты ~47% всего веб-трафика\n→ 2025: AI-агенты вывели бот-трафик за 50% на многих сайтах\n→ 2026: Кроссовер на высокоценных коммерческих сайтах\n→ 2027: Глобальный кроссовер — машин больше, чем людей\n\nЧем боты 2027 отличаются:\nСтарые: простые скрипты с предсказуемыми запросами\nНовые: AI-агенты, бродящие как люди, принимающие решения о покупках, взаимодействующие с контентом\n\nПоследствия для инфраструктуры:\n1. Аналитика ненадёжна без фильтрации ботов\n2. A/B тесты загрязнены машинными визитами\n3. Показы рекламы ботам — чистый убыток\n4. Воронки конверсий включают не-человеческих «клиентов»\n\nДля data-инфраструктуры парадокс: веб генерирует больше данных, чем когда-либо, но растущий процент — машинный шум.\n\nКомпании, разделяющие сигнал от шума — настоящих людей от ботов — определят следующую эру веб-инфраструктуры.\n\n#BotTraffic #Cloudflare #WebInfrastructure"
+  },
+  {
+    "title": "Show HN: Gecit – DPI bypass using eBPF sock_ops, no proxy or VPN",
+    "url": "https://github.com/boratanrikulu/gecit",
+    "normalized_url": "https://github.com/boratanrikulu/gecit",
+    "url_hash": "74a5323ec01af9ae",
+    "published": "2026-04-05T16:15:13+00:00",
+    "summary": "Article URL: https://github.com/boratanrikulu/gecit Comments URL: https://news.ycombinator.com/item?id=47650894 Points: 8 # Comments: 2",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.3,
+    "score_breakdown": {
+      "vf": 5.0,
+      "hs": 4.5,
+      "am": 6.0,
+      "rf": 5,
+      "fr": 8
+    },
+    "editorial_override": "DPI bypass using eBPF — proxy/censorship bypass innovation, no VPN needed",
+    "post_en": "A new tool bypasses Deep Packet Inspection without a proxy or VPN. It uses eBPF — and it runs directly in the kernel.\n\nGecit just launched on Hacker News, and it demonstrates where internet freedom tooling is heading.\n\nHow it works:\n→ Uses eBPF sock_ops to intercept packets at the kernel level\n→ Fragments and reorders TCP packets to evade DPI signatures\n→ No external proxy server needed — runs entirely on your machine\n→ Zero overhead compared to VPN tunneling\n→ Works against government-level censorship systems\n\nWhy this matters for data infrastructure:\n\nDPI (Deep Packet Inspection) is the technology governments and ISPs use to identify and block specific types of traffic — including scraping, VPN connections, and proxy protocols.\n\nThe arms race between DPI systems and circumvention tools directly affects data collection:\n1. Countries with aggressive DPI (Russia, China, Iran) block proxy traffic\n2. ISPs use DPI to throttle or redirect automated requests\n3. Corporate networks use DPI to detect unauthorized data access\n\neBPF-based bypass operates at a level that traditional DPI can't easily inspect. It's the equivalent of hiding in plain sight — the packets look normal, but they're not.\n\nFor anyone operating data infrastructure across borders: the tools for maintaining access are getting more sophisticated. And so are the systems trying to block them.\n\n#Proxy #DPI #InternetFreedom",
+    "post_ru": "Новый инструмент обходит Deep Packet Inspection без прокси или VPN. Использует eBPF — работает прямо в ядре.\n\nGecit запущен на Hacker News и показывает, куда движутся инструменты интернет-свободы.\n\nКак работает:\n→ eBPF sock_ops перехватывает пакеты на уровне ядра\n→ Фрагментирует и переупорядочивает TCP-пакеты для обхода DPI-сигнатур\n→ Не нужен внешний прокси — работает полностью локально\n→ Нулевой overhead по сравнению с VPN\n→ Работает против государственных систем цензуры\n\nПочему важно для data-инфраструктуры:\n\nDPI — технология, которую правительства и ISP используют для блокировки трафика, включая скрейпинг, VPN и прокси-протоколы.\n\nГонка между DPI и обходом напрямую влияет на сбор данных:\n1. Страны с агрессивным DPI блокируют прокси-трафик\n2. ISP используют DPI для throttling автоматических запросов\n3. Корпоративные сети детектят несанкционированный доступ\n\neBPF-обход работает на уровне, который традиционный DPI не может легко проинспектировать. Пакеты выглядят нормально — но это не так.\n\nИнструменты доступа становятся сложнее. И системы блокировки тоже.\n\n#Proxy #DPI #InternetFreedom"
+  },
+  {
+    "title": "Go-LLM-proxy v0.3 released – translating proxy for Claude Code and Codex",
+    "url": "https://go-llm-proxy.com",
+    "normalized_url": "https://go-llm-proxy.com",
+    "url_hash": "5b25e67d4d5154da",
+    "published": "2026-04-04T18:30:29+00:00",
+    "summary": "Article URL: https://go-llm-proxy.com Comments URL: https://news.ycombinator.com/item?id=47641866 Points: 3 # Comments: 1",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.2,
+    "score_breakdown": {
+      "vf": 6.0,
+      "hs": 4.5,
+      "am": 5.3,
+      "rf": 4,
+      "fr": 6.5
+    },
+    "editorial_override": "LLM proxy for Claude Code and Codex — proxy + AI coding tools intersection",
+    "post_en": "A proxy that translates between AI coding tools just hit v0.3. It connects Claude Code and Codex to any LLM provider.\n\nGo-LLM-proxy sits between your AI coding agent and the model API, translating requests on the fly.\n\nWhat it does:\n→ Routes Claude Code requests to any OpenAI-compatible API\n→ Translates Codex protocol to work with Anthropic, local models, or other providers\n→ Handles authentication, rate limiting, and model selection automatically\n→ Lets you switch between providers without changing your tooling\n\nWhy this is a bigger deal than it sounds:\n\nAI coding agents are becoming the primary way developers interact with code. Claude Code, Cursor, GitHub Copilot, Codex — each locked to specific providers.\n\nGo-LLM-proxy breaks that lock-in. And in doing so, it reveals the infrastructure pattern that's emerging:\n\n1. The \"interface layer\" (how you interact with AI) is separating from the \"model layer\" (which AI runs)\n2. Proxy infrastructure between these layers creates new value\n3. The companies controlling the translation layer control developer choice\n\nThis is the proxy model applied to AI infrastructure. Same pattern as web proxies: sit between client and server, add value in the middle.\n\nThe proxy industry keeps finding new traffic to optimize. First HTTP, then APIs, now AI model calls.\n\n#AITools #ProxyInfrastructure #DeveloperTools",
+    "post_ru": "Прокси, транслирующий между AI-инструментами для кодинга, вышел в v0.3. Соединяет Claude Code и Codex с любым LLM-провайдером.\n\nGo-LLM-proxy сидит между AI-агентом и API модели, транслируя запросы на лету.\n\nЧто делает:\n→ Маршрутизирует запросы Claude Code к любому OpenAI-совместимому API\n→ Транслирует протокол Codex для Anthropic, локальных моделей, других провайдеров\n→ Обрабатывает аутентификацию, rate limiting, выбор модели автоматически\n→ Переключение между провайдерами без смены инструментов\n\nGo-LLM-proxy ломает vendor lock-in. И раскрывает инфраструктурный паттерн:\n\n1. «Слой интерфейса» (как взаимодействуешь с AI) отделяется от «слоя модели» (какой AI работает)\n2. Прокси-инфраструктура между слоями создаёт ценность\n3. Контроль трансляционного слоя = контроль выбора разработчика\n\nПрокси-модель применена к AI-инфраструктуре. Тот же паттерн: сиди между клиентом и сервером, добавляй ценность посередине.\n\nПрокси-индустрия продолжает находить новый трафик для оптимизации. Сначала HTTP, потом API, теперь вызовы AI-моделей.\n\n#AITools #ProxyInfrastructure #DeveloperTools"
+  },
+  {
+    "title": "EU Data Protection Group Report on Legitimate Interest Under GDPR [pdf]",
+    "url": "https://www.edpb.europa.eu/system/files/2026-03/spe-oss-case-digest-legitimate-interest_en.pdf",
+    "normalized_url": "https://www.edpb.europa.eu/system/files/2026-03/spe-oss-case-digest-legitimate-interest_en.pdf",
+    "url_hash": "fdcbfb237f7252d5",
+    "published": "2026-04-06T12:31:10+00:00",
+    "summary": "Article URL: https://www.edpb.europa.eu/system/files/2026-03/spe-oss-case-digest-legitimate-interest_en.pdf Comments URL: https://news.ycombinator.com/item?id=47660063 Points: 3 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 8.1,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4.5,
+      "am": 4.0,
+      "rf": 4.5,
+      "fr": 10
+    },
+    "editorial_override": "EU GDPR Legitimate Interest report — regulatory framework for data processing",
+    "post_en": "The EU Data Protection Board just published its case digest on \"Legitimate Interest\" under GDPR. Every data company needs to read this.\n\nLegitimate Interest is the legal basis most data operations rely on. This report tells you exactly how EU regulators are interpreting it in 2026.\n\nKey takeaways:\n→ Legitimate Interest can NOT be used as a blanket justification for data processing\n→ The balancing test must be documented BEFORE processing begins\n→ Data subjects' reasonable expectations are weighted heavily\n→ Commercial interest alone is NOT sufficient — it must be \"necessary\"\n\nWhat changed:\n• Regulators are scrutinizing \"legitimate interest\" claims more aggressively\n• The bar for \"necessity\" has been raised — you must prove no less intrusive alternative exists\n• Cross-border data processing under legitimate interest faces additional requirements\n• Automated decision-making based on legitimate interest has new restrictions\n\nFor data infrastructure companies:\n\nIf your data collection, proxy services, or scraping operations rely on \"legitimate interest\" as a legal basis — this report is your compliance roadmap.\n\nThe three questions every operation must answer:\n1. Is the interest genuinely legitimate (not just commercially convenient)?\n2. Is processing NECESSARY for that interest (no alternative method)?\n3. Does it override the data subject's rights (documented balancing test)?\n\nGDPR enforcement isn't theoretical anymore. It's specific, documented, and escalating.\n\n#GDPR #DataProtection #Compliance",
+    "post_ru": "Совет по защите данных ЕС опубликовал дайджест кейсов по «Законному интересу» в рамках GDPR. Каждая data-компания обязана прочитать.\n\nЗаконный интерес — правовое основание, на которое опирается большинство data-операций. Этот отчёт показывает, как регуляторы ЕС интерпретируют его в 2026.\n\nКлючевое:\n→ Законный интерес НЕ может быть общим оправданием обработки данных\n→ Тест на баланс должен быть задокументирован ДО начала обработки\n→ Разумные ожидания субъектов данных весят тяжело\n→ Коммерческий интерес сам по себе НЕ достаточен — должна быть «необходимость»\n\nЧто изменилось:\n• Регуляторы проверяют заявления о законном интересе агрессивнее\n• Планка «необходимости» поднята — докажите, что нет менее инвазивной альтернативы\n• Трансграничная обработка — дополнительные требования\n\nТри вопроса для каждой операции:\n1. Интерес действительно законный (не просто коммерчески удобный)?\n2. Обработка НЕОБХОДИМА для этого интереса?\n3. Она перевешивает права субъекта данных?\n\nGDPR enforcement уже не теоретический. Он конкретный, задокументированный и эскалирующий.\n\n#GDPR #DataProtection #Compliance"
+  },
+  {
+    "title": "5 Best Web Scraping Tools for Fast and Reliable Data Collection in 2026",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSW1LbE1nSXZpbEMyS0oxd0JrWDlZVHJtcE92cTcxYUFTNUlSTlJlSVlNbUwyRnh4YmR4YUhRbDJpVUVLVmlGajRxOTRucFE0a1FtZTZPS3paRElGRGdsd2s2cFhlbHU4MEFweWoxUTBIdVR4TEF4ZkRpOVZSY0k3Rkg3LWM1NVMzd2ZkU2VWRW00RmpCMEZyV0hrTllsdGlmb1RhMXJVc1ZSdGx3SHJJ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSW1LbE1nSXZpbEMyS0oxd0JrWDlZVHJtcE92cTcxYUFTNUlSTlJlSVlNbUwyRnh4YmR4YUhRbDJpVUVLVmlGajRxOTRucFE0a1FtZTZPS3paRElGRGdsd2s2cFhlbHU4MEFweWoxUTBIdVR4TEF4ZkRpOVZSY0k3Rkg3LWM1NVMzd2ZkU2VWRW00RmpCMEZyV0hrTllsdGlmb1RhMXJVc1ZSdGx3SHJJ?oc=5",
+    "url_hash": "5e985bc939294db2",
+    "published": "2026-04-03T10:05:31+00:00",
+    "summary": "5 Best Web Scraping Tools for Fast and Reliable Data Collection in 2026 &nbsp;&nbsp; Technology Org",
+    "source_name": "News: Web Scraping",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 6.5,
+      "hs": 4.5,
+      "am": 6.0,
+      "rf": 5,
+      "fr": 4
+    },
+    "editorial_override": "5 best scraping tools 2026 — industry landscape overview",
+    "post_en": "The \"5 Best Web Scraping Tools for 2026\" lists keep coming. And they tell a story about where the industry is going.\n\nEvery year, these roundups shift. Here's what changed:\n\n2022 lists prioritized: speed, price per request, proxy pool size\n2024 lists prioritized: JavaScript rendering, anti-bot bypass, API simplicity\n2026 lists prioritize: AI integration, structured data output, compliance features\n\nThe evolution is clear: scraping tools are becoming data delivery platforms.\n\nWhat today's \"best tools\" have in common:\n→ Built-in AI for data extraction (no more manual selectors)\n→ Structured output formats (JSON, database-ready schemas)\n→ Compliance documentation included with the product\n→ Managed infrastructure (you don't run the proxies yourself)\n\nWhat's disappearing from these lists:\n→ Raw proxy providers with no scraping layer\n→ Tools that require significant coding knowledge\n→ Solutions without built-in bot detection handling\n\nThe market is sending a clear message:\n\nNobody wants to buy proxies and build a scraper. They want to describe the data they need and receive it clean, structured, and compliant.\n\nThe tools that understand this are growing. The ones that don't are becoming invisible in these comparison articles — which is where most buying decisions start.\n\n#WebScraping #DataTools #DataCollection",
+    "post_ru": "Списки «5 лучших инструментов для скрейпинга в 2026» продолжают выходить. И рассказывают историю о направлении индустрии.\n\nКаждый год акценты смещаются:\n\n2022: скорость, цена за запрос, размер прокси-пула\n2024: JS-рендеринг, обход анти-ботов, простота API\n2026: AI-интеграция, структурированный вывод, комплаенс\n\nЭволюция очевидна: скрейпинг-инструменты становятся платформами доставки данных.\n\nОбщее у «лучших инструментов» 2026:\n→ Встроенный AI для экстракции (без ручных селекторов)\n→ Структурированные форматы вывода\n→ Комплаенс-документация включена\n→ Управляемая инфраструктура\n\nЧто исчезает из списков:\n→ Сырые прокси-провайдеры без скрейпинг-слоя\n→ Инструменты, требующие серьёзного кодинга\n→ Решения без обработки бот-детекции\n\nРынок посылает ясный сигнал: никто не хочет покупать прокси и строить скрейпер. Хотят описать нужные данные и получить их чистыми, структурированными, комплаентными.\n\n#WebScraping #DataTools #DataCollection"
+  },
+  {
+    "title": "Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion",
+    "url": "https://github.com/sleep3r/mtproto.zig",
+    "normalized_url": "https://github.com/sleep3r/mtproto.zig",
+    "url_hash": "f67cdf46f4a09329",
+    "published": "2026-04-03T21:42:09+00:00",
+    "summary": "Hey everyone. I built an MTProto proxy for Telegram aimed at bypassing active DPI censorship like the Russian TSPU. I chose Zig because it's perfect for writing fast network daemons and makes it incredibly easy to port low-level C bypass techniques like TCP desync and packet fragmentation. Would love to get some feedback or contributors! Comments URL: https://news.ycombinator.com/item?id=47632692 Points: 23 # Comments: 14",
+    "source_name": "HN Proxy",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 5.0,
+      "hs": 4.5,
+      "am": 6.0,
+      "rf": 5,
+      "fr": 5
+    },
+    "editorial_override": "High-performance Telegram proxy with DPI evasion — proxy infrastructure innovation",
+    "post_en": "A high-performance Telegram proxy written in Zig that evades Russian government-level DPI. Built by one developer.\n\nMtproto.zig implements the MTProto proxy protocol with TCP desync and packet fragmentation — techniques specifically designed to bypass the Russian TSPU (technical surveillance system).\n\nThe technical choices reveal infrastructure priorities:\n→ Zig chosen for C-level performance without C's memory safety issues\n→ TCP desync makes packet inspection return ambiguous results\n→ Packet fragmentation splits protocol signatures across multiple frames\n→ The entire system runs as a lightweight daemon — minimal resource usage\n\nWhy a Telegram proxy matters for data infrastructure:\n\nTelegram is one of the largest platforms for real-time information flow — particularly in regions where traditional media is restricted. Russia, Iran, Belarus — millions of users rely on proxies to access it.\n\nThe same DPI bypass techniques apply broadly:\n1. Any protocol can be fragmented to evade inspection\n2. TCP-level manipulation is invisible to application-layer DPI\n3. The cat-and-mouse between DPI and circumvention drives proxy innovation\n\nEvery technique built for censorship circumvention eventually becomes a tool in the broader proxy/infrastructure toolkit. Today's Telegram proxy techniques are tomorrow's general-purpose DPI evasion.\n\nInnovation in internet freedom tools feeds directly into data infrastructure innovation. The connection is rarely discussed but always present.\n\n#Proxy #Censorship #Infrastructure",
+    "post_ru": "Высокопроизводительный прокси для Telegram на Zig, обходящий DPI российского правительства. Создан одним разработчиком.\n\nMtproto.zig реализует MTProto-протокол с TCP desync и фрагментацией пакетов — техниками для обхода ТСПУ.\n\nТехнические решения:\n→ Zig — производительность уровня C без проблем безопасности памяти\n→ TCP desync делает результаты инспекции пакетов неоднозначными\n→ Фрагментация разбивает сигнатуры протокола на несколько фреймов\n→ Работает как лёгкий демон с минимальным потреблением ресурсов\n\nПочему прокси для Telegram важен для data-инфраструктуры:\n\nTelegram — одна из крупнейших платформ реального информационного потока в регионах с ограниченными СМИ. Россия, Иран, Беларусь — миллионы пользователей зависят от прокси.\n\nТе же техники DPI-обхода применимы широко:\n1. Любой протокол можно фрагментировать для обхода инспекции\n2. TCP-манипуляции невидимы для DPI уровня приложений\n3. Гонка DPI vs обход двигает прокси-инновации\n\nИнновации в инструментах интернет-свободы напрямую питают data-инфраструктурные инновации.\n\n#Proxy #Censorship #Infrastructure"
+  },
+  {
+    "title": "When Virality Is the Message: The New Age of AI Propaganda",
+    "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
+    "normalized_url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda",
+    "url_hash": "ba8610b4a2775e6e",
+    "published": "2026-04-06T14:16:35+00:00",
+    "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 11 # Comments: 7",
+    "source_name": "HN Front Page",
+    "feed_tier": "tier1_must_read",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 4.5,
+      "hs": 5.5,
+      "am": 3.5,
+      "rf": 3,
+      "fr": 10
+    },
+    "editorial_override": "AI propaganda and virality — AI-generated content trust crisis",
+    "post_en": "TIME Magazine: \"When Virality Is the Message: The New Age of AI Propaganda.\"\n\nThe article documents how AI-generated propaganda has evolved from crude deepfakes to sophisticated, targeted content that's indistinguishable from authentic human posts.\n\nThe new propaganda playbook:\n→ AI generates thousands of unique variations of the same message\n→ Each variation is optimized for a specific platform and audience\n→ Content is distributed through networks of AI-controlled accounts\n→ Engagement metrics are manipulated to trigger algorithmic amplification\n\nThe scale problem:\n• One operator can now produce more propaganda than entire Cold War-era state agencies\n• Detection lags creation by weeks or months\n• Platforms are overwhelmed — moderation can't keep pace\n\nFor the data industry, this creates a trust crisis at every level:\n\n1. Social media data: How much is authentic? How much is AI-generated propaganda?\n2. Web content: AI-generated articles are flooding news sites and blogs\n3. Reviews and ratings: Synthetic manipulation is becoming undetectable\n4. Training data: AI models trained on AI propaganda perpetuate the cycle\n\nThe value proposition of data infrastructure is shifting from \"collect everything\" to \"verify everything.\"\n\nAny data pipeline that doesn't include provenance verification is delivering contaminated output. And in 2026, the contamination is deliberate, sophisticated, and growing.\n\n#AIPropaganda #DataQuality #ContentAuthenticity",
+    "post_ru": "TIME: «Когда виральность — это послание: новая эра AI-пропаганды.»\n\nAI-пропаганда эволюционировала от грубых дипфейков до таргетированного контента, неотличимого от настоящих постов.\n\nНовый плейбук:\n→ AI генерирует тысячи уникальных вариаций одного послания\n→ Каждая оптимизирована под платформу и аудиторию\n→ Распространение через сети AI-контролируемых аккаунтов\n→ Метрики вовлечённости манипулируются для алгоритмического усиления\n\nМасштаб: один оператор производит больше пропаганды, чем целые госагентства эпохи Холодной войны.\n\nДля data-индустрии — кризис доверия на каждом уровне:\n1. Данные соцсетей: сколько из них аутентичные?\n2. Веб-контент: AI-статьи заливают новостные сайты\n3. Отзывы и рейтинги: синтетическая манипуляция неотличима\n4. Training data: модели, обученные на AI-пропаганде, увековечивают цикл\n\nValue proposition data-инфраструктуры сдвигается от «собери всё» к «верифицируй всё».\n\nПайплайн без верификации провенанса поставляет загрязнённый output. В 2026 загрязнение — намеренное, изощрённое и растущее.\n\n#AIPropaganda #DataQuality #ContentAuthenticity"
+  },
+  {
+    "title": "Data DAOs for AI Training: Governance Models",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlVTaVdRbmc4SC1RYnE2dzhZTE9oVmtBU0lIdjBOVzNxRm9teG5uRUswTThheG80VlhoYnk1QU5QWGEzdldHbFJYUzk3cndaUHd0TWlLdXhPZlpPZnlYTDJCVm5IZ2xlME1kQzI1RTEtNDZMQ2dYSG5qV0swUnBfQVgza2FJYnkwUUdLbjRVbUgzUWhkb281M2pGeEM5d0tEUFIzRHdhaXdlNld4aTA1dTJ5ZnJGQQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlVTaVdRbmc4SC1RYnE2dzhZTE9oVmtBU0lIdjBOVzNxRm9teG5uRUswTThheG80VlhoYnk1QU5QWGEzdldHbFJYUzk3cndaUHd0TWlLdXhPZlpPZnlYTDJCVm5IZ2xlME1kQzI1RTEtNDZMQ2dYSG5qV0swUnBfQVgza2FJYnkwUUdLbjRVbUgzUWhkb281M2pGeEM5d0tEUFIzRHdhaXdlNld4aTA1dTJ5ZnJGQQ?oc=5",
+    "url_hash": "dfff1f0c894b75e8",
+    "published": "2026-04-06T09:01:52+00:00",
+    "summary": "Data DAOs for AI Training: Governance Models &nbsp;&nbsp; blockchain-council.org",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 4.5,
+      "hs": 4.5,
+      "am": 3.8,
+      "rf": 4,
+      "fr": 10
+    },
+    "editorial_override": "Data DAOs for AI training governance — decentralized data ownership model",
+    "post_en": "Data DAOs for AI training. The concept sounds like Web3 hype — but the governance models are solving a real problem.\n\nThe premise: decentralized organizations that collectively own, license, and profit from training data used by AI companies.\n\nWhy this keeps gaining traction:\n\nThe current data economy is broken:\n→ Individuals create data, platforms capture it, AI companies train on it\n→ The value chain flows one direction — away from creators\n→ No mechanism exists for collective negotiation\n→ Individual opt-outs are meaningless at scale\n\nData DAOs propose:\n1. Collective ownership: Members pool data assets into a shared governance structure\n2. Licensing control: The DAO decides which AI companies can access the data, at what price\n3. Revenue distribution: Training data licensing fees flow back to contributors\n4. Transparency: On-chain records of who accessed what data, when, and why\n\nThe practical challenges are significant:\n• Data verification and quality control at scale\n• Legal recognition of DAO-based data licensing\n• Competition with \"free\" scraped alternatives\n• Technical infrastructure for provenance tracking\n\nBut the trajectory is clear: data ownership is collectivizing. Whether through DAOs, publisher cooperatives, or union-style organizations, individual data creators are organizing.\n\nFor data infrastructure: the shift from \"collect and sell\" to \"license and verify\" is accelerating. The next decade belongs to consent-based data infrastructure.\n\n#DataDAO #AITraining #DataGovernance",
+    "post_ru": "Data DAO для обучения AI. Звучит как Web3-хайп — но модели governance решают реальную проблему.\n\nКонцепция: децентрализованные организации, коллективно владеющие, лицензирующие и получающие прибыль от training data для AI.\n\nТекущая data-экономика сломана:\n→ Люди создают данные, платформы захватывают, AI-компании обучаются\n→ Цепочка ценности течёт в одну сторону — от создателей\n→ Нет механизма коллективных переговоров\n→ Индивидуальный opt-out бессмысленен в масштабе\n\nData DAO предлагают:\n1. Коллективная собственность: участники объединяют data assets\n2. Контроль лицензирования: DAO решает, кто получает доступ и по какой цене\n3. Распределение дохода: лицензионные платежи возвращаются контрибьюторам\n4. Прозрачность: on-chain записи доступа к данным\n\nПрактические вызовы значительны: верификация качества, правовое признание, конкуренция с «бесплатными» скрейпленными альтернативами.\n\nНо траектория ясна: собственность на данные коллективизируется. Через DAO, кооперативы издателей или профсоюзные структуры.\n\nСледующее десятилетие принадлежит consent-based data-инфраструктуре.\n\n#DataDAO #AITraining #DataGovernance"
+  },
+  {
+    "title": "AI agents pay USDC for API data via x402 micropayments – no API keys",
+    "url": "https://x402.aigregator.com",
+    "normalized_url": "https://x402.aigregator.com",
+    "url_hash": "40bff7988ea3f777",
+    "published": "2026-04-05T16:34:17+00:00",
+    "summary": "Article URL: https://x402.aigregator.com Comments URL: https://news.ycombinator.com/item?id=47651088 Points: 4 # Comments: 0",
+    "source_name": "HN Health Tracking",
+    "feed_tier": "tier_biohacking",
+    "competitor": null,
+    "score": 8.0,
+    "score_breakdown": {
+      "vf": 6.0,
+      "hs": 4.5,
+      "am": 3.8,
+      "rf": 4,
+      "fr": 8
+    },
+    "editorial_override": "AI agents paying crypto for API data — machine-to-machine data economy",
+    "post_en": "AI agents are now paying for API data with cryptocurrency. No API keys. No accounts. Just micropayments.\n\nx402 is a protocol that lets AI agents pay USDC for data access in real-time. One HTTP request, one payment, one response.\n\nHow it works:\n→ AI agent sends a request with a payment attachment (USDC on-chain)\n→ The data provider verifies payment and returns the data\n→ No API key management, no account creation, no billing cycles\n→ Each request is independently paid and authenticated\n\nWhy this is more than a crypto experiment:\n\nAI agents have a fundamental problem: they need data from thousands of sources, but managing API keys and accounts for each one is a bottleneck.\n\nx402 removes that bottleneck entirely:\n1. An agent can access ANY participating data source instantly\n2. Payment = authentication (no signup flows)\n3. Costs are granular — pay per request, not per month\n4. The agent manages its own budget autonomously\n\nThe implications for data infrastructure:\n\nWe're watching the first protocol designed specifically for machine-to-machine data commerce. Not humans buying API access. Machines paying machines for data.\n\nThis is what the \"agentic web\" actually looks like: AI agents with wallets, autonomously discovering data sources, paying for access, and integrating the results — all without human involvement.\n\nThe data economy is developing its own financial infrastructure. And it looks nothing like what came before.\n\n#AIAgents #DataEconomy #CryptoPayments",
+    "post_ru": "AI-агенты теперь платят за данные API криптовалютой. Без API-ключей. Без аккаунтов. Только микроплатежи.\n\nx402 — протокол, позволяющий AI-агентам платить USDC за доступ к данным в реальном времени.\n\nКак работает:\n→ AI-агент отправляет запрос с платёжным вложением (USDC on-chain)\n→ Провайдер данных верифицирует платёж и возвращает данные\n→ Без управления API-ключами, создания аккаунтов, биллинговых циклов\n→ Каждый запрос оплачен и аутентифицирован независимо\n\nAI-агенты нуждаются в данных из тысяч источников, но управление API-ключами для каждого — бутылочное горлышко.\n\nx402 убирает это:\n1. Агент получает доступ к ЛЮБОМУ участвующему источнику мгновенно\n2. Платёж = аутентификация\n3. Гранулярные расходы — за запрос, не за месяц\n4. Агент управляет бюджетом автономно\n\nПервый протокол для machine-to-machine data commerce. Не люди покупают API-доступ. Машины платят машинам за данные.\n\nТак выглядит «агентный веб»: AI-агенты с кошельками, автономно находящие источники данных, платящие за доступ, интегрирующие результаты — без участия человека.\n\nData-экономика развивает собственную финансовую инфраструктуру.\n\n#AIAgents #DataEconomy #CryptoPayments"
+  }
+]
