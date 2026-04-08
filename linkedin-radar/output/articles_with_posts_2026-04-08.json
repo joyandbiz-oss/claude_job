@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Cloudflare and GoDaddy Ink Partnership to Rein in AI Agents Reshaping Web Traffic",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUtxc1duZmcydVN6Skd1VHBzOWp2Vl9GR2N6bzJqOTFJRnpseEplaTVNRnE4SHZ6dE10cXVYT3FkSDYyXzRDU3lFdmlELTVKOFJmNE1nNW0xUmt5ZVpIRjJ6LUxxSUxqZmN5R2RMUzFJeW81bVJtU1lvTmdPcUtkNVVaOWthLTZQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUtxc1duZmcydVN6Skd1VHBzOWp2Vl9GR2N6bzJqOTFJRnpseEplaTVNRnE4SHZ6dE10cXVYT3FkSDYyXzRDU3lFdmlELTVKOFJmNE1nNW0xUmt5ZVpIRjJ6LUxxSUxqZmN5R2RMUzFJeW81bVJtU1lvTmdPcUtkNVVaOWthLTZQ?oc=5",
+    "url_hash": "1cecddaaf7517e9c",
+    "published": "2026-04-07T13:00:00+00:00",
+    "summary": "Cloudflare and GoDaddy Ink Partnership to Rein in AI Agents Reshaping Web Traffic &nbsp;&nbsp; ADWEEK",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.5,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4,
+      "am": 5.3,
+      "rf": 5.5,
+      "fr": 8
+    },
+    "editorial_override": "Cloudflare + GoDaddy partnership to control AI agent traffic — two infrastructure giants",
+    "post_en": "~40% of the internet just got new rules for AI agents.\n\nCloudflare and GoDaddy signed a partnership to jointly manage AI agent traffic. Cloudflare protects roughly 20% of all websites. GoDaddy hosts roughly 20%. Together, their decisions about AI access affect nearly half the web.\n\nWhat the partnership means in practice:\n→ Coordinated AI agent identification across both platforms\n→ Shared intelligence on bot behavior patterns\n→ Unified policy framework for allowing or blocking automated access\n→ Website owners get centralized controls they didn't have before\n\nBut here's what most coverage is missing:\n\nThis isn't a technical upgrade. It's a governance shift.\n\nAI agent access to the web is no longer primarily a technical problem. It's a business partnership problem. Which AI companies have relationships with Cloudflare and GoDaddy? Which ones don't?\n\nThe new hierarchy of web access:\n1. Partnered AI agents → authorized, identified, allowed\n2. Verified AI agents → tolerated, monitored, rate-limited\n3. Unknown AI agents → challenged, throttled, or blocked\n4. Unidentified bots → blocked by default\n\nFor data infrastructure providers, the implications are direct:\n\nThe era of \"just route through a proxy and collect data\" is ending on 40% of the internet simultaneously. What replaces it is authenticated, partnership-based access.\n\nThe companies building relationships with infrastructure gatekeepers will thrive. The ones relying solely on technical circumvention will face an increasingly hostile web.\n\nAccess is becoming a relationship, not a capability.\n\n#Cloudflare #BotTraffic #DataInfrastructure",
+    "post_ru": "~40% интернета только что получили новые правила для AI-агентов.\n\nCloudflare и GoDaddy подписали партнёрство по совместному управлению трафиком AI-агентов. Cloudflare защищает ~20% всех сайтов. GoDaddy хостит ~20%. Вместе их решения о доступе AI затрагивают почти половину веба.\n\nНа практике:\n→ Координированная идентификация AI-агентов на обеих платформах\n→ Обмен разведданными о поведении ботов\n→ Единая политика разрешения/блокировки автоматического доступа\n→ Владельцы сайтов получают централизованное управление\n\nЧто упускает большинство:\n\nЭто не техническое обновление. Это сдвиг в governance.\n\nДоступ AI-агентов к вебу — больше не техническая проблема. Это проблема бизнес-партнёрств. Какие AI-компании имеют отношения с Cloudflare и GoDaddy? Какие нет?\n\nНовая иерархия доступа:\n1. Партнёрские AI-агенты → авторизованы, разрешены\n2. Верифицированные → толерируются, мониторятся\n3. Неизвестные → challenged, throttled\n4. Неидентифицированные боты → заблокированы по умолчанию\n\nЭра «просто маршрутизируй через прокси и собирай данные» заканчивается на 40% интернета одновременно. На замену — аутентифицированный доступ через партнёрства.\n\nДоступ становится отношением, а не технической способностью.\n\n#Cloudflare #BotTraffic #DataInfrastructure"
+  },
+  {
+    "title": "Cloudflare and ETH Zurich say AI bots are breaking the web's cache layer",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGJabk5QNVE2UmxjU2dYUmxCWHdxd0I4eDJpcHpWZjF4bTUxcVlnZWxDdkJMd21ScTd0UjNsUVJaWUgtelQzWkgzNkR6WDYxXzJPNHF4anEweHd1OXNGYlliQzRmR0RZY0wtdS1tQTlONHVjbXJtQUhBdVZPYnVYRFZocDRobkxkb256UWF5SHlVQkU?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGJabk5QNVE2UmxjU2dYUmxCWHdxd0I4eDJpcHpWZjF4bTUxcVlnZWxDdkJMd21ScTd0UjNsUVJaWUgtelQzWkgzNkR6WDYxXzJPNHF4anEweHd1OXNGYlliQzRmR0RZY0wtdS1tQTlONHVjbXJtQUhBdVZPYnVYRFZocDRobkxkb256UWF5SHlVQkU?oc=5",
+    "url_hash": "d270d2cb101c3781",
+    "published": "2026-04-06T14:27:53+00:00",
+    "summary": "Cloudflare and ETH Zurich say AI bots are breaking the web's cache layer &nbsp;&nbsp; PPC Land",
+    "source_name": "News: Bot Traffic",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.3,
+    "score_breakdown": {
+      "vf": 5,
+      "hs": 5.5,
+      "am": 4.5,
+      "rf": 5,
+      "fr": 6.5
+    },
+    "editorial_override": "ETH Zurich research: AI bots are breaking the web cache layer — data-backed infrastructure impact",
+    "post_en": "Everyone talks about bot traffic volume. Nobody talks about what bots do to your infrastructure costs.\n\nCloudflare and ETH Zurich just published research showing AI bots are breaking the web's cache layer. And the financial impact is staggering.\n\nHow web caching is supposed to work:\n→ Human visitors request popular pages → CDN serves cached copies\n→ Cache hit ratio: typically 85-95% for well-configured sites\n→ Origin servers handle only 5-15% of requests\n→ This is what makes the modern web affordable\n\nHow AI bots destroy this model:\n→ Bots crawl EVERY page, not just popular ones\n→ They request pages at rates that exceed cache TTL windows\n→ They ignore conditional requests (If-Modified-Since, ETags)\n→ Each bot request hits the origin server directly\n\nThe hidden math:\n• A site serving 1M human requests/day pays for ~100K origin hits\n• Add AI bot traffic, and origin hits jump to 500K-800K\n• That's a 5-8x increase in compute and bandwidth costs\n• Most website operators don't even realize WHY their bills spiked\n\nETH Zurich's research quantifies what infrastructure operators have suspected: AI bots aren't just consuming bandwidth. They're systematically degrading the caching infrastructure that makes the web economically viable.\n\nThe web wasn't designed for millions of machines reading every page every day. And the bill is coming due.\n\nFor data collection: every request that bypasses cache and hits origin creates cost for the target. Sustainable data access means respecting the infrastructure you depend on.\n\n#WebInfrastructure #BotTraffic #Cloudflare",
+    "post_ru": "Все говорят об объёме бот-трафика. Никто не говорит о том, что боты делают с расходами на инфраструктуру.\n\nCloudflare и ETH Zurich опубликовали исследование: AI-боты ломают кеш-слой веба. Финансовые последствия — ошеломляющие.\n\nКак должно работать кеширование:\n→ Люди запрашивают популярные страницы → CDN отдаёт кешированные копии\n→ Cache hit ratio: обычно 85-95%\n→ Origin-серверы обрабатывают только 5-15% запросов\n→ Это делает современный веб доступным по цене\n\nКак AI-боты разрушают эту модель:\n→ Краулят КАЖДУЮ страницу, не только популярные\n→ Запрашивают со скоростью, превышающей TTL кеша\n→ Игнорируют условные запросы (If-Modified-Since, ETags)\n→ Каждый запрос бьёт по origin-серверу напрямую\n\nСкрытая математика:\n• Сайт с 1M человеческих запросов/день платит за ~100K origin hits\n• AI-боты: origin hits прыгают до 500K-800K\n• 5-8x рост compute и bandwidth расходов\n• Большинство операторов даже не понимают, ПОЧЕМУ счета выросли\n\nETH Zurich количественно подтвердил: AI-боты не просто потребляют bandwidth. Они системно деградируют инфраструктуру кеширования, делающую веб экономически жизнеспособным.\n\nВеб не был спроектирован для миллионов машин, читающих каждую страницу ежедневно. Счёт приходит.\n\n#WebInfrastructure #BotTraffic #Cloudflare"
+  },
+  {
+    "title": "Apple Sued for Allegedly Scraping YouTube Videos to Train AI",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tN1hEX0FCUzVuUU5acDc1ZmN3Zk8wUzNqLTgyYWxJbWtPQ09BdXFUSm9ra244RkZmWVY0dWZhUGREOGZNS3JLWk9GUdIBQkFVX3lxTE9Zd0JvUTNWNlVtNXJFXzFsazMxMlBwSzN3bkpacm9qVGRhZjQ0MmM2R0dIUE9SZEZPUUZSRWN6a2xnUQ?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tN1hEX0FCUzVuUU5acDc1ZmN3Zk8wUzNqLTgyYWxJbWtPQ09BdXFUSm9ra244RkZmWVY0dWZhUGREOGZNS3JLWk9GUdIBQkFVX3lxTE9Zd0JvUTNWNlVtNXJFXzFsazMxMlBwSzN3bkpacm9qVGRhZjQ0MmM2R0dIUE9SZEZPUUZSRWN6a2xnUQ?oc=5",
+    "url_hash": "ea8b2396768f374a",
+    "published": "2026-04-08T02:05:00+00:00",
+    "summary": "Apple Sued for Allegedly Scraping YouTube Videos to Train AI &nbsp;&nbsp; VOI.id",
+    "source_name": "News: AI Training Data",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.1,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4.5,
+      "am": 4.5,
+      "rf": 4,
+      "fr": 9
+    },
+    "editorial_override": "Apple sued for scraping YouTube videos for AI training — major tech scraping lawsuit",
+    "post_en": "A $3 trillion company got caught scraping YouTube videos to train its AI. The same behavior that gets startups sued out of existence.\n\nApple is now facing a lawsuit from YouTubers who allege their videos were scraped without consent to train Apple's AI models.\n\nThe allegations:\n→ Apple used a dataset called Panda-70M containing millions of YouTube videos\n→ Content creators were never asked for permission\n→ The training data powered Apple Intelligence features\n→ YouTube's Terms of Service explicitly prohibit automated scraping\n\nThe double standard is impossible to ignore:\n\nWhen a startup scrapes data: cease-and-desist, lawsuit, shutdown.\nWhen a $3T company scrapes data: it becomes a \"dataset\" with an academic name.\n\nBut this lawsuit could reshape the entire AI training data landscape:\n\n1. If Apple loses, every major AI company's training data is legally vulnerable\n2. The \"fair use\" defense for AI training gets tested at the highest stakes\n3. Content creators gain legal precedent for compensation\n4. The cost of \"just scrape it\" goes from $0 to potentially billions\n\nFor data infrastructure:\n\nThe era of consequence-free web scraping for AI training is ending. The question isn't whether scraping will be regulated — it's how much it will cost to do it legally.\n\nCompanies building compliant data pipelines aren't being cautious. They're building the only infrastructure that survives the lawsuit era.\n\n#AITraining #DataRights #WebScraping",
+    "post_ru": "Компания стоимостью $3 триллиона попалась на скрейпинге видео YouTube для обучения AI. То самое поведение, за которое стартапы засуживают до закрытия.\n\nApple столкнулась с иском от ютуберов: их видео скрейпили без согласия для обучения AI-моделей.\n\nОбвинения:\n→ Apple использовала датасет Panda-70M с миллионами видео YouTube\n→ У авторов контента не спрашивали разрешения\n→ Обучающие данные питали Apple Intelligence\n→ ToS YouTube явно запрещают автоматический скрейпинг\n\nДвойной стандарт невозможно игнорировать:\n\nКогда стартап скрейпит: cease-and-desist, иск, закрытие.\nКогда $3T компания скрейпит: это становится «датасетом» с академическим названием.\n\nЭтот иск может перестроить ландшафт AI training data:\n1. Если Apple проиграет — обучающие данные каждой AI-компании юридически уязвимы\n2. Защита «fair use» для AI-обучения тестируется на максимальных ставках\n3. Авторы контента получают прецедент для компенсации\n4. Стоимость «просто скрейпни» уходит от $0 к потенциальным миллиардам\n\nЭра безнаказанного скрейпинга для обучения AI заканчивается. Вопрос не В ТОМ, будет ли скрейпинг регулироваться — а СКОЛЬКО будет стоить делать его легально.\n\n#AITraining #DataRights #WebScraping"
+  },
+  {
+    "title": "Bright Data vs. Decodo: Which proxy solution comes out on top?",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUR6S3FzWW1HMlhXbHV2Tzc0eE1kNkJLQk5Fc2NCck9ObUJwd3V5V3gwV3hranpzb1ltWkx3dFNwcWs0c1V1aWxZT0RMVXlncDkzbUdfam1vWDIyTS1uNTNETTRKczhpajVkMnFlbjJWY1diTmh2N3VXQ1VGb2V0NDV2eWdEbTl4V0xFSHhjekZOOFRka1pNLXQ4N3RHbzZRZlJTeGFqUV84YVdBV2c?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUR6S3FzWW1HMlhXbHV2Tzc0eE1kNkJLQk5Fc2NCck9ObUJwd3V5V3gwV3hranpzb1ltWkx3dFNwcWs0c1V1aWxZT0RMVXlncDkzbUdfam1vWDIyTS1uNTNETTRKczhpajVkMnFlbjJWY1diTmh2N3VXQ1VGb2V0NDV2eWdEbTl4V0xFSHhjekZOOFRka1pNLXQ4N3RHbzZRZlJTeGFqUV84YVdBV2c?oc=5",
+    "url_hash": "d2825057ab1d9e78",
+    "published": "2026-04-05T17:40:03+00:00",
+    "summary": "Bright Data vs. Decodo: Which proxy solution comes out on top? &nbsp;&nbsp; MSN",
+    "source_name": "News: Bright Data",
+    "feed_tier": "competitor_watch",
+    "competitor": "Bright Data",
+    "score": 9.0,
+    "score_breakdown": {
+      "vf": 5.5,
+      "hs": 4.5,
+      "am": 8.0,
+      "rf": 6,
+      "fr": 5
+    },
+    "editorial_override": "Bright Data vs Decodo direct competitor proxy comparison — competitive intelligence",
+    "post_en": "Another Bright Data vs. Decodo comparison just dropped. But the real story isn't who wins — it's what these comparisons stopped comparing.\n\nThree years ago, proxy comparisons measured:\n• IP pool size\n• Price per GB\n• Location coverage\n• Connection speed\n\nThe 2026 comparison measures:\n• AI-powered unblocking capabilities\n• Structured data delivery formats\n• Compliance and legal documentation\n• Pre-built scraping workflows\n\nBright Data's current positioning:\n→ Full-stack data platform with Web Unlocker, SERP API, ready-made datasets\n→ Enterprise contracts with compliance guarantees\n→ Pricing reflects \"data delivery,\" not \"proxy access\"\n→ Positioning as a data company that happens to have proxies\n\nDecodo's current positioning (formerly Smartproxy):\n→ Developer-first experience with clean APIs\n→ The rebrand from Smartproxy signals \"we're more than proxies\"\n→ Competitive pricing targeting mid-market\n→ Building toward end-to-end scraping solutions\n\nThe pattern across EVERY proxy comparison in 2026:\n\nNobody is comparing proxies anymore. They're comparing data platforms.\n\nThe raw proxy layer has been commoditized. Residential IPs, datacenter IPs, mobile IPs — these are table stakes. The differentiation battle is entirely about what happens AFTER the proxy connects.\n\nThe companies still selling \"fast, cheap proxies\" aren't in these comparisons anymore. And if you're not in the comparisons, you're not in the consideration set.\n\n#ProxyIndustry #CompetitorAnalysis #DataInfrastructure",
+    "post_ru": "Ещё одно сравнение Bright Data vs. Decodo. Но настоящая история не в том, кто побеждает — а в том, что эти сравнения перестали сравнивать.\n\nТри года назад прокси-сравнения измеряли:\n• Размер IP-пула, цену за GB, покрытие локаций, скорость\n\nСравнение 2026 измеряет:\n• AI-powered unblocking\n• Форматы доставки структурированных данных\n• Комплаенс и юридическую документацию\n• Готовые скрейпинг-workflow\n\nBright Data: полный data-стек, enterprise-контракты, позиционирование как data-компания, у которой есть прокси.\n\nDecodo (бывший Smartproxy): developer-first, ребрендинг = «мы больше, чем прокси», конкурентные цены, движение к end-to-end решениям.\n\nПаттерн КАЖДОГО прокси-сравнения 2026: никто больше не сравнивает прокси. Сравнивают data-платформы.\n\nСырой прокси-слой коммодитизирован. Residential, datacenter, mobile IP — table stakes. Дифференциация полностью в том, что происходит ПОСЛЕ подключения прокси.\n\nКомпании, продающие «быстрые дешёвые прокси», уже не попадают в сравнения. А если не в сравнениях — не в consideration set.\n\n#ProxyIndustry #CompetitorAnalysis #DataInfrastructure"
+  },
+  {
+    "title": "LinkedIn faces privacy claims over anti-scraping measures in US lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3pSenBZOVE1VU85MlZhSldBUHJZRDRQbmE3VmdmXzhBdDFtdEE5czBPRFdIbTRnYXBodm80UTVteFVuaWxCRU1tT1lXdy1WQ1drcWpxTmVMS0M2Z25UOXNPU1FDWTlrdi1UY2dqckswZlY3eXY1RUphaXYwRHBVZmNRc0JHM3Rmdzk3LWRZaVRDd0Y2TUxOMlpjTFdiN1dzeTJNQjZFYXJJRWJlMmfSAVpBVV95cUxPaWx1SXNrdEVxUHFkbE5PYXhZeG1ncXU0UHdNLVl6LWFqcDdzUW9CTTlrbEU4VUVQZFhfOFF4SURvekR5TTFBeTRSUmJzLU4tb3hwNUlUWVVxSnc?oc=5",
+    "normalized_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3pSenBZOVE1VU85MlZhSldBUHJZRDRQbmE3VmdmXzhBdDFtdEE5czBPRFdIbTRnYXBodm80UTVteFVuaWxCRU1tT1lXdy1WQ1drcWpxTmVMS0M2Z25UOXNPU1FDWTlrdi1UY2dqckswZlY3eXY1RUphaXYwRHBVZmNRc0JHM3Rmdzk3LWRZaVRDd0Y2TUxOMlpjTFdiN1dzeTJNQjZFYXJJRWJlMmfSAVpBVV95cUxPaWx1SXNrdEVxUHFkbE5PYXhZeG1ncXU0UHdNLVl6LWFqcDdzUW9CTTlrbEU4VUVQZFhfOFF4SURvekR5TTFBeTRSUmJzLU4tb3hwNUlUWVVxSnc?oc=5",
+    "url_hash": "716bbbe7d94c5878",
+    "published": "2026-04-07T19:36:00+00:00",
+    "summary": "LinkedIn faces privacy claims over anti-scraping measures in US lawsuit &nbsp;&nbsp; MLex",
+    "source_name": "News: Scraping Lawsuits",
+    "feed_tier": "tier2_industry",
+    "competitor": null,
+    "score": 9.0,
+    "score_breakdown": {
+      "vf": 4,
+      "hs": 4.5,
+      "am": 5.5,
+      "rf": 4,
+      "fr": 8
+    },
+    "editorial_override": "LinkedIn privacy claims over anti-scraping measures — ironic twist in scraping debate",
+    "post_en": "LinkedIn is being sued for privacy violations. Caused by its anti-scraping measures.\n\nRead that again. The tool designed to PROTECT user data is now accused of VIOLATING user privacy.\n\nThe lawsuit alleges:\n→ LinkedIn's anti-scraping technology collects excessive data about users' browsing behavior\n→ The monitoring systems track user activity beyond what's necessary for bot detection\n→ Data gathered for \"security purposes\" is being used for other business objectives\n→ Users weren't adequately informed about the scope of surveillance\n\nThe paradox at the heart of bot detection:\n\nTo identify bots, you need to deeply analyze how EVERY visitor behaves. Mouse movements, scroll patterns, typing speed, browser fingerprints, device signals.\n\nBut collecting all that behavioral data from HUMANS creates a privacy problem. You're surveilling everyone to catch the machines.\n\nThe implications are massive:\n\n1. Every anti-bot system collects behavioral data that may violate privacy laws\n2. Cloudflare's Turnstile, Akamai's Bot Manager, PerimeterX — all face the same legal exposure\n3. GDPR and CCPA require consent for behavioral tracking, even if the purpose is \"security\"\n4. The more sophisticated your bot detection, the more privacy risk you create\n\nThis is the defining tension of 2026: you can't have aggressive bot detection without invasive data collection. And you can't have invasive data collection without consent.\n\nThe companies that solve this paradox — effective bot detection with minimal data collection — will own the next era of web security.\n\n#Privacy #BotDetection #WebScraping",
+    "post_ru": "LinkedIn подан в суд за нарушение приватности. Вызванное его анти-скрейпинговыми мерами.\n\nПрочитайте ещё раз. Инструмент для ЗАЩИТЫ данных пользователей обвиняется в НАРУШЕНИИ приватности.\n\nИск утверждает:\n→ Анти-скрейпинг технология LinkedIn собирает избыточные данные о поведении пользователей\n→ Мониторинг отслеживает активность за пределами необходимого для бот-детекции\n→ Данные «для безопасности» используются для других бизнес-целей\n→ Пользователей не информировали о масштабе наблюдения\n\nПарадокс бот-детекции:\n\nЧтобы выявить ботов — нужно глубоко анализировать поведение КАЖДОГО посетителя. Мышь, скролл, скорость печати, фингерпринт браузера.\n\nНо сбор поведенческих данных ЛЮДЕЙ создаёт проблему приватности. Вы наблюдаете за всеми, чтобы поймать машины.\n\nПоследствия:\n1. Каждая анти-бот система собирает данные, потенциально нарушающие privacy laws\n2. Cloudflare Turnstile, Akamai Bot Manager — та же юридическая экспозиция\n3. GDPR и CCPA требуют согласия на behavioral tracking, даже для «безопасности»\n4. Чем сложнее бот-детекция — тем больше privacy-риск\n\nОпределяющее напряжение 2026: нельзя иметь агрессивную бот-детекцию без инвазивного сбора данных. И нельзя инвазивно собирать данные без согласия.\n\nКомпании, решающие этот парадокс, определят следующую эру веб-безопасности.\n\n#Privacy #BotDetection #WebScraping"
+  }
+]
