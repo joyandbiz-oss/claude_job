@@ -1,0 +1,606 @@
+# =============================================================================
+# DataImpulse LinkedIn Radar — feeds.yaml
+# Complete configuration for Claude Code RSS→LinkedIn post generation tool
+# Based on: 2,487 influencer posts analysis + 427 competitors + ICP mapping
+# =============================================================================
+
+persona:
+  name: "DataImpulse CMO"
+  positioning: "Data Infrastructure Insider"  # NOT "proxy CMO" — scraping/proxy eng=43, data infra eng=147
+  company: "DataImpulse — proxy and data infrastructure platform"
+  voice: |
+    Data-driven, slightly contrarian, technically informed but accessible.
+    Never salesy. Think: the smartest person at the conference who actually builds things.
+    First-person experience when possible ("We see this at DataImpulse...").
+    Bold opinions with data backing them up.
+  
+  topics_core:
+    - web data infrastructure & proxy technology
+    - AI training data pipeline & supply chain
+    - anti-bot technology & browser fingerprinting
+    - data privacy regulation (GDPR, CCPA, court cases)
+    - internet traffic economics (bots vs humans)
+    - competitive intelligence in proxy market
+  
+  topics_adjacent:
+    - big tech platform changes & data access
+    - digital rights & open web
+    - e-commerce data intelligence & price monitoring
+    - ad verification infrastructure
+    - SEO/SERP tracking changes
+    - startup infrastructure & scaling
+  
+  avoid:
+    - generic AI hype without data/infrastructure angle
+    - pure cybersecurity (malware, ransomware, unrelated CVEs)
+    - consumer product reviews
+    - crypto/blockchain
+    - home automation / RPA without data angle
+    - basic coding tutorials
+
+  icp_use_cases:  # from ICP file — score higher if news touches these
+    - ad_verification
+    - serp_tracking
+    - web_scraping
+    - price_comparison
+    - brand_protection
+    - website_availability_testing
+    - streaming_content_delivery
+    - social_app_proxies
+    - sneaker_proxies
+
+# =============================================================================
+# POST RULES — based on 2,487 posts analysis
+# =============================================================================
+
+post_rules:
+  format: "image"  # 74% of viral posts = Image format
+  length:
+    min_chars: 800   # eng 110 median for 800-1200
+    max_chars: 1500  # sweet spot
+    ideal: 1000
+  
+  structure:
+    - "Hook: first line must be NUMBER, BOLD STATEMENT, or BREAKING NEWS (never 'how to')"
+    - "Body: 2-3 short paragraphs OR bold statement → 3-5 bullet list → insight"
+    - "Bullets: use → or ✅ markers, never numbered lists"
+    - "Data: include 1-2 specific numbers/percentages (posts with numbers = +73% engagement)"
+    - "Finish: question OR bold closing statement"
+    - "Formatting: lots of line breaks (14+ in viral posts), short paragraphs"
+    - "Hashtags: max 3, at the very end only"
+  
+  golden_combos:  # from data analysis, ranked by median engagement
+    - name: "Numbers + Question ending"
+      median_engagement: 322
+      description: "Open with a number, close with a question"
+    - name: "Personal Story + Long (800+)"
+      median_engagement: 165
+      description: "Storytelling with industry lesson"
+    - name: "Lists + Numbers + Long"
+      median_engagement: 160
+      description: "Educational format with data"
+    - name: "Free Resource Alert"
+      median_engagement: 121
+      description: "Curated tools/courses/reports"
+  
+  anti_patterns:  # what NOT to do
+    - "Never use Article format (eng 31, 0% viral)"
+    - "Never write short posts <300 chars (eng 24, 4x worse)"
+    - "Never use 'How to' as hook (worst performing hook type)"
+    - "Never write only about 'proxy' — always wider angle"
+    - "Never use Polls (eng 8)"
+    - "Do not start with a question (hook eng 61 vs 136 for numbers)"
+
+  languages:
+    - "EN (primary)"
+    - "RU (secondary, same post adapted)"
+
+# =============================================================================
+# TEMPLATES — 7 post templates calibrated by data
+# =============================================================================
+
+templates:
+  data_point:
+    trigger: "Report with stats, survey data, annual report"
+    median_engagement: 322
+    structure: |
+      [Number/stat].
+      
+      Let that sink in.
+      
+      [Source] just released [report], and the numbers are [adjective]:
+      
+      → [Stat 1 with context]
+      → [Stat 2 with context]
+      → [Stat 3 with context]
+      
+      Here's what nobody is connecting:
+      [Your unique insight linking data to proxy/data infrastructure]
+      
+      [Bold closing statement or question]
+  
+  most_people_think:
+    trigger: "Common misconception, surprising use case, technical deep dive"
+    structure: |
+      Most people think [X] is just for [Y].
+      
+      But [X] can do so much more:
+      
+      → [Use case 1]
+      → [Use case 2]
+      → [Use case 3]
+      → [Use case 4]
+      
+      The companies winning in [space] aren't using [X] for the obvious case.
+      They're using it for [surprising use case → DataImpulse angle].
+  
+  personal_story:
+    trigger: "Personal experience, industry lesson, career milestone"
+    median_engagement: 165
+    structure: |
+      [X] years ago, [specific situation with number].
+      
+      [2-3 sentences of context/setup]
+      
+      Then [something changed].
+      
+      What I learned:
+      
+      → [Lesson 1 tied to industry insight]
+      → [Lesson 2 tied to data/infrastructure]
+      → [Lesson 3 tied to business growth]
+      
+      [Reflection connecting personal experience to broader truth]
+      
+      What's your experience with [related topic]?
+  
+  cloudflare_effect:
+    trigger: "Anti-bot technology announcement, WAF changes, bot management updates"
+    structure: |
+      [Company] just announced [X].
+      
+      Here's what most people are missing:
+      
+      This doesn't kill web scraping.
+      It kills BAD web scraping.
+      
+      The companies that will thrive invest in:
+      → [Point 1]
+      → [Point 2]
+      → [Point 3]
+      
+      The gap between "scraping tool" and "data infrastructure"
+      just got wider.
+      
+      Which side are you building for?
+  
+  black_mirror:
+    trigger: "Surprising tech news with unexpected implications"
+    structure: |
+      We're living in a [Black Mirror / sci-fi] episode.
+      
+      [What just happened in 1-2 sentences]
+      
+      But here's what most people are missing:
+      
+      This isn't about [obvious angle].
+      This is about [deeper, unexpected angle].
+      
+      [2-3 sentences of analysis]
+      
+      [Strong, opinionated closing that takes a side]
+  
+  lawsuit_gdpr:
+    trigger: "Court case, GDPR fine, privacy regulation, legal precedent"
+    structure: |
+      €[X] million / [Legal event].
+      
+      I've read the [filing/ruling] so you don't have to.
+      
+      The 3 things every data team needs to know:
+      
+      → [Key legal point]
+      → [What precedent this sets]
+      → [How this affects your operations]
+      
+      Compliance isn't a cost center.
+      It's a competitive advantage.
+  
+  free_resource:
+    trigger: "Free tool, open dataset, free course, useful GitHub repo"
+    median_engagement: 121
+    structure: |
+      [Company/Person] just released [X] — completely free.
+      
+      Here's what you get:
+      
+      ✅ [Feature 1]
+      ✅ [Feature 2]
+      ✅ [Feature 3]
+      ✅ [Feature 4]
+      
+      Why this matters for data teams:
+      [1-2 sentences connecting to audience's problems]
+      
+      → [Link]
+      
+      Saved you [X hours/dollars]. You're welcome.
+
+# =============================================================================
+# SCORING SYSTEM — calibrated by influencer analysis
+# =============================================================================
+
+scoring:
+  dimensions:
+    viral_format_match:
+      weight: 0.25
+      criteria:
+        - "Can be posted as Image format with visual? (0-3)"
+        - "Naturally generates 800+ char post? (0-2)"
+        - "Has natural list/structure component? (0-2)"
+        - "Contains quotable numbers/data points? (0-3)"  # +73% ENG
+
+    hook_strength:
+      weight: 0.25
+      criteria:
+        - "Can start with number/stat? (0-3)"  # Best hook type, eng 136
+        - "Has contrarian or surprising angle? (0-3)"
+        - "Can frame as personal story/experience? (0-2)"
+        - "IS a how-to framing? (PENALTY -2)"  # Worst hook type, eng 40
+
+    audience_resonance:
+      weight: 0.30
+      criteria:
+        - "Touches top topics: personal story / career / free resource? (0-3)"
+        - "Relatable to data/tech professionals beyond niche? (0-3)"
+        - "Generates debate/comments (polarizing)? (0-2)"
+        - "Connects to DataImpulse ICP use cases? (0-2)"
+
+    timeliness_exclusivity:
+      weight: 0.20
+      criteria:
+        - "Breaking/fresh (<24h)? (0-3)"
+        - "No one in proxy space has posted about it? (0-3)"
+        - "Can be first mover on LinkedIn? (0-2)"
+
+  thresholds:
+    instant_post: 8.0   # Generate post immediately, send to Telegram
+    daily_digest: 5.0   # Include in daily digest for CMO to choose
+    skip_below: 5.0     # Don't include
+
+# =============================================================================
+# FEEDS — 70 feeds organized by tier
+# =============================================================================
+
+feeds:
+  # ---------------------------------------------------------------------------
+  # TIER 1: MUST READ DAILY (19 feeds)
+  # Score every post, instant alert if score ≥ 8
+  # ---------------------------------------------------------------------------
+  tier1_must_read:
+    # --- Viral News Sources ---
+    - url: "https://hnrss.org/frontpage"
+      name: "HN Front Page"
+      why: "Predicts LinkedIn virality 24-48h ahead"
+    
+    - url: "https://www.404media.co/rss"
+      name: "404 Media"
+      why: "Investigative journalism on data/scraping/surveillance = instant viral posts"
+    
+    - url: "https://themarkup.org/feeds/rss.xml"
+      name: "The Markup"
+      why: "Data journalism = trusted source + viral format"
+    
+    - url: "https://techcrunch.com/feed/"
+      name: "TechCrunch"
+      why: "Funding rounds, AI launches, privacy scandals"
+    
+    # --- Direct Industry ---
+    - url: "https://blog.cloudflare.com/rss"
+      name: "Cloudflare Blog"
+      why: "Every bot mgmt post = 'what this means for data collection'"
+    
+    - url: "https://openai.com/blog/rss.xml"
+      name: "OpenAI Blog"
+      why: "AI releases → 'data infrastructure implications'"
+    
+    - url: "https://fingerprint.com/rss.xml"
+      name: "Fingerprint"
+      why: "Browser fingerprinting = our core technology space"
+    
+    - url: "https://privacysandbox.com/rss/"
+      name: "Privacy Sandbox"
+      why: "Cookie/tracking changes = industry disruption"
+    
+    # --- Community (real ICP pain points) ---
+    - url: "https://www.reddit.com/r/webscraping/top/.rss?t=week"
+      name: "r/webscraping Top Weekly"
+      why: "Curated real problems from our target audience"
+    
+    - url: "https://www.reddit.com/r/webscraping/.rss"
+      name: "r/webscraping"
+      why: "Real-time ICP discussions"
+    
+    # --- HN Keyword Searches ---
+    - url: "https://hnrss.org/newest?q=web+scraping"
+      name: "HN Web Scraping"
+      why: "Direct topic"
+    
+    - url: "https://hnrss.org/newest?q=bot+detection"
+      name: "HN Bot Detection"
+      why: "Anti-bot = our core narrative"
+    
+    - url: "https://hnrss.org/newest?q=captcha"
+      name: "HN CAPTCHA"
+      why: "CAPTCHA discussions = direct pain point"
+    
+    # --- Legal/Privacy (viral GDPR fines) ---
+    - url: "https://news.google.com/rss/search?q=data+privacy+GDPR+fine&hl=en-US&gl=US&ceid=US:en"
+      name: "GDPR News"
+      why: "Fines = viral posts with numbers"
+    
+    - url: "https://www.eff.org/rss/updates.xml"
+      name: "EFF"
+      why: "Digital rights + scraping law = thought leadership"
+    
+    # --- Data/Analytics Sources (for numbers posts) ---
+    - url: "https://simonwillison.net/atom/everything/"
+      name: "Simon Willison"
+      why: "#1 AI+data blogger, his posts go viral on HN/LinkedIn"
+    
+    - url: "https://proxyway.com/feed"
+      name: "Proxyway"
+      why: "Only independent proxy market reviewer"
+    
+    - url: "https://www.statista.com/chartoftheday/rss"
+      name: "Statista Daily Infographic"
+      why: "Ready-made visuals with numbers = instant posts"
+    
+    - url: "https://news.crunchbase.com/feed/"
+      name: "Crunchbase News"
+      why: "Competitor/market funding rounds with numbers"
+
+  # ---------------------------------------------------------------------------
+  # TIER 2: INDUSTRY INTEL (25 feeds)
+  # Score, include in daily digest if score ≥ 5
+  # ---------------------------------------------------------------------------
+  tier2_industry:
+    # --- Competitor Blogs ---
+    - url: "https://brightdata.com/blog/feed"
+      name: "Bright Data Blog"
+      why: "Competitor #1 (Rev $300M, 490 emp)"
+    
+    - url: "https://oxylabs.io/blog/rss.xml"
+      name: "Oxylabs Blog"
+      why: "Competitor #2 (Rev $44M, 500 emp)"
+    
+    - url: "https://smartproxy.com/blog/feed"
+      name: "Smartproxy Blog"
+      why: "Competitor #3 (120 emp, rebranded to Decodo)"
+    
+    - url: "https://blog.apify.com/rss.xml"
+      name: "Apify Blog"
+      why: "Fast-growing scraping platform (Rev $13M, 170 emp)"
+    
+    - url: "https://www.scrapingbee.com/index.xml"
+      name: "ScrapingBee"
+      why: "Adjacent scraping market"
+    
+    - url: "https://zyte.com/blog/feed/"
+      name: "Zyte Blog"
+      why: "Competitor (Rev $38M, 220 emp)"
+    
+    # --- Community ---
+    - url: "https://www.reddit.com/r/dataengineering/top/.rss?t=week"
+      name: "r/dataengineering Top"
+      why: "Broader data audience, pipeline topics = ICP"
+    
+    - url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=week"
+      name: "r/MachineLearning Top"
+      why: "AI training data discussions"
+    
+    - url: "https://www.reddit.com/r/selenium/.rss"
+      name: "r/selenium"
+      why: "Automation/testing, blocking problems = our use case"
+    
+    # --- HN Extended ---
+    - url: "https://hnrss.org/best"
+      name: "HN Best"
+      why: "Filtered best content"
+    
+    - url: "https://hnrss.org/newest?q=proxy"
+      name: "HN Proxy"
+    
+    - url: "https://hnrss.org/newest?q=anti-scraping"
+      name: "HN Anti-Scraping"
+    
+    - url: "https://hnrss.org/newest?q=data+collection"
+      name: "HN Data Collection"
+    
+    # --- Google News (industry + competitors) ---
+    - url: "https://news.google.com/rss/search?q=web+scraping&hl=en-US&gl=US&ceid=US:en"
+      name: "News Web Scraping"
+    
+    - url: "https://news.google.com/rss/search?q=AI+training+data&hl=en-US&gl=US&ceid=US:en"
+      name: "News AI Training Data"
+      why: "Hottest topic in 2025-2026"
+    
+    - url: "https://news.google.com/rss/search?q=web+scraping+lawsuit&hl=en-US&gl=US&ceid=US:en"
+      name: "News Scraping Lawsuits"
+      why: "Court cases = viral posts"
+    
+    # --- Tech/Platform ---
+    - url: "https://developer.chrome.com/static/blog/feed.xml"
+      name: "Chrome Dev Blog"
+      why: "Chrome changes = scraping impact"
+    
+    - url: "https://feeds.searchengineland.com/searchengineland"
+      name: "Search Engine Land"
+      why: "Google changes = SERP tracking ICP pain"
+    
+    - url: "https://feeds2.feedburner.com/ad-exchange-news"
+      name: "AdExchanger"
+      why: "Ad verification = ICP use case"
+    
+    - url: "https://digiday.com/feed/"
+      name: "Digiday"
+      why: "Media/data/privacy intersection"
+    
+    - url: "https://www.lawfaremedia.org/feeds/cybersecurity-tech"
+      name: "Lawfare Cyber"
+      why: "High-quality tech/law analysis"
+    
+    # --- Data/Analytics Sources ---
+    - url: "https://www.ben-evans.com/feed"
+      name: "Benedict Evans"
+      why: "Macro tech trends with data, viral charts"
+    
+    - url: "https://sparktoro.com/blog/feed/"
+      name: "SparkToro / Rand Fishkin"
+      why: "AI search + data quality, our ICP overlap"
+    
+    - url: "https://www.tomtunguz.com/feed/"
+      name: "Tomasz Tunguz"
+      why: "SaaS metrics, market data charts = viral"
+    
+    - url: "https://www.producthunt.com/feed"
+      name: "Product Hunt"
+      why: "New scraping/proxy/data tools = competitive intel"
+
+  # ---------------------------------------------------------------------------
+  # TIER 3: BACKGROUND RADAR (20 feeds)
+  # Score weekly, only ≥ 7 makes it to review
+  # ---------------------------------------------------------------------------
+  tier3_background:
+    # --- Tech News (selective) ---
+    - url: "https://feeds.arstechnica.com/arstechnica/index"
+      name: "Ars Technica"
+    
+    - url: "https://www.technologyreview.com/feed/"
+      name: "MIT Tech Review"
+    
+    - url: "https://blog.google/technology/ai/rss/"
+      name: "Google AI Blog"
+    
+    - url: "https://www.anthropic.com/rss.xml"
+      name: "Anthropic Blog"
+    
+    - url: "https://ai.meta.com/blog/rss/"
+      name: "Meta AI Blog"
+    
+    # --- Security/Anti-Bot ---
+    - url: "https://www.akamai.com/blog/feed"
+      name: "Akamai Blog"
+    
+    - url: "https://www.humansecurity.com/blog/rss.xml"
+      name: "HUMAN Security"
+    
+    - url: "https://www.imperva.com/blog/feed/"
+      name: "Imperva Blog"
+      why: "Annual Bad Bot Report = viral data"
+    
+    # --- Privacy/Legal ---
+    - url: "https://gdpr.eu/feed/"
+      name: "GDPR.eu"
+    
+    - url: "https://iapp.org/rss/"
+      name: "IAPP"
+    
+    - url: "https://techpolicy.press/feed/"
+      name: "Tech Policy Press"
+    
+    - url: "https://www.lawfaremedia.org/feeds/surveillance-privacy"
+      name: "Lawfare Privacy"
+    
+    # --- Broader Perspective ---
+    - url: "https://restofworld.org/feed/latest/"
+      name: "Rest of World"
+      why: "Non-US stories for global ICP"
+    
+    - url: "https://www.platformer.news/rss/"
+      name: "Platformer"
+      why: "Platform policy changes → data access"
+    
+    - url: "https://a16z.com/feed/"
+      name: "a16z Blog"
+      why: "AI infrastructure trends, market sizing"
+    
+    - url: "https://review.firstround.com/feed.xml"
+      name: "First Round Review"
+      why: "Startup growth tactics with case studies"
+    
+    # --- Web Infrastructure ---
+    - url: "https://github.com/microsoft/playwright/releases.atom"
+      name: "Playwright Releases"
+    
+    - url: "https://github.com/puppeteer/puppeteer/releases.atom"
+      name: "Puppeteer Releases"
+    
+    - url: "https://httparchive.org/blog/feed"
+      name: "HTTP Archive"
+      why: "Web scale data for 'Data Point' posts"
+    
+    - url: "https://w3techs.com/blog/feed"
+      name: "W3Techs"
+      why: "Technology adoption stats"
+
+  # ---------------------------------------------------------------------------
+  # COMPETITOR WATCH (12 feeds)
+  # Always in digest, separate section, never skip
+  # ---------------------------------------------------------------------------
+  competitor_watch:
+    # --- Google News Alerts for Top Competitors ---
+    - url: "https://news.google.com/rss/search?q=%22Bright+Data%22+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Bright Data"
+      tier: "must_monitor"
+      competitor_revenue: "$300M"
+    
+    - url: "https://news.google.com/rss/search?q=Oxylabs+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Oxylabs"
+      tier: "must_monitor"
+      competitor_revenue: "$44M"
+    
+    - url: "https://news.google.com/rss/search?q=Smartproxy+OR+Decodo+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Smartproxy/Decodo"
+      tier: "must_monitor"
+    
+    - url: "https://news.google.com/rss/search?q=NetNut+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: NetNut"
+      tier: "must_monitor"
+      competitor_revenue: "$31M"
+    
+    - url: "https://news.google.com/rss/search?q=IPRoyal+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: IPRoyal"
+      tier: "rising_threat"
+      competitor_employees: 140
+    
+    - url: "https://news.google.com/rss/search?q=Webshare+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Webshare"
+      tier: "rising_threat"
+      competitor_revenue: "$7.6M"
+    
+    - url: "https://news.google.com/rss/search?q=SOAX+proxy&hl=en-US&gl=US&ceid=US:en"
+      name: "News: SOAX"
+      tier: "watch"
+    
+    - url: "https://news.google.com/rss/search?q=Apify+scraping&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Apify"
+      tier: "adjacent"
+      competitor_revenue: "$13M"
+    
+    - url: "https://news.google.com/rss/search?q=Zyte+scraping&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Zyte"
+      tier: "adjacent"
+      competitor_revenue: "$38M"
+    
+    - url: "https://news.google.com/rss/search?q=%22residential+proxy%22+market&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Residential Proxy Market"
+      tier: "market"
+    
+    - url: "https://news.google.com/rss/search?q=DataImpulse&hl=en-US&gl=US&ceid=US:en"
+      name: "News: DataImpulse (self)"
+      tier: "self_monitor"
+    
+    - url: "https://news.google.com/rss/search?q=Nimble+proxy+OR+Nimbleway&hl=en-US&gl=US&ceid=US:en"
+      name: "News: Nimble"
+      tier: "watch"
